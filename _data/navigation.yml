@@ -7,7 +7,7 @@ main:
     url: /schedule/
 
   - title: "Modules"
-    url: /publications/
+    url: /modules/
 
   - title: "Assignments"
     url: /year-archive/
