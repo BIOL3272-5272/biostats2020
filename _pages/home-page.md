@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
-## [Syllabus]() | [Course Schedule]()
+## [Syllabus](https://biol3272-5272.github.io/biostats2020//syllabus/) | [Course Schedule](https://biol3272-5272.github.io/biostats2020//schedule/)
 
 **Instructor:** [Yaniv Brandvain](https://cbs.umn.edu/contacts/yaniv-brandvain), ybrandva@umn.edu
 
