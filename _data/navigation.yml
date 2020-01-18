@@ -10,7 +10,7 @@ main:
     url: /modules/
 
   - title: "Assignments"
-    url: /year-archive/
+    url: /assignments/
 
   - title: "Additional Resources"
     url: /resources/

@@ -181,6 +181,9 @@ collections:
   modules:
     output: true
     permalink: /:collection/:path/
+  assignments:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -191,7 +194,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts -> _assignments
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -222,6 +225,15 @@ defaults:
   - scope:
       path: ""
       type: modules
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _assignments
+  - scope:
+      path: ""
+      type: assignments
     values:
       layout: single
       author_profile: true
