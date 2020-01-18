@@ -1,22 +1,25 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Syllabus"
+    url: /syllabus/
+
+  - title: "Schedule"
+    url: /schedule/
+
+  - title: "Modules"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+  - title: "Assignments"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
+
+  - title: "Additional Resources"
     url: /markdown/
+
+#   - title: "Talks"
+#     url: /talks/
+
+#   - title: "Teaching"
+#     url: /teaching/
+
+#   - title: "Portfolio"
+#     url: /portfolio/
