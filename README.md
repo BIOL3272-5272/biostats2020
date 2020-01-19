@@ -1,12 +1,50 @@
 # Website for BIOL 3272/5272 Spring 2020
 
-**Link for website:** https://biol3272-5272.github.io/biostats2020/
+**Link for website:** https://biol3272-5272.github.io/biostats2020
 
 This is the Github page for the course website.
 
+## Modifying content for the course
+
+To preview changes locally, install [Jekyll](https://jekyllrb.com/docs/installation/) and run the following from inside the Github repo each time you want to preview your changes:
+
+```bash
+bundle exec jekyll serve
+```
+
+This will generate a server address that you can paste into your browser to see changes locally before pushing the changes to Github.
+
+**Home page**
+
+To update content, modify the markdown file under `_pages/home-page.md`.
+
+**Syllabus**
+
+To update content, modify the markdown file under `_pages/syllabus.md`.
+
+**Schedule**
+
+To update content, modify the markdown file under `_pages/schedule.md`. Google spreadsheet of the schedule is embedded on the page and gets updated automatically.
+
+**Modules**
+
+These consist of links to all slides and in-class material. Each markdown file contains material for one class. For new classes, add markdown files with the naming scheme `year-month-day-classxx.md`.
+
+**Assignments**
+
+Links to assignments and Canvas submission links. Each markdown file contains material for one submission. For new submission links, add markdown files with the naming scheme `year-month-day-assignmentxx.md`.
+
+**Additional Resources**
+
+To update content, modify the markdown file under `_pages/resources.md`.
+
+#### Additional documentation for modifying site content
+
+Please see [this reference](https://github.com/academicpages/academicpages.github.io/blob/master/_pages/archive-layout-with-content.md) for a variety of common markup showing how the theme styles them.
+
 ---
 
-## Helpful instructions
+## Helpful instructions for website setup
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
