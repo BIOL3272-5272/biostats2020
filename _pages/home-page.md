@@ -16,19 +16,28 @@ redirect_from:
 
 **Teaching Assistant:** Chaochih Liu, liux1299@umn.edu
 
-* All the course materials are found in Modules.
-
 Additional Course Information
 MWF, 10:15 AM - 11:30 AM
 Biological Sciences Center 64 (St. Paul Campus)
 
 ### Office Hours:
 
-### Textbook:
+**Yaniv Brandvain:** TBD
+
+232 Cargill Building
+1500 Gortner Avenue
+St. Paul, MN 55108
+
+**Chaochih Liu:** Friday 9:45 am-10:15 am and 11:30 am-12:00 pm
+
+BioSci Ctr 64 (same room as the class)
+
+### Textbook
+
+“The Analysis of Biological Data” by Michael Whitlock and Dolph Schluter
+- It is highly recommended, but not required. Any edition will do.
 
 ### Equipment Requirement:
 Every student needs to bring a laptop computer with R installed to the class. (We will help you with R installation in the first class.)
 
 ### Computing Environments Required for the Course:
-
-### Additional Resources:

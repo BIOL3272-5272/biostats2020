@@ -14,6 +14,8 @@ bundle exec jekyll serve
 
 This will generate a server address that you can paste into your browser to see changes locally before pushing the changes to Github.
 
+All draft markdown files can be stored in `_drafts`. Even if these are pushed to Github, these will not be shown on the website.
+
 **Home page**
 
 To update content, modify the markdown file under `_pages/home-page.md`.
@@ -28,11 +30,11 @@ To update content, modify the markdown file under `_pages/schedule.md`. Google s
 
 **Modules**
 
-These consist of links to all slides and in-class material. Each markdown file contains material for one class. For new classes, add markdown files with the naming scheme `year-month-day-classxx.md`.
+These consist of links to all slides and in-class material. Each markdown file contains material for one week of class. For new classes/weeks, add markdown files with the naming scheme `year-month-day-weekXX.md`.
 
 **Assignments**
 
-Links to assignments and Canvas submission links. Each markdown file contains material for one submission. For new submission links, add markdown files with the naming scheme `year-month-day-assignmentxx.md`.
+Links to assignments and Canvas submission links. Each markdown file contains material for one submission. For new submission links, add markdown files with the naming scheme `year-month-day-assignmentXX.md`.
 
 **Additional Resources**
 
