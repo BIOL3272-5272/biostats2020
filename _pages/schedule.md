@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <!-- Edit below this line -->
-<!-- Note: schedule.md file will be auto generated from spreadsheet -->
 
-Placeholder
+<a href="https://docs.google.com/spreadsheets/d/1m1a_KQU8D0cg4O8SP-h0Ac-fD2H4w8fg5k1lW5isPdY/edit?usp=sharing"> Click here to access the Google spreadsheet. </a>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTEhmtmVr1FsOjYQTVO4WZeCS8JzkAaRvqArnkSuPZ91-oozgM0S26oXuH2mUAxHcpChL-3vZfS6PN5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="600px" width="900px" frameborder="0"></iframe>
