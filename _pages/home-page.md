@@ -10,34 +10,36 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
-## [Syllabus](https://biol3272-5272.github.io/biostats2020/syllabus/) | [Course Schedule](https://biol3272-5272.github.io/biostats2020/schedule/)
+# [Syllabus](https://biol3272-5272.github.io/biostats2020/syllabus/) | [Course Schedule](https://biol3272-5272.github.io/biostats2020/schedule/)
 
 **Instructor:** [Yaniv Brandvain](https://cbs.umn.edu/contacts/yaniv-brandvain), ybrandva@umn.edu
 
 **Teaching Assistant:** Chaochih Liu, liux1299@umn.edu
 
-Additional Course Information
-MWF, 10:15 AM - 11:30 AM
+### Additional Course Information
+
+MWF 10:15 AM - 11:30 AM<br/>
 Biological Sciences Center 64 (St. Paul Campus)
 
-### Office Hours:
+## Office Hours
 
-**Yaniv Brandvain:** TBD
+**Yaniv Brandvain:** TBD<br/>
+Location: TBD
 
-232 Cargill Building
-1500 Gortner Avenue
-St. Paul, MN 55108
+**Chaochih Liu:** TBD<br/>
+Location: TBD
+<!-- Fridays 9:45 am-10:15 am and 11:30 am-12:00 pm<br/>
+Location: BioSci Ctr 64 (same room as the class) -->
 
-**Chaochih Liu:** Friday 9:45 am-10:15 am and 11:30 am-12:00 pm
-
-BioSci Ctr 64 (same room as the class)
-
-### Textbook
+## Textbook
 
 “The Analysis of Biological Data” by Michael Whitlock and Dolph Schluter
+
 - It is highly recommended, but not required. Any edition will do.
+- Students who have bought the book have really appreciated it, especially when they read it before class
 
-### Equipment Requirement:
-Every student needs to bring a laptop computer with R installed to the class. (We will help you with R installation in the first class.)
+### Equipment Requirement
 
-### Computing Environments Required for the Course:
+As a modern statistics course, we conduct data analysis, generate figures etc in the R statistical language. Every student needs to bring a laptop computer with R installed to the class (we will help you with R installation in the first class). Email us with questions and / or if you cannot bring a computer to class, and we will work something out.
+
+Other resources / books of interest / resources we may use / you might find useful can be found on the [Additional Resources page](https://biol3272-5272.github.io/biostats2020/resources/).

@@ -9,14 +9,6 @@ author_profile: true
 
 <!-- Edit below this line -->
 
-BIOL 3272/5272 (001) Applied Biostatistics (Spring 2020)
-======
+# BIOL 3272/5272 (001) Applied Biostatistics (Spring 2020)
 
-### Prerequisites:
-
-- I will teach you all the R you need to know in class (there is no R prerequisite)
-
-### Textbook
-
-“The Analysis of Biological Data” by Michael Whitlock and Dolph Schluter
-- It is highly recommended, but not required. Any edition will do.
+Please take a look at the [course policies / understanding document](https://docs.google.com/document/d/1LjiYL4kl_CBi2EH3x_cBQloeLaAUoFzsUjIEuYY6Xxo/edit?usp=sharing).

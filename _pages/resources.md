@@ -26,3 +26,35 @@ The following primers from RStudio.com are very helpful:
 Free e-book: [R for Data Science](https://r4ds.had.co.nz/)
 
 - With a focus on chapters 1-7, 9-12, 15, 17–20. The beginning of each chapter is more useful than the end of each chapter.
+
+### Other resources, books of interest, resources we may use/you might find useful
+
+Thinking about stats
+
+- [Seeing theory](https://seeing-theory.brown.edu/)
+- [Modern Statistics for Biology](http://web.stanford.edu/class/bios221/book/)
+- [datacamp](https://www.datacamp.com/home)
+- [modern dive](https://moderndive.com/)
+- [Visualizations from W&S](http://www.zoology.ubc.ca/~whitlock/Kingfisher/KFhomepage.htm)
+
+R cheatsheets
+
+- [RStudio](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
+- [dplyr](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
+- [ggplot2](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
+- [base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
+- [RMarkdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+- See all the cheatsheets [here](https://www.rstudio.com/resources/cheatsheets/#ide)
+
+More R resources
+
+- [Intro R for genomics](https://carpentrieslab.github.io/genomics-r-intro/)
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [Advanced R](https://adv-r.hadley.nz/)
+
+Data Viz
+
+- [Data Viz: A practical intro (R focussed)](https://socviz.co/)
+- [Fundamentals of Data Viz (conceptual)](https://serialmentor.com/dataviz/)
+
+[Youtube channel](https://www.youtube.com/channel/UCn9LZMDf0A2m_cQHbZt9OJQ?view_as=subscriber) of former student working through tidyverse examples.
