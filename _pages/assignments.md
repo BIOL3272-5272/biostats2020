@@ -5,7 +5,7 @@ permalink: /assignments/
 author_profile: true
 ---
 
-All assignments can be accessed through this page and will be submitted through Canvas (linked within each assignments page).
+All assignments can be accessed through this page and will be submitted either in class or through Canvas (linked within each assignments page).
 
 {% include base_path %}
 
