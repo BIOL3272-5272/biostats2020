@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "In-class Modules"
+title: "Detailed descriptions and resorouces for each class"
 permalink: /modules/
 author_profile: true
 ---
@@ -9,6 +9,6 @@ To access class slides and materials, please click on the links for each week be
 
 {% include base_path %}
 
-{% for post in site.modules %}
+{% for post in site.modules reversed %}
   {% include archive-single.html %}
 {% endfor %}
