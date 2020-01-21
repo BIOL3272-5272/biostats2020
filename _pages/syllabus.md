@@ -94,5 +94,5 @@ Students will not be penalized for absence during the semester due to unavoidabl
 **Appropriate student use of classroom notes and materials**      
 Taking notes is a means of recording information but more importantly of personally absorbing and integrating the educational experience. However, broadly disseminating class notes beyond the classroom community or accepting compensation for taking and distributing classroom notes undermines instructor interests in their intellectual work product while not substantially furthering instructor and student interests in effective learning. Such actions violate shared norms/standards of the academic community. For additional information, please see this [link](https://policy.umn.edu/education/studentresp).  
 
-**Grading and Transcripts**  m  
+**Grading and Transcripts**    
 The University utilizes plus and minus grading on a 4.000 cumulative grade point scale (see above, and this [link](https://policy.umn.edu/education/gradingtranscripts))
