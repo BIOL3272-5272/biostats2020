@@ -11,7 +11,7 @@ author_profile: true
 
 # BIOL 3272/5272 (001) Applied Biostatistics (Spring 2020)
 
-**Overall teaching philosophy.** 
+**Overall teaching philosophy.**  
 I view teaching and learning as a collaboration. This means, that in addition to engaging with the material, scholars should engage with how they are learning / how I am teaching and how this can be improved. Feedback regarding teaching effectiveness / workload etc.. is highly encouraged. I hope to work together with you to make this a fantastic course!
 
 **What has changed this term and why.**  
@@ -19,7 +19,8 @@ In our attempts to improve the course I have made numerous changes this term (be
 
 The most significant change is that we will cover major concepts etc… at home by reading the slides (and/or) book. You are responsible for working through this before class, and there will be low stakes homeworks and quizzes every class to ensure you're keeping up with it.  That said, you don't need to memorize or even understand everything in the slides, come to class with questions, and goals! This will allow us to do more coding and thinking together in class. I am hoping this decreases your workload and pain, while increasing your abilities in R your understanding of statistics.
 
-**Goals: What you should learn** "By the end of this course...:
+**Goals: What you should learn**   
+"By the end of this course...:  
 
 *Students should be statistical thinkers.* Students will recognize that data are comprised of observations that partially reflect chance sampling, & that a major goal of statistics is to incorporate this idea of chance into our interpretation of observations. Thinking this way can be challenging because it is a fundamentally new way to think about the world. Once this is mastered, much of the material follows naturally. Until then, it’s more confusing.  
 
@@ -31,70 +32,30 @@ The most significant change is that we will cover major concepts etc… at home 
 
 *Students should be able to conduct the entire process of data analysis in R.* Students will be able to utilize the statistical language, R, to summarize, analyze, and combine data to make appropriate visualizations and to conduct appropriate statistical tests.
 
-**Pragmatic Stuff** .  
+**Pragmatic Stuff**     
 - *Prof office hours* TBD   
-- *TA office hours* TBD 
-- *Group study times* TBD.  
-- *Textbook*: The Analysis of Biological Data By Michael Whitlock and Dolph Schluter [link to book website, which has good resources](https://whitlockschluter3e.zoology.ubc.ca/). It is not required, but you will use it heavily & students have loved it. Any edition is ok.
-- *Other resources* Can be found [here](https://biol3272-5272.github.io/biostats2020/resources/). 
-- *Computers in class:* We will do a lot of computer work in class, so bring your computers to each session. If you cannot bring a computer to class, email yaniv, and he will find a loaner. While we NEED computers they also provide disctractions and hinder performance Of you AND your neighbors. So you are discouraged from using computers in class during lectures discussion [close your laptops please]
+- *TA office hours* TBD   
+- *Group study times* TBD.    
+- *Textbook*: The Analysis of Biological Data By Michael Whitlock and Dolph Schluter [link to book website, which has good resources](https://whitlockschluter3e.zoology.ubc.ca/). It is not required, but you will use it heavily & students have loved it. Any edition is ok.   
+- *Other resources* Can be found [here](https://biol3272-5272.github.io/biostats2020/resources/).   
+- *Computers in class:* We will do a lot of computer work in class, so bring your computers to each session. If you cannot bring a computer to class, email yaniv, and he will find a loaner. While we NEED computers they also provide disctractions and hinder performance Of you AND your neighbors. So you are discouraged from using computers in class during lectures discussion [close your laptops please].  
 
 **Grad and honors students:** Will have additional assignments & exam qs. These can be completed as extra credit by the rest of the class. I will make grad / honors topics clear. I recognize that different graduate students need different things and are coming from different starting spots, so let's all talk about this. 
 
-Grading
-Grades* 15% Homework | 15% Classwork / Participation / Quizzes | 15% Projects | 25% Problem Sets | 30% Exams | 2% Extra Credit   * This is an approximate breakdown.
+**Grading**    
+*Grades:* 10% Classwork / Participation / Quizzes | 10% Regular homework (graded for effort) | 30% Midterm + Final | 10%  Lower stakes tests | 30% Problem sets | 10% Final Porject   * This is an approximate breakdown.
 
-min%
-98
-95
-90
-87
-83
-80
-77
-74
-70
-67
-64
-60
-0
-Grade
-A+
-A
-A-
-B+
-B
-B-
-C+
-C
-C-
-D+
-D
-D-
-F
-GP
-4
-4
-11/3
-10/3
-3
-8/3
-7/3
-2
-5/3
-4/3
-1
-2/3
-0
-]
-Ongoing point tally available to be made available shortly
-Class Participation: SHOW UP EVERYDAY THAT YOU CAN. There are points for attendance each class. Students can lose attendance points by (1) Not showing up (2) Being a poor team member (3) Not engaging with questions when called on, or (4)  Being disruptive. If you must miss a cass let me know.
+|min %  | 98   | 95   | 90  | 87  | 83  |80   |77   |74   |70   |  67 | 64  | 60  |0   |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Grade   | A+  |A   |A-   | B+  | B  | B-  | C+  | C  | C-  | D+  | D  |D-   | F  |
+|  GP | 4  | 4  | 11/3  | 10/3  |3   |8/3   |7/3   | 2  | 5/3  | 4/3  |1   |2/3   |0   |  
+
+
+*Class Participation:* SHOW UP EVERYDAY THAT YOU CAN. (Nearly) Every day there is a low stakes quiz andclasswork due. In addition you can lose attendance points by (1) Being a poor team member (2) Not engaging with questions when called on, or (3)  Being disruptive. If you must miss a cass let me know, and we 
 Frequent low stakes quizzes & or classwork:  Most classes will include a small quiz and / or in class work .Your three lowest participation + quizzes will be thrown out. These should be easy points Email me for accommodations if necessary
-Homework: There will be homework for each class. This is often a reading and/or datacamp assignment paired with a short reflection. These are due each M/W/F at 10:00 am.
-I have estimated the amount of time required for each assignment on the schedule. Summing these hours and adding 75 min classes * 44 classes for the term equals approx 180 hours.  Consistent with a four credit class. 
-Problem sets: There are three take home problem sets over the term. You may work in pairs, but everyone must turn in their own work that reflects their understanding of the material. 
-Projects: A major goal of the class is to have you be able to responsibly analyze real data. There will be one major independent data analysis project and numerous group projects. 
-Tests: There will be two exams over the term. 
+*Homework:* There will be homework for each class. This is often a reading and/or datacamp assignment paired with a short reflection. These are due each M/W/F at 10:00 am.
+ to responsibly analyze real data. There will be one major independent data analysis project and numerous group projects. 
+*Tests:* There will be two exams over the term. 
 
 Policy on Homework
 Unexcused late homework / projects / class work / problem sets are not accepted.
