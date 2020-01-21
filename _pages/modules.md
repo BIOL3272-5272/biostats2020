@@ -5,7 +5,7 @@ permalink: /modules/
 author_profile: true
 ---
 
-To access class slides and materials, please click on the links for each week below.
+This is the location of the most comprehensive guide to each class / week / homework. A one stop shop. Click on the links for each week below.
 
 {% include base_path %}
 
