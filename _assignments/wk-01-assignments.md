@@ -1,5 +1,5 @@
 ---
-title: "Assignments due during week one (1/22 or 1/24)"
+title: "Wk_01 (1/22 and 1/24)"
 collection: assignments
 permalink: /assignments/wk-01-assignments
 ---
