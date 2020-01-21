@@ -1,7 +1,7 @@
 ---
 title: "Assignment 2 - due 1/29"
 collection: assignments
-permalink: /assignments/2020-01-22-assignment1
+permalink: /assignments/2020-01-24-assignment2
 ---
 
 ### Homework 2: Ch2 Slide-based Qs. Make a plot. Critique it.
