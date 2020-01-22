@@ -13,8 +13,8 @@ The general schedule for assignments is that there is:
 - Tuning in your efforts from class, due at the end of each class (graded for effort).     
 - A more substantial evaluation (prooblem set, test, midterm, project) about every two weeks.
 
-{% include base_path %}
+<!--- {% include base_path %}--->
 
 {% for post in site.assignments reversed %}
-<!---  {% include archive-single-assignment.html %}--->
+  {% include archive-single-assignment.html %}
 {% endfor %}
