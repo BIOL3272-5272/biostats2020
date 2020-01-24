@@ -34,13 +34,11 @@ Biological Sciences Center 64 (St. Paul Campus)
 
 ## Office Hours
 
-**Yaniv Brandvain:** TBD<br/>
-Location: MWF 9:30 -10:15 Biological Sciences Center 64 (St. Paul Campus), or by email
+**Yaniv Brandvain:** MWF 9:30 - 10:15 am<br/>
+Location: Biological Sciences Center 64 (St. Paul Campus), or by email
 
-**Chaochih Liu:** TBD<br/>
-Location: TBD
-<!-- Fridays 9:45 am-10:15 am and 11:30 am-12:00 pm<br/>
-Location: BioSci Ctr 64 (same room as the class) -->
+**Chaochih Liu:** F 9:30 - 10:15 am<br/>
+Location: Biological Sciences Center 64 (St. Paul Campus), or by email
 
 ## Textbook
 
