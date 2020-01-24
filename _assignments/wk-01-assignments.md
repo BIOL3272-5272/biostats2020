@@ -12,9 +12,11 @@ permalink: /assignments/wk-01-assignments
 
 **Classwork:**
 - DUE 1/22 [Classwork_01](https://drive.google.com/uc?export=download&id=0Bze1RelLJCQRMDlaNGZHcnZyR3FDTVlETGx6dlRXdDN2TDNz) accompanies [these slides](https://drive.google.com/uc?export=download&id=10LoIiCXo_mQWX3FN8DprTFlH_yQJSaBb) on the intro to stats thinking.
-- DUE 1/24 TBD.
+- DUE 1/24 **Classwork**: Here's to [.doc](https://drive.google.com/open?id=1SmRSxv2A5RD2JyyKRgDMiCfB0MqI7TqN) [given as handout]. **Be sure to upload your .R file [here](https://canvas.umn.edu/courses/151855/assignments/994090)**.   
+Note here's the link to the file you're downloading  https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02e3bHumanHemoglobinElevation.csv   
+Also, here's a nice discussion of folder structure, projects in R, and loading data [link](https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner's-guide/).  
 
 
 **Quizzes:**
 - 1/22 NA.
-- 1/24 TBD.
+- 1/24 [Link](https://canvas.umn.edu/courses/151855/quizzes/235700).
