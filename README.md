@@ -44,6 +44,10 @@ To update content, modify the markdown file under `_pages/resources.md`.
 
 Please see [this reference](https://github.com/academicpages/academicpages.github.io/blob/master/_pages/archive-layout-with-content.md) for a variety of common markup showing how the theme styles them.
 
+#### Adding anchors to headings within .md files (aka smartlinks)
+
+See here for how to do this: https://gist.github.com/rachelhyman/b1f109155c9dafffe618
+
 ---
 
 ## Helpful instructions for website setup
