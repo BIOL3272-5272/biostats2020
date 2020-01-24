@@ -46,7 +46,9 @@ Please see [this reference](https://github.com/academicpages/academicpages.githu
 
 #### Adding anchors to headings within .md files (aka smartlinks)
 
-See here for how to do this: https://gist.github.com/rachelhyman/b1f109155c9dafffe618
+See here for how to do this: https://github.com/fefong/markdown_readme#anchor-links
+
+Or here: https://gist.github.com/rachelhyman/b1f109155c9dafffe618
 
 ---
 
