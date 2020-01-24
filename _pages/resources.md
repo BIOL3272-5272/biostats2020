@@ -11,7 +11,7 @@ author_profile: true
 
 Below are some additional resources and references you may find helpful throughout the course. These will be continuously updated, so stay tuned!
 
-## Sections on this page
+## Jump to sections on this page
 
 - [Getting started](#getting-started)
 - [Getting started with R Markdown](#getting-started-with-r-markdown)
