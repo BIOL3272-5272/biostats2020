@@ -58,3 +58,29 @@ Data Viz
 - [Fundamentals of Data Viz (conceptual)](https://serialmentor.com/dataviz/)
 
 [Youtube channel](https://www.youtube.com/channel/UCn9LZMDf0A2m_cQHbZt9OJQ?view_as=subscriber) of former student working through tidyverse examples.
+
+---
+
+### Getting started with R Markdown
+
+R markdown comes installed with RStudio, however if you are running into errors when knitting an Rmarkdown file or find you want to get your own copy of `rmarkdown` from CRAN, you can run the following:
+
+```R
+# Running this also installs the following dependencies:
+# ‘highr’, ‘markdown’, ‘knitr’, ‘evaluate’, ‘base64enc’, ‘mime’, ‘tinytex’, ‘xfun’
+install.packages("rmarkdown")
+```
+
+RStudio has a helpful and quick intro to R Markdown that you can find [here](https://rmarkdown.rstudio.com/articles_intro.html).
+
+If you run into error messages when you try to knit an Rmarkdown file to **output a PDF** that says something along the lines of missing the `tinytex` package, you can install `tinytex` with the following lines:
+
+```R
+install.packages("tinytex")
+tinytex::install_tinytex()  # install TinyTeX
+```
+
+Rmarkdown needs LaTeX installed to generate a PDF output when you knit an Rmarkdown file.
+
+If you are still running into additional errors with Rmarkdown, please email Yaniv and/or Chaochih.
+
