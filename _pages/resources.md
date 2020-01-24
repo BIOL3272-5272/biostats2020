@@ -11,6 +11,13 @@ author_profile: true
 
 Below are some additional resources and references you may find helpful throughout the course. These will be continuously updated, so stay tuned!
 
+## Sections on this page
+
+- [Getting started](#getting-started)
+- [Getting started with R Markdown](#getting-started-with-r-markdown)
+
+---
+
 ### Getting started
 
 - [How to install R](https://stat545.com/install.html)
@@ -65,7 +72,7 @@ Data Viz
 
 R markdown comes installed with RStudio, however if you are running into errors when knitting an Rmarkdown file or find you want to get your own copy of `rmarkdown` from CRAN, you can run the following:
 
-```R
+```r
 # Running this also installs the following dependencies:
 # ‘highr’, ‘markdown’, ‘knitr’, ‘evaluate’, ‘base64enc’, ‘mime’, ‘tinytex’, ‘xfun’
 install.packages("rmarkdown")
@@ -75,7 +82,7 @@ RStudio has a helpful and quick intro to R Markdown that you can find [here](htt
 
 If you run into error messages when you try to knit an Rmarkdown file to **output a PDF** that says something along the lines of missing the `tinytex` package, you can install `tinytex` with the following lines:
 
-```R
+```r
 install.packages("tinytex")
 tinytex::install_tinytex()  # install TinyTeX
 ```
