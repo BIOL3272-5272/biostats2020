@@ -11,7 +11,6 @@ permalink: /assignments/wk-02-assignments
 - DUE 1/29 in class. [Hw_03](https://drive.google.com/open?id=0Bze1RelLJCQRLWhVSURRQmZmSlRCbGEwMDQtbFJYelBkeE8w), based off of [Slides from Ch_02](https://drive.google.com/uc?export=download&id=10u34nhPadkPAiTB9wv8NDaeCIYj9NNQW) + [Calling Bullshit](https://callingbullshit.org/videos.html) + [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/).
 - DUE 1/31 TBD.
 
-https://drive.google.com/open?id=0Bze1RelLJCQRLWhVSURRQmZmSlRCbGEwMDQtbFJYelBkeE8w
 **Classwork:**
 - DUE 1/27 TBD.
 - DUE 1/29 TBD.
