@@ -12,7 +12,7 @@ permalink: /assignments/wk-02-assignments
 - DUE 1/31 TBD.
 
 **Classwork:**
-- DUE 1/27 TBD.
+- DUE 1/27 [Worksheet](https://drive.google.com/open?id=1qbCkcX0z8lzIX_JpkkyCDo3Tkv1SI8qx) turn in worksheet [here](https://canvas.umn.edu/courses/151855/assignments/996524), [Data set](https://drive.google.com/open?id=1N0X_CiwcXOsPeetRpclHlLjGSHPkT-L2).   
 - DUE 1/29 TBD.
 - DUE 1/31 TBD.
 
