@@ -16,7 +16,7 @@ redirect_from:
 2. Here is today's [R Script](https://drive.google.com/open?id=1bIn1rpjLAQVH7AXphIE6vXrx4WdyLCJJ), as well as the [RMarkdown file](https://drive.google.com/open?id=1Qlj63Ho5y0JsZjLJepHGDCdNs6JMNDbx) and the [compiled pdf](https://drive.google.com/open?id=1ccT2qz9AJmmO26-bAuZFY7GSp1_T7V2d).
 3. Remember to turn in your effort on todays RScript [here](https://canvas.umn.edu/courses/151855/assignments/994090) and make sure you finished [the quiz](https://canvas.umn.edu/courses/151855/quizzes/235700).
 4. Check out theis [link](https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner's-guide/) for more help on R projects.
-5. Yaniv Will have office hours at 9:30 - 10:00 am MWF in the classroom
+5. Yaniv Will have office hours at 9:30 - 10:00 am MWF in the classroom. Chaochih will have office hours at 9:15 - 10:15 am on Fridays in the classroom.
 
 ---
 
@@ -38,7 +38,7 @@ Biological Sciences Center 64 (St. Paul Campus)
 **Yaniv Brandvain:** MWF 9:30 - 10:15 am<br/>
 Location: Biological Sciences Center 64 (St. Paul Campus), or by email
 
-**Chaochih Liu:** F 9:30 - 10:15 am<br/>
+**Chaochih Liu:** F 9:15 - 10:15 am<br/>
 Location: Biological Sciences Center 64 (St. Paul Campus), or by email
 
 ## Textbook
