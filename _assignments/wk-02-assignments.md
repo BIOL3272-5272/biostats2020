@@ -21,5 +21,5 @@ permalink: /assignments/wk-02-assignments
 
 **Quizzes:**
 - DUE 1/27 [Link](https://canvas.umn.edu/courses/151855/quizzes/236368).
-- DUE 1/29 TBD.
+- DUE 1/29 [Link](https://canvas.umn.edu/courses/151855/quizzes/236986)
 - DUE 1/31 TBD.
