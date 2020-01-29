@@ -12,16 +12,8 @@ permalink: /assignments/wk-02-assignments
 - DUE 1/31 TBD.
 
 **Classwork:**
-- DUE 1/27 turn in [here](https://canvas.umn.edu/courses/151855/assignments/999862)  [Worksheet](https://drive.google.com/open?id=1qbCkcX0z8lzIX_JpkkyCDo3Tkv1SI8qx) turn in worksheet [here](https://canvas.umn.edu/courses/151855/assignments/996524), [Data set](https://drive.google.com/open?id=1N0X_CiwcXOsPeetRpclHlLjGSHPkT-L2).    [key](https://drive.google.com/open?id=1LeAOfuKe4V93bY6FQNp9vSfwaDCjmx9r).
-- DUE 1/29  [Worksheet](https://drive.google.com/open?id=19MNekjbCk7nSwOkrkbBYgfTqbt8QFtgp). Data sets:   
-stickleback plates [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03e3SticklebackPlates.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03e3SticklebackPlates.csv) .   
-tiger deaths [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02e2aDeathsFromTigers.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02e2aDeathsFromTigers.csv)          
-mammals [https://gist.githubusercontent.com/yppmark/d907dc265a84cac76ba7/raw/5b8a1c8df62cde2ba2b599cfa6404c6fd165ca02/SleepInMammals.csv](https://gist.githubusercontent.com/yppmark/d907dc265a84cac76ba7/raw/5b8a1c8df62cde2ba2b599cfa6404c6fd165ca02/SleepInMammals.csv)        
-schizophrenia & famine [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q07FamineSchizophrenia.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q07FamineSchizophrenia.csv)   
-photsynthesis [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q26NeotropicalTreePhotosynthesis.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q26NeotropicalTreePhotosynthesis.csv)    
-food intake and lifespan  [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q35FoodReductionLifespan.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q35FoodReductionLifespan.csv)   
-monogamous voles  [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03q15VasopressinVoles.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03q15VasopressinVoles.csv)       
-bindin  [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03q28SeaUrchinBindin.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03q28SeaUrchinBindin.csv)        
+- DUE 1/27 turn in [here](https://canvas.umn.edu/courses/151855/assignments/999862)  [Worksheet](https://drive.google.com/open?id=1qbCkcX0z8lzIX_JpkkyCDo3Tkv1SI8qx) 
+- Due 1/29 Turn in worksheet [here](https://canvas.umn.edu/courses/151855/assignments/996524)   Worksheet [here](https://drive.google.com/open?id=19MNekjbCk7nSwOkrkbBYgfTqbt8QFtgp), key as [pdf](https://drive.google.com/open?id=1BpomIX7jSPPqfH1pCIwh3r35WCvSXx5W) or [rmd](https://drive.google.com/open?id=1Cn1uh2P8OaHNXyaDsEMycOdPGIZ2npUy).   Data sets at bottom of page
 - DUE 1/31 TBD.
 
 
@@ -31,5 +23,20 @@ bindin  [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03q28SeaUr
 
 **Quizzes:**
 - DUE 1/27 [Link](https://canvas.umn.edu/courses/151855/quizzes/236368).
-- DUE 1/29 [Link](https://canvas.umn.edu/courses/151855/quizzes/236986).   
+- DUE 1/29 NA  
 - DUE 1/31 [Link](https://drive.google.com/open?id=1SAHyKfz1mynziJJAq2YchKEdsfj5Mxb9) based off of [Ch04 Slides](https://drive.google.com/open?id=1ns-MaQcokaFYbswi-czi7Ywp0zk3xi-4) and this video [![Sampling Distribution](http://img.youtube.com/vi/uPX0NBrJfRI/0.jpg)](https://www.youtube.com/watch?v=uPX0NBrJfRI "Sampling Distribution").  
+
+
+
+
+**Data sets**
+ [Data set](https://drive.google.com/open?id=1N0X_CiwcXOsPeetRpclHlLjGSHPkT-L2).    [key](https://drive.google.com/open?id=1LeAOfuKe4V93bY6FQNp9vSfwaDCjmx9r).
+- DUE 1/29  [Worksheet](https://drive.google.com/open?id=19MNekjbCk7nSwOkrkbBYgfTqbt8QFtgp). Data sets:   
+stickleback plates [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03e3SticklebackPlates.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03e3SticklebackPlates.csv) .   
+tiger deaths [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02e2aDeathsFromTigers.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02e2aDeathsFromTigers.csv)          
+mammals [https://gist.githubusercontent.com/yppmark/d907dc265a84cac76ba7/raw/5b8a1c8df62cde2ba2b599cfa6404c6fd165ca02/SleepInMammals.csv](https://gist.githubusercontent.com/yppmark/d907dc265a84cac76ba7/raw/5b8a1c8df62cde2ba2b599cfa6404c6fd165ca02/SleepInMammals.csv)        
+schizophrenia & famine [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q07FamineSchizophrenia.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q07FamineSchizophrenia.csv)   
+photsynthesis [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q26NeotropicalTreePhotosynthesis.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q26NeotropicalTreePhotosynthesis.csv)    
+food intake and lifespan  [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q35FoodReductionLifespan.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q35FoodReductionLifespan.csv)   
+monogamous voles  [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03q15VasopressinVoles.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03q15VasopressinVoles.csv)       
+bindin  [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03q28SeaUrchinBindin.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03q28SeaUrchinBindin.csv)        
