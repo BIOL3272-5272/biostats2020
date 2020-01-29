@@ -14,6 +14,8 @@ redirect_from:
 
 **Keys for data viz**
 [HOMEWORK](https://drive.google.com/open?id=18ksz4b2xgPeXCtIQuIOQpa8Te43X693c) and classwork  as [pdf](https://drive.google.com/open?id=1BpomIX7jSPPqfH1pCIwh3r35WCvSXx5W) or [rmd](https://drive.google.com/open?id=1Cn1uh2P8OaHNXyaDsEMycOdPGIZ2npUy).   
+
+
 ---
 
 <p>&nbsp;</p>
