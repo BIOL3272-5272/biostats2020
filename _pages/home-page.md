@@ -10,14 +10,10 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
-**ANNOUNCEMENTS (1/27)**
+**ANNOUNCEMENTS (1/29)**
 
-1. Thanks for your efforts today. Have patients with yourself and keep telling me to slow down.    
-2. A key for the [homework](https://drive.google.com/drive/u/1/folders/1xEhYS1tXGTRiDkHlYAwEJrqlbFYVGOQ9) and the [classwork](https://drive.google.com/file/d/1LeAOfuKe4V93bY6FQNp9vSfwaDCjmx9r/view)  is posted.
-More keys to come.   
-3. Don't worry if today was fast. We will have more practice, especially on friday and monday. That said, keep asking me to slow down - I'll try, and interrupt with questions.   
-4. Keep practicing & ask me, chaochih and your peers for help.  
-
+**Keys for data viz**
+[HOMEWORK](https://drive.google.com/open?id=18ksz4b2xgPeXCtIQuIOQpa8Te43X693c) and classwork  as [pdf](https://drive.google.com/open?id=1BpomIX7jSPPqfH1pCIwh3r35WCvSXx5W) or [rmd](https://drive.google.com/open?id=1Cn1uh2P8OaHNXyaDsEMycOdPGIZ2npUy).   
 ---
 
 <p>&nbsp;</p>
