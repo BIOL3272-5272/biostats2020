@@ -12,7 +12,7 @@ permalink: /assignments/wk-02-assignments
 - DUE 1/31 TBD.
 
 **Classwork:**
-- DUE 1/27 [Worksheet](https://drive.google.com/open?id=1qbCkcX0z8lzIX_JpkkyCDo3Tkv1SI8qx) turn in worksheet [here](https://canvas.umn.edu/courses/151855/assignments/996524), [Data set](https://drive.google.com/open?id=1N0X_CiwcXOsPeetRpclHlLjGSHPkT-L2).    [key](https://drive.google.com/open?id=1LeAOfuKe4V93bY6FQNp9vSfwaDCjmx9r).
+- DUE 1/27 turn in [here](https://canvas.umn.edu/courses/151855/assignments/999862)  [Worksheet](https://drive.google.com/open?id=1qbCkcX0z8lzIX_JpkkyCDo3Tkv1SI8qx) turn in worksheet [here](https://canvas.umn.edu/courses/151855/assignments/996524), [Data set](https://drive.google.com/open?id=1N0X_CiwcXOsPeetRpclHlLjGSHPkT-L2).    [key](https://drive.google.com/open?id=1LeAOfuKe4V93bY6FQNp9vSfwaDCjmx9r).
 - DUE 1/29  [Worksheet](https://drive.google.com/open?id=19MNekjbCk7nSwOkrkbBYgfTqbt8QFtgp). Data sets:   
 stickleback plates [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03e3SticklebackPlates.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03e3SticklebackPlates.csv) .   
 tiger deaths [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02e2aDeathsFromTigers.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02e2aDeathsFromTigers.csv)          
