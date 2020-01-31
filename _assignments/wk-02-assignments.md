@@ -16,6 +16,8 @@ permalink: /assignments/wk-02-assignments
 - Due 1/29 Turn in worksheet [here](https://canvas.umn.edu/courses/151855/assignments/996524)   Worksheet [here](https://drive.google.com/open?id=19MNekjbCk7nSwOkrkbBYgfTqbt8QFtgp), key as [pdf](https://drive.google.com/open?id=1BpomIX7jSPPqfH1pCIwh3r35WCvSXx5W) or [rmd](https://drive.google.com/open?id=1Cn1uh2P8OaHNXyaDsEMycOdPGIZ2npUy).   Data sets at bottom of page
 - DUE 1/31 Worksheet [here](https://drive.google.com/open?id=1kmjzZkJsIgUK6jwsq4dMxCyJk8FTFq3i), upload R scripts [here](https://canvas.umn.edu/courses/151855/assignments/1000786). 
 
+[gene lengths](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter04/chap04e1HumanGeneLengthsLongestTranscript.csv)    
+[fireflies](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter04/chap04q07FireflyFlash.csv).  
 
 
 
@@ -36,8 +38,9 @@ permalink: /assignments/wk-02-assignments
 
 
 **Data sets**
- [Data set](https://drive.google.com/open?id=1N0X_CiwcXOsPeetRpclHlLjGSHPkT-L2).    [key](https://drive.google.com/open?id=1LeAOfuKe4V93bY6FQNp9vSfwaDCjmx9r).
-- DUE 1/29  [Worksheet](https://drive.google.com/open?id=19MNekjbCk7nSwOkrkbBYgfTqbt8QFtgp). Data sets:   
+
+[gene lengths](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter04/chap04e1HumanGeneLengthsLongestTranscript.csv)    
+[fireflies](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter04/chap04q07FireflyFlash.csv).    
 stickleback plates [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03e3SticklebackPlates.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03e3SticklebackPlates.csv) .   
 tiger deaths [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02e2aDeathsFromTigers.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02e2aDeathsFromTigers.csv)          
 mammals [https://gist.githubusercontent.com/yppmark/d907dc265a84cac76ba7/raw/5b8a1c8df62cde2ba2b599cfa6404c6fd165ca02/SleepInMammals.csv](https://gist.githubusercontent.com/yppmark/d907dc265a84cac76ba7/raw/5b8a1c8df62cde2ba2b599cfa6404c6fd165ca02/SleepInMammals.csv)        
