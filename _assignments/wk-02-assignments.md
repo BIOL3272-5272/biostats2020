@@ -14,7 +14,7 @@ permalink: /assignments/wk-02-assignments
 **Classwork:**
 - DUE 1/27 turn in [here](https://canvas.umn.edu/courses/151855/assignments/999862)  [Worksheet](https://drive.google.com/open?id=1qbCkcX0z8lzIX_JpkkyCDo3Tkv1SI8qx) 
 - Due 1/29 Turn in worksheet [here](https://canvas.umn.edu/courses/151855/assignments/996524)   Worksheet [here](https://drive.google.com/open?id=19MNekjbCk7nSwOkrkbBYgfTqbt8QFtgp), key as [pdf](https://drive.google.com/open?id=1BpomIX7jSPPqfH1pCIwh3r35WCvSXx5W) or [rmd](https://drive.google.com/open?id=1Cn1uh2P8OaHNXyaDsEMycOdPGIZ2npUy).   Data sets at bottom of page
-- DUE 1/31 Worksheet [here](https://drive.google.com/open?id=1kmjzZkJsIgUK6jwsq4dMxCyJk8FTFq3i), upload R scripts [here](https://canvas.umn.edu/courses/151855/assignments/1000786). 
+- DUE 1/31 Worksheet [here](https://drive.google.com/open?id=1kmjzZkJsIgUK6jwsq4dMxCyJk8FTFq3i), upload R scripts [here](https://canvas.umn.edu/courses/151855/assignments/1000786). [key](https://drive.google.com/open?id=1bd6QcJr3xEIWYtYwA7jdZ4ALPfP0Iyf6)
 
 [gene lengths](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter04/chap04e1HumanGeneLengthsLongestTranscript.csv)    
 [fireflies](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter04/chap04q07FireflyFlash.csv).  
