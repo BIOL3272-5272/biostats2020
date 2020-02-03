@@ -14,7 +14,7 @@ permalink: /assignments/wk-03-assignments
 
 ### Classwork
 
-- DUE 2/3 Freewrite [link](https://drive.google.com/open?id=1CpQSvcV0Bz9-IOHyMM3mGF9HeZRcpWWl) and probability coding [link](https://drive.google.com/open?id=1rW-X9ebBptdg3CFLswwQ9UntmHvp9sSR) [canvas](https://canvas.umn.edu/courses/151855/assignments/1003717).  DATA [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter09/chap09e4VampireBites.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter09/chap09e4VampireBites.csv) .  
+- DUE 2/3 Freewrite [link](https://drive.google.com/open?id=1CpQSvcV0Bz9-IOHyMM3mGF9HeZRcpWWl) and probability coding [link](https://drive.google.com/open?id=1rW-X9ebBptdg3CFLswwQ9UntmHvp9sSR) [canvas](https://canvas.umn.edu/courses/151855/assignments/1003717).  DATA [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter09/chap09e4VampireBites.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter09/chap09e4VampireBites.csv) .  [key]([Key](https://drive.google.com/open?id=1VneoAmjlMoHKx6WS0d32GCtts78IsxPZ) )
 - DUE 2/5 TBD
 - DUE 2/7 TBD.
 
