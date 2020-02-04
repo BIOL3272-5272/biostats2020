@@ -12,9 +12,9 @@ redirect_from:
 
 **ANNOUNCEMENTS (2/3)**
 
-**R assement** is [here](https://canvas.umn.edu/courses/151855/assignments/1003199). It's due feb 14 by class. Turn it in online and bring a printed copy.      
-**Classwork key** is [here](https://drive.google.com/open?id=1VneoAmjlMoHKx6WS0d32GCtts78IsxPZ). Note I switched over to the count function, which made things cleaner.     
-**Homework for weds** is [here](https://docs.google.com/forms/d/1FYXGLfUycyJhhUD6PGvwdhxsfhLpZFNcNa5J-8wUbnE/).    
+**R assement** is [here](https://canvas.umn.edu/courses/151855/assignments/1003199). It's due feb 14 by class. Turn it in online and bring a printed copy.
+**Classwork key** is [here](https://drive.google.com/open?id=1VneoAmjlMoHKx6WS0d32GCtts78IsxPZ). Note I switched over to the count function, which made things cleaner.
+**Homework for weds** is [here](https://docs.google.com/forms/d/1FYXGLfUycyJhhUD6PGvwdhxsfhLpZFNcNa5J-8wUbnE/).
 
 
 ---
@@ -39,6 +39,8 @@ Location: Biological Sciences Center 64 (St. Paul Campus), or by email
 
 **Chaochih Liu:** F 9:15 - 10:15 am<br/>
 Location: Biological Sciences Center 64 (St. Paul Campus), or by email
+
+Chaochih Office Hours - add code review requests to [this doc](https://docs.google.com/document/d/133gwjcjJF6nAep2pu2oa2Qb3wC1K3mBxucm-1HmA5Xo/edit?usp=sharing).
 
 ## Textbook
 
