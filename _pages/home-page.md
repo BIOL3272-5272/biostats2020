@@ -12,18 +12,17 @@ redirect_from:
 
 **ANNOUNCEMENTS (2/3 and 2/4)**
 
-**Help Chaochih help you** [link](https://canvas.umn.edu/courses/151855/discussion_topics/595514) . 
+**Help Chaochih help you** [link](https://canvas.umn.edu/courses/151855/discussion_topics/595514) .
 
-**Video probability theory** [link](https://www.youtube.com/watch?v=H8LnzgQxNoM).          
+**Video probability theory** [link](https://www.youtube.com/watch?v=H8LnzgQxNoM).
 
 **Homework**  [link](https://docs.google.com/forms/d/1FYXGLfUycyJhhUD6PGvwdhxsfhLpZFNcNa5J-8wUbnE/edit)
 
-**snacks tomorrow** requests?    
+**snacks tomorrow** requests?
 
 **R assement** is [here](https://canvas.umn.edu/courses/151855/assignments/1003199). It's due feb 14 by class. Turn it in online and bring a printed copy.
 **Classwork key** is [here](https://drive.google.com/open?id=1VneoAmjlMoHKx6WS0d32GCtts78IsxPZ). Note I switched over to the count function, which made things cleaner.
 **Homework for weds** is [here](https://docs.google.com/forms/d/1FYXGLfUycyJhhUD6PGvwdhxsfhLpZFNcNa5J-8wUbnE/).
-
 
 ---
 
