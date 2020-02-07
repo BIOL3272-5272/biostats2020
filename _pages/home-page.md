@@ -18,7 +18,7 @@ redirect_from:
 
 - **R assessment** Be sure to work on the R assessment [LINK](https://canvas.umn.edu/courses/151855/assignments/1003199). It's due next friday the 14th.  
 
-- **Homework key** [Homework key](https://drive.google.com/open?id=1dWnCy7nkfFDzJi-CPgtcCHQ4v9HT9wbl).
+- **Homework key** [Homework key](https://drive.google.com/open?id=1dWnCy7nkfFDzJi-CPgtcCHQ4v9HT9wbl) for hypothesis testing.
 
 - **Also look at classwork keys from tuesday** .  Key [as video](https://youtu.be/p0tT95UBnPo) as [pdf](https://drive.google.com/open?id=1vvVHdq-1EF2FuDuP5K_ZoOEXaSh8tgDu) .   
 
