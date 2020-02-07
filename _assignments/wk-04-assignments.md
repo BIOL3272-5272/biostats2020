@@ -9,7 +9,7 @@ permalink: /assignments/wk-04-assignments
 ### Homework
 
 - DUE 2/10 in class. **Homework assigned:** [link](https://drive.google.com/open?id=17zRHxyoBMqiHtcMCglOBXlbqfBil3ddM). Come prepared to chat.
-*Required readings* (1)Some Natural Solutions to the p-Value Communication Problem—and Why They Won’t Work [link](https://drive.google.com/open?id=1GSNsFh6H0zZwJxH1FK9hAge2GZLHWcx4) ASA statement on [P-Values](https://drive.google.com/open?id=1X2mHZ0PolAXFIZUOHFaGm-l60U_g0G2J),  YANIV WILL UPLOAD INTELEAFS 3, 8 ,9 1nd 10
+*Required readings* (1)Some Natural Solutions to the p-Value Communication Problem—and Why They Won’t Work [link](https://drive.google.com/open?id=1GSNsFh6H0zZwJxH1FK9hAge2GZLHWcx4) ASA statement on [P-Values](https://drive.google.com/open?id=1X2mHZ0PolAXFIZUOHFaGm-l60U_g0G2J),   **INTELEAF [3](https://drive.google.com/open?id=1622nagghFIPG2YfnVoVwbwtGyshEXlqt), [8](https://drive.google.com/open?id=1NCL7l_5M6PHVBdIjVB3MphabN-MkRgFC), [9](https://drive.google.com/open?id=1d03f4K_3vGYR1gjlkkc138GESkHtHqEa) and [10](https://drive.google.com/open?id=1BqyDDqprIa3gQIsBG3ylm21Uhu8wVIOf)**
 
 Reading options pick one set:
 
