@@ -10,19 +10,16 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
-**ANNOUNCEMENTS (2/3 and 2/4)**
+**ANNOUNCEMENTS (2/7)**
 
-**Help Chaochih help you** [link](https://canvas.umn.edu/courses/151855/discussion_topics/595514) .
+- **Classwork Key for permutation** (firday 2/7)as [pdf](https://drive.google.com/open?id=1__9tsD3i1RujfA6sup7d8PPP42e-Yq1_), as [rmd](https://drive.google.com/open?id=1yzdqaVhGxo8CBfOWO84hozkrH3VZ-Q3w) or as a [video](https://youtu.be/nUtC3Izzq5c).
 
-**Video probability theory** [link](https://www.youtube.com/watch?v=H8LnzgQxNoM).
+- **Homework due** Make sure to do the readings for mondays class and turn in the homework in class [LINK](https://drive.google.com/file/d/17zRHxyoBMqiHtcMCglOBXlbqfBil3ddM/view). 
 
-**Homework**  [link](https://docs.google.com/forms/d/1FYXGLfUycyJhhUD6PGvwdhxsfhLpZFNcNa5J-8wUbnE/edit)
+**R assessment** Be sure to work on the R assessment [LINK](https://canvas.umn.edu/courses/151855/assignments/1003199). It's due next friday the 14th.  
 
-**snacks tomorrow** requests?
+**Also look at classwork keys from tuesday** .  Key [as video](https://youtu.be/p0tT95UBnPo) as [pdf](https://drive.google.com/open?id=1vvVHdq-1EF2FuDuP5K_ZoOEXaSh8tgDu) .   
 
-**R assessment** is [here](https://canvas.umn.edu/courses/151855/assignments/1003199). It's due feb 14 by class. Turn it in online and bring a printed copy.
-**Classwork key** is [here](https://drive.google.com/open?id=1VneoAmjlMoHKx6WS0d32GCtts78IsxPZ). Note I switched over to the count function, which made things cleaner.
-**Homework for weds** is [here](https://docs.google.com/forms/d/1FYXGLfUycyJhhUD6PGvwdhxsfhLpZFNcNa5J-8wUbnE/).
 
 ---
 
