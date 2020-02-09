@@ -21,7 +21,7 @@ Reading options pick one set:
 
 (d) [Science isn't broken](https://fivethirtyeight.com/features/science-isnt-broken/)  + OPTIONAL fun look into [the extent and consequences of p-hacking in science](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002106) .
 
-(e) [Fickle p-values](https://drive.google.com/open?id=1nfyVhyDZ-Ics3LP6EAtjCwS_zizxMMY3) + [p-values and the search for significance](/https://drive.google.com/open?id=1kXjft9xtKS7iv7cIECGzCPKriOZCYaLk) +  [power and sample size](https://drive.google.com/open?id=1wmdOskDiGz2NnRv2X5RzI3X15SBik9hv) .
+(e) [Fickle p-values](https://drive.google.com/open?id=1nfyVhyDZ-Ics3LP6EAtjCwS_zizxMMY3) + [p-values and the search for significance](https://drive.google.com/open?id=1kXjft9xtKS7iv7cIECGzCPKriOZCYaLk) +  [power and sample size](https://drive.google.com/open?id=1wmdOskDiGz2NnRv2X5RzI3X15SBik9hv) .
 
 (f) [HARKING](https://drive.google.com/open?id=1h2AEYOyUfihyICtlPp-EG0aYRyEOYzn1) very interesting problem
 
