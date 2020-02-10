@@ -10,17 +10,12 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
-**ANNOUNCEMENTS (2/7)**
+**ANNOUNCEMENTS (2/10)**
 
-- **Classwork Key for permutation** (firday 2/7)as [pdf](https://drive.google.com/open?id=1__9tsD3i1RujfA6sup7d8PPP42e-Yq1_), as [rmd](https://drive.google.com/open?id=1yzdqaVhGxo8CBfOWO84hozkrH3VZ-Q3w) or as a [video](https://youtu.be/nUtC3Izzq5c).
-
-- **Homework due** Make sure to do the readings for mondays class and turn in the homework in class [LINK](https://drive.google.com/file/d/17zRHxyoBMqiHtcMCglOBXlbqfBil3ddM/view). 
-
-- **R assessment** Be sure to work on the R assessment [LINK](https://canvas.umn.edu/courses/151855/assignments/1003199). It's due next friday the 14th.  
-
-- **Homework key** [Homework key](https://drive.google.com/open?id=1dWnCy7nkfFDzJi-CPgtcCHQ4v9HT9wbl) for hypothesis testing.
-
-- **Also look at classwork keys from tuesday** .  Key [as video](https://youtu.be/p0tT95UBnPo) as [pdf](https://drive.google.com/open?id=1vvVHdq-1EF2FuDuP5K_ZoOEXaSh8tgDu) .   
+- Remember to complete today's [quiz](https://canvas.umn.edu/courses/151855/quizzes/238856) before next class.     
+- Here is the key  [key](https://drive.google.com/open?id=1dOft-8v4OKG8TRQKiaLQMtoE_UWUDF36) to todays class watch live on    [youtube](https://www.youtube.com/watch?v=RkYAA7thVqA).     
+3. Remember that grad / honors and those looking for a challenge have an additional [homework](https://drive.google.com/open?id=1_ggOw5zv146LzfjmfJKeFJ9IAad20WeM) / [reading](https://drive.google.com/open?id=1ar1BEIQORvgNnnb_qOzLEqeCGruRjNHJ) for weds   
+4. I'll put out more r videos tonight . 
 
 
 ---
