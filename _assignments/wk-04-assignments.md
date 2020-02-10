@@ -37,6 +37,6 @@ Reading options pick one set:
 
 ### Quizzes
 
-- DUE 2/10 TBD .
+- DUE 2/10 [Class 9 Quiz](https://canvas.umn.edu/courses/151855/quizzes/238856).
 - DUE 2/12 TBD .
 - DUE 2/14 TBD .
