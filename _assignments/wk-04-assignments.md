@@ -15,7 +15,7 @@ permalink: /assignments/wk-04-assignments
 
 
 ### Classwork
-- DUE 2/10 Link [here](https://drive.google.com/open?id=1H7KuZH1dNF1oy2pID5mRGXcwSSYmR3yF). [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1008524). [google forum](\https://docs.google.com/forms/d/1fg70FPb8mF99Pam-JCghM2_IgjiGN-QAyaFgB3JiVyA/). Data set: https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02f2_5SalmonBodySize.csv note there is no R template today.   
+- DUE 2/10 Link [here](https://drive.google.com/open?id=1H7KuZH1dNF1oy2pID5mRGXcwSSYmR3yF). [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1008524). [google forum](https://forms.gle/UddSKDqArRJz8Y6M7). Data set: https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02f2_5SalmonBodySize.csv note there is no R template today.   
 - DUE 2/12 TBD .
 - DUE 2/14 TBD .
 
