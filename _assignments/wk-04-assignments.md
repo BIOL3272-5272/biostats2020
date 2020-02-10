@@ -31,7 +31,7 @@ Reading options pick one set:
 
 ### Classwork
 
-- DUE 2/10 TBD .
+- DUE 2/10 [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1008524).
 - DUE 2/12 TBD .
 - DUE 2/14 TBD .
 
