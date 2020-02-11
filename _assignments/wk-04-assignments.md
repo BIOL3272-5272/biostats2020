@@ -12,9 +12,9 @@ permalink: /assignments/wk-04-assignments
 - DUE 2/12 EVERYONE. Watch videos on the things you wanted R help with [more to come].     
 [tidying](https://www.youtube.com/watch?v=zprTzgUd7dM&feature=youtu.be) Bacterial growth as an example.  
 [ggplots](https://youtu.be/CjxaCHs2hp4). Includes adding errorbars and lines for means.   
-[fitlering, mutating, summarizing, grouping by, arranging](https://youtu.be/LmxrQ_xo4Aw)
+[fitlering, mutating, summarizing, grouping by, arranging](https://youtu.be/LmxrQ_xo4Aw) .    
 [Rmarkdown](https://www.youtube.com/watch?v=B0kQ5Xf1JxY&feature=youtu.be).   
-[flow control](https://youtu.be/euxn17x3mGI) for loops and while loops.   
+[flow control](https://youtu.be/euxn17x3mGI) for loops and while loops.      
 Assignment for grad / honors students or extra credit. [link](https://drive.google.com/open?id=1_ggOw5zv146LzfjmfJKeFJ9IAad20WeM), based off of this reading [link](https://drive.google.com/file/d/1ar1BEIQORvgNnnb_qOzLEqeCGruRjNHJ/view).  
 
 - DUE 2/14 TBD .
