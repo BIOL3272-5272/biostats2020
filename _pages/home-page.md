@@ -12,10 +12,15 @@ redirect_from:
 
 **ANNOUNCEMENTS (2/10)**
 
-- Remember to complete today's [quiz](https://canvas.umn.edu/courses/151855/quizzes/238856) before next class.     
-- Here is the key  [key](https://drive.google.com/open?id=1dOft-8v4OKG8TRQKiaLQMtoE_UWUDF36) to todays class watch live on    [youtube](https://www.youtube.com/watch?v=RkYAA7thVqA).     
-3. Remember that grad / honors and those looking for a challenge have an additional [homework](https://drive.google.com/open?id=1_ggOw5zv146LzfjmfJKeFJ9IAad20WeM) / [reading](https://drive.google.com/open?id=1ar1BEIQORvgNnnb_qOzLEqeCGruRjNHJ) for weds   
-4. I'll put out more r videos tonight . 
+I have generated some R  Youtube videos. I'm doing them in order of your priorities from the class poll [more to come].  
+Also **please send me any R questions you have**. Ideally this would be from a real world problem / project and/or an something for a different class. If you send me these today, I'll try to integrate them into tomorrow's learning. 
+
+
+[tidying](https://www.youtube.com/watch?v=zprTzgUd7dM&feature=youtu.be) Bacterial growth as an example.    
+[ggplots](https://youtu.be/CjxaCHs2hp4). Includes adding errorbars and lines for means.     
+[fitlering, mutating, summarizing, grouping by, arranging](https://youtu.be/LmxrQ_xo4Aw).     
+[Rmarkdown](https://www.youtube.com/watch?v=B0kQ5Xf1JxY&feature=youtu.be).         
+[flow control](https://youtu.be/euxn17x3mGI) for loops and while loops.  This is not important fro this class but is generally useful.   
 
 
 ---
