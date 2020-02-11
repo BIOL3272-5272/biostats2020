@@ -12,15 +12,19 @@ redirect_from:
 
 **ANNOUNCEMENTS (2/10)**
 
-I have generated some R  Youtube videos. I'm doing them in order of your priorities from the class poll [more to come].  
+I have generated some R  Youtube videos. I'm doing them in order of your priorities from the class poll [more may come].  
 Also **please send me any R questions you have**. Ideally this would be from a real world problem / project and/or an something for a different class. If you send me these today, I'll try to integrate them into tomorrow's learning. 
 
 
 [tidying](https://www.youtube.com/watch?v=zprTzgUd7dM&feature=youtu.be) Bacterial growth as an example.    
 [ggplots](https://youtu.be/CjxaCHs2hp4). Includes adding errorbars and lines for means.     
 [fitlering, mutating, summarizing, grouping by, arranging](https://youtu.be/LmxrQ_xo4Aw).     
-[Rmarkdown](https://www.youtube.com/watch?v=B0kQ5Xf1JxY&feature=youtu.be).         
-[flow control](https://youtu.be/euxn17x3mGI) for loops and while loops.  This is not important fro this class but is generally useful.   
+[Rmarkdown](https://www.youtube.com/watch?v=B0kQ5Xf1JxY&feature=youtu.be).       
+[loading data and navigating working directories](https://youtu.be/yPWFAnpXf5E).      
+[writing functions](https://youtu.be/3XL6NSp8BwM).      
+[flow control](https://youtu.be/euxn17x3mGI) for loops and while loops.     
+
+
 
 
 ---
