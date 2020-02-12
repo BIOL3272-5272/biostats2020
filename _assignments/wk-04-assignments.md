@@ -6,6 +6,10 @@ permalink: /assignments/wk-04-assignments
 
 ### Week 4: 2/10, 2/12, 2/14
 
+### Major Assessment
+
+**DUE 2/14.** R assessment Dealing with Data DUE 2/14, upload on Canvas and bring a printed copy to class. [LINK](https://canvas.umn.edu/courses/151855/assignments/1003199).
+
 ### Homework
 
 - DUE 2/10 in class. **Homework assigned:** [link](https://drive.google.com/open?id=17zRHxyoBMqiHtcMCglOBXlbqfBil3ddM). Come prepared to chat.
@@ -25,11 +29,11 @@ Assignment for grad / honors students or extra credit. [link](https://drive.goog
 
 ### Classwork
 - DUE 2/10 Link [here](https://drive.google.com/open?id=1H7KuZH1dNF1oy2pID5mRGXcwSSYmR3yF). [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1008524). [google forum](https://forms.gle/UddSKDqArRJz8Y6M7). Data set: https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02f2_5SalmonBodySize.csv note there is no R template today.    [key](https://drive.google.com/open?id=1dOft-8v4OKG8TRQKiaLQMtoE_UWUDF36).   [youtube](https://www.youtube.com/watch?v=RkYAA7thVqA).
-- DUE 2/12 
-**Classwork:** [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1011578). [worksheet](https://drive.google.com/open?id=1hUoIclWyEIFE3WFXyKDqkYwQgkuHUgvE), [navigating paths](https://drive.google.com/open?id=1t9vN3qikBBDa-QwllSlS92Uit2uetosH), [tidying/mutating/summarizing/plotting/etc](https://drive.google.com/open?id=1stLmCYVwHjy6RTFN5NY_n-Gf35Yq19nA), [writing functions](https://drive.google.com/open?id=1lpA4TB0ZH_CRTGQPqPq1uMAsfSp1x3FC), [RMarkdown challenge](https://drive.google.com/open?id=1Y0DcMWjzBfaRBxTOfZwO07fJWJjliOh8), [additional challenges](https://drive.google.com/open?id=1HPBYZu8TDQH6fHDqc0tG-QdW4zpJzZSN) for loops, while loops, and some base R [guide](https://drive.google.com/open?id=1yfxscMvwnaNRLj6Y3LwN85oVAJF9IurH) [challenge](https://drive.google.com/open?id=12NamxdQz72NO0eFpOQ5MQ9ymiBZkm_wC) .  
+- DUE 2/12
+**Classwork:** [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1011578). [worksheet](https://drive.google.com/open?id=1hUoIclWyEIFE3WFXyKDqkYwQgkuHUgvE), [navigating paths](https://drive.google.com/open?id=1t9vN3qikBBDa-QwllSlS92Uit2uetosH), [tidying/mutating/summarizing/plotting/etc](https://drive.google.com/open?id=1stLmCYVwHjy6RTFN5NY_n-Gf35Yq19nA), [writing functions](https://drive.google.com/open?id=1lpA4TB0ZH_CRTGQPqPq1uMAsfSp1x3FC), [RMarkdown challenge](https://drive.google.com/open?id=1Y0DcMWjzBfaRBxTOfZwO07fJWJjliOh8), [additional challenges](https://drive.google.com/open?id=1HPBYZu8TDQH6fHDqc0tG-QdW4zpJzZSN) for loops, while loops, and some base R [guide](https://drive.google.com/open?id=1yfxscMvwnaNRLj6Y3LwN85oVAJF9IurH) [challenge](https://drive.google.com/open?id=12NamxdQz72NO0eFpOQ5MQ9ymiBZkm_wC) .
 
-Data:   raw_costs.xlsx https://github.com/BIOL3272-5272/biostats2020/raw/master/RawCost.xlsx .   
-tidied data: https://raw.githubusercontent.com/BIOL3272-5272/biostats2020/master/tidy_costs.csv .     
+Data:   raw_costs.xlsx https://github.com/BIOL3272-5272/biostats2020/raw/master/RawCost.xlsx .
+tidied data: https://raw.githubusercontent.com/BIOL3272-5272/biostats2020/master/tidy_costs.csv .
 - DUE 2/14 TBD .
 
 ### Quizzes
