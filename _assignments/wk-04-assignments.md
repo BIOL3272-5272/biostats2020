@@ -25,7 +25,7 @@ Assignment for grad / honors students or extra credit. [link](https://drive.goog
 
 ### Classwork
 - DUE 2/10 Link [here](https://drive.google.com/open?id=1H7KuZH1dNF1oy2pID5mRGXcwSSYmR3yF). [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1008524). [google forum](https://forms.gle/UddSKDqArRJz8Y6M7). Data set: https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02f2_5SalmonBodySize.csv note there is no R template today.    [key](https://drive.google.com/open?id=1dOft-8v4OKG8TRQKiaLQMtoE_UWUDF36).   [youtube](https://www.youtube.com/watch?v=RkYAA7thVqA).
-- DUE 2/12 TBD .
+- DUE 2/12 [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1011578) .
 - DUE 2/14 TBD .
 
 ### Quizzes
