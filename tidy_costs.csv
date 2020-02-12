@@ -1,0 +1,151 @@
+Type,Model,Year,Cost
+Very Heavy Bombers,B-29,1941,897.73
+Very Heavy Bombers,B-29,1942,605.36
+Very Heavy Bombers,B-29,1943,509.465
+Heavy Bombers,B-17,1941,301.221
+Heavy Bombers,B-17,1942,258.949
+Heavy Bombers,B-17,1943,204.37
+Heavy Bombers,B-17,1944,187.742
+Heavy Bombers,B-24,1941,379.162
+Heavy Bombers,B-24,1942,304.391
+Heavy Bombers,B-24,1943,215.516
+Heavy Bombers,B-32,1942,790.433
+Heavy Bombers,B-32,1944,790.433
+Medium Bombers,B-25,1941,180.031
+Medium Bombers,B-25,1942,153.396
+Medium Bombers,B-25,1943,151.894
+Medium Bombers,B-25,1944,142.194
+Medium Bombers,B-25,1945,116.752
+Medium Bombers,B-26,1941,261.062
+Medium Bombers,B-26,1942,239.655
+Medium Bombers,B-26,1943,212.932
+Medium Bombers,B-26,1944,192.427
+Light Bombers,A-20,1941,136.813
+Light Bombers,A-20,1942,124.254
+Light Bombers,A-20,1943,110.324
+Light Bombers,A-20,1944,100.8
+Light Bombers,A-26,1941,224.498
+Light Bombers,A-26,1943,254.624
+Light Bombers,A-26,1944,192.457
+Light Bombers,A-26,1945,175.892
+Light Bombers,A-28,1942,118.704
+Light Bombers,A-29,1942,118.08
+Light Bombers,A-30,1942,155.57
+Light Bombers,A-30,1943,151.017
+Fighters,P-38,1941,132.284
+Fighters,P-38,1942,120.407
+Fighters,P-38,1943,105.567
+Fighters,P-38,1944,97.147
+Fighters,P-39,1941,77.159
+Fighters,P-39,1942,69.534
+Fighters,P-39,1944,50.666
+Fighters,P-40,1941,60.562
+Fighters,P-40,1942,59.444
+Fighters,P-40,1943,49.449
+Fighters,P-40,1944,44.892
+Fighters,P-47,1941,113.246
+Fighters,P-47,1942,105.594
+Fighters,P-47,1943,104.258
+Fighters,P-47,1944,85.578
+Fighters,P-47,1945,83.001
+Fighters,P-51,1942,58.698
+Fighters,P-51,1943,58.824
+Fighters,P-51,1944,51.572
+Fighters,P-51,1945,50.985
+Fighters,P-59,1944,236.299
+Fighters,P-61,1941,649.584
+Fighters,P-61,1942,245.327
+Fighters,P-61,1943,180.711
+Fighters,P-61,1945,199.598
+Fighters,P-63,1942,60.277
+Fighters,P-63,1943,57.379
+Fighters,P-63,1944,59.966
+Fighters,P-63,1945,65.914
+Fighters,P-70,1941,143.076
+Fighters,P-80,1944,109.471
+Fighters,P-80,1945,71.84
+Reconnaissance,OA-10,1941,222.799
+Reconnaissance,OA-10,1944,216.617
+Reconnaissance,OA-10,1945,207.541
+Transports,C-43,1942,49.524
+Transports,C-43,1943,27.342
+Transports,C-43,1944,27.332
+Transports,C-45,1941,67.743
+Transports,C-45,1943,66.189
+Transports,C-45,1944,52.507
+Transports,C-45,1945,48.83
+Transports,C-46,1941,341.831
+Transports,C-46,1942,314.7
+Transports,C-46,1943,259.268
+Transports,C-46,1944,233.377
+Transports,C-46,1945,221.55
+Transports,C-47,1941,128.761
+Transports,C-47,1942,109.696
+Transports,C-47,1943,92.417
+Transports,C-47,1944,88.574
+Transports,C-47,1945,85.035
+Transports,C-53,1941,136.6999
+Transports,C-53,1942,143.479
+Transports,C-53,1943,150.47
+Transports,C-54,1941,516.553
+Transports,C-54,1942,370.492
+Transports,C-54,1943,400.831
+Transports,C-54,1944,285.113
+Transports,C-54,1945,259.816
+Transports,C-60,1942,126.881
+Transports,C-60,1943,113.168
+Transports,C-61,1942,12.208
+Transports,C-61,1943,13.057
+Transports,C-61,1944,15.973
+Transports,UC-64,1943,36.811
+Transports,UC-64,1944,35.264
+Transports,UC-64,1945,32.427
+Transports,C-69,1943,605.456
+Transports,C-74,1942,1213.445
+Transports,C-78,1942,27.47
+Transports,C-78,1943,33.797
+Transports,C-82,1944,478.549
+Transports,C-82,1945,310.233
+Transports,C-87,1944,208.78
+Trainers,PT-13.PT-17PT-27.,1941,10.022
+Trainers,PT-13.PT-17PT-27.,1942,9.896
+Trainers,PT-19.PT-23.PT-26,1941,9.71
+Trainers,PT-19.PT-23.PT-26,1942,12.911
+Trainers,PT-19.PT-23.PT-26,1943,11.1
+Trainers,PT-19.PT-23.PT-26,1944,15.052
+Trainers,BT-13.BT-15,1941,25.035
+Trainers,BT-13.BT-15,1942,23.068
+Trainers,AT-6,1941,29.423
+Trainers,AT-6,1942,25.672
+Trainers,AT-6,1944,22.952
+Trainers,AT-7.AT-11,1941,76.827
+Trainers,AT-7.AT-11,1942,85.688
+Trainers,AT-7.AT-11,1943,68.441
+Trainers,AT-8.AT-17,1941,41.701
+Trainers,AT-8.AT-17,1942,34.323
+Trainers,AT-9,1941,44.321
+Trainers,AT-9,1942,44.392
+Trainers,AT-10,1941,43.501
+Trainers,AT-10,1942,42.688
+Trainers,AT-16,1942,27.564
+Trainers,AT-16,1943,27.416
+Trainers,AT-19,1942,26.574
+Trainers,AT-19,1943,22.496
+Trainers,AT-21,1942,92.295
+Communications,L-1,1941,25.419
+Communications,L-2,1942,2.77
+Communications,L-2,1943,2.916
+Communications,L-3,1942,2.236
+Communications,L-3,1943,2.46
+Communications,L-4,1942,2.432
+Communications,L-4,1943,2.437
+Communications,L-4,1944,2.62
+Communications,L-4,1945,2.701
+Communications,L-5,1942,10.165
+Communications,L-5,1944,9.704
+Communications,L-5,1945,8.323
+Communications,L-6,1943,6.065
+Communications,R-4,1943,43.584
+Communications,R-5.TR-5,1943,59.488
+Communications,R-5.TR-5,1944,50.95
+Communications,R-6,1943,47.635
