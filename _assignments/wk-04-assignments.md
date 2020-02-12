@@ -9,29 +9,29 @@ permalink: /assignments/wk-04-assignments
 ### Homework
 
 - DUE 2/10 in class. **Homework assigned:** [link](https://drive.google.com/open?id=17zRHxyoBMqiHtcMCglOBXlbqfBil3ddM). Come prepared to chat.
-- DUE 2/12 EVERYONE. Watch videos on the things you wanted R help with [more may come].   
-[tidying](https://www.youtube.com/watch?v=zprTzgUd7dM&feature=youtu.be) Bacterial growth as an example.    
-[ggplots](https://youtu.be/CjxaCHs2hp4). Includes adding errorbars and lines for means.     
-[fitlering, mutating, summarizing, grouping by, arranging](https://youtu.be/LmxrQ_xo4Aw).     
-[Rmarkdown](https://www.youtube.com/watch?v=B0kQ5Xf1JxY&feature=youtu.be).       
-[loading data and navigating working directories](https://youtu.be/yPWFAnpXf5E).      
-[writing functions](https://youtu.be/3XL6NSp8BwM).      
-[flow control](https://youtu.be/euxn17x3mGI) for loops and while loops.     
-Assignment for grad / honors students or extra credit. [link](https://drive.google.com/open?id=1_ggOw5zv146LzfjmfJKeFJ9IAad20WeM), based off of this reading [link](https://drive.google.com/file/d/1ar1BEIQORvgNnnb_qOzLEqeCGruRjNHJ/view).    
+- DUE 2/12 EVERYONE. Watch videos on the things you wanted R help with [more may come].
+[tidying](https://www.youtube.com/watch?v=zprTzgUd7dM&feature=youtu.be) Bacterial growth as an example.
+[ggplots](https://youtu.be/CjxaCHs2hp4). Includes adding errorbars and lines for means.
+[fitlering, mutating, summarizing, grouping by, arranging](https://youtu.be/LmxrQ_xo4Aw).
+[Rmarkdown](https://www.youtube.com/watch?v=B0kQ5Xf1JxY&feature=youtu.be).
+[loading data and navigating working directories](https://youtu.be/yPWFAnpXf5E).
+[writing functions](https://youtu.be/3XL6NSp8BwM).
+[flow control](https://youtu.be/euxn17x3mGI) for loops and while loops.
+Assignment for grad / honors students or extra credit. [link](https://drive.google.com/open?id=1_ggOw5zv146LzfjmfJKeFJ9IAad20WeM), based off of this reading [link](https://drive.google.com/file/d/1ar1BEIQORvgNnnb_qOzLEqeCGruRjNHJ/view).
 
 - DUE 2/14 TBD .
 
 
 
 ### Classwork
-- DUE 2/10 Link [here](https://drive.google.com/open?id=1H7KuZH1dNF1oy2pID5mRGXcwSSYmR3yF). [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1008524). [google forum](https://forms.gle/UddSKDqArRJz8Y6M7). Data set: https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02f2_5SalmonBodySize.csv note there is no R template today.    [key](https://drive.google.com/open?id=1dOft-8v4OKG8TRQKiaLQMtoE_UWUDF36).   [youtube](https://www.youtube.com/watch?v=RkYAA7thVqA).   
+- DUE 2/10 Link [here](https://drive.google.com/open?id=1H7KuZH1dNF1oy2pID5mRGXcwSSYmR3yF). [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1008524). [google forum](https://forms.gle/UddSKDqArRJz8Y6M7). Data set: https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02f2_5SalmonBodySize.csv note there is no R template today.    [key](https://drive.google.com/open?id=1dOft-8v4OKG8TRQKiaLQMtoE_UWUDF36).   [youtube](https://www.youtube.com/watch?v=RkYAA7thVqA).
 - DUE 2/12 TBD .
 - DUE 2/14 TBD .
 
 ### Quizzes
 
 - DUE 2/10 [Class 9 Quiz](https://canvas.umn.edu/courses/151855/quizzes/238856).
-- DUE 2/12 TBD .
+- DUE 2/12 [Class 10 Quiz](https://canvas.umn.edu/courses/151855/quizzes/239374) .
 - DUE 2/14 TBD .
 
 
