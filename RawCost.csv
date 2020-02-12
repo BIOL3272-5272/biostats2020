@@ -1,0 +1,57 @@
+﻿Type,Model,1941,1942,1943,1944,1945
+Very Heavy Bombers,B-29,897.73,605.36,509.465,,
+Heavy Bombers,B-17,301.221,258.949,204.37,187.742,
+Heavy Bombers,B-24,379.162,304.391,215.516,,
+Heavy Bombers,B-32,,790.433,,790.433,
+Medium Bombers,B-25,180.031,153.396,151.894,142.194,116.752
+Medium Bombers,B-26,261.062,239.655,212.932,192.427,
+Light Bombers,A-20,136.813,124.254,110.324,100.8,
+Light Bombers,A-26,224.498,,254.624,192.457,175.892
+Light Bombers,A-28,,118.704,,,
+Light Bombers,A-29,,118.08,,,
+Light Bombers,A-30,,155.57,151.017,,
+Fighters,P-38,132.284,120.407,105.567,97.147,
+Fighters,P-39,77.159,69.534,,50.666,
+Fighters,P-40,60.562,59.444,49.449,44.892,
+Fighters,P-47,113.246,105.594,104.258,85.578,83.001
+Fighters,P-51,,58.698,58.824,51.572,50.985
+Fighters,P-59,,,,236.299,
+Fighters,P-61,649.584,245.327,180.711,,199.598
+Fighters,P-63,,60.277,57.379,59.966,65.914
+Fighters,P-70,143.076,,,,
+Fighters,P-80,,,,109.471,71.84
+Reconnaissance,OA-10,222.799,,,216.617,207.541
+Transports,C-43,,49.524,27.342,27.332,
+Transports,C-45,67.743,,66.189,52.507,48.83
+Transports,C-46,341.831,314.7,259.268,233.377,221.55
+Transports,C-47,128.761,109.696,92.417,88.574,85.035
+Transports,C-53,136.6999,143.479,150.47,,
+Transports,C-54,516.553,370.492,400.831,285.113,259.816
+Transports,C-60,,126.881,113.168,,
+Transports,C-61,,12.208,13.057,15.973,
+Transports,UC-64,,,36.811,35.264,32.427
+Transports,C-69,,,605.456,,
+Transports,C-74,,1213.445,,,
+Transports,C-78,,27.47,33.797,,
+Transports,C-82,,,,478.549,310.233
+Transports,C-87,,,,208.78,
+Trainers,PT-13.PT-17PT-27.,10.022,9.896,,,
+Trainers,PT-19.PT-23.PT-26,9.71,12.911,11.1,15.052,
+Trainers,BT-13.BT-15,25.035,23.068,,,
+Trainers,AT-6,29.423,25.672,,22.952,
+Trainers,AT-7.AT-11,76.827,85.688,68.441,,
+Trainers,AT-8.AT-17,41.701,34.323,,,
+Trainers,AT-9,44.321,44.392,,,
+Trainers,AT-10,43.501,42.688,,,
+Trainers,AT-16,,27.564,27.416,,
+Trainers,AT-19,,26.574,22.496,,
+Trainers,AT-21,,92.295,,,
+Communications,L-1,25.419,,,,
+Communications,L-2,,2.77,2.916,,
+Communications,L-3,,2.236,2.46,,
+Communications,L-4,,2.432,2.437,2.62,2.701
+Communications,L-5,,10.165,,9.704,8.323
+Communications,L-6,,,6.065,,
+Communications,R-4,,,43.584,,
+Communications,R-5.TR-5,,,59.488,50.95,
+Communications,R-6,,,47.635,,
