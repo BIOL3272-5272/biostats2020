@@ -32,7 +32,8 @@ Assignment for grad / honors students or extra credit. [link](https://drive.goog
 - DUE 2/12
 **Classwork:** [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1011578). [worksheet](https://drive.google.com/open?id=1hUoIclWyEIFE3WFXyKDqkYwQgkuHUgvE), [navigating paths](https://drive.google.com/open?id=1t9vN3qikBBDa-QwllSlS92Uit2uetosH), [tidying/mutating/summarizing/plotting/etc](https://drive.google.com/open?id=1stLmCYVwHjy6RTFN5NY_n-Gf35Yq19nA), [writing functions](https://drive.google.com/open?id=1lpA4TB0ZH_CRTGQPqPq1uMAsfSp1x3FC), [RMarkdown challenge](https://drive.google.com/open?id=1Y0DcMWjzBfaRBxTOfZwO07fJWJjliOh8), [additional challenges](https://drive.google.com/open?id=1HPBYZu8TDQH6fHDqc0tG-QdW4zpJzZSN) for loops, while loops, and some base R [guide](https://drive.google.com/open?id=1yfxscMvwnaNRLj6Y3LwN85oVAJF9IurH) [challenge](https://drive.google.com/open?id=12NamxdQz72NO0eFpOQ5MQ9ymiBZkm_wC) .
 
-Data:   raw_costs.xlsx https://github.com/BIOL3272-5272/biostats2020/raw/master/RawCost.xlsx .
+Data:   rawosts.csv raw_costs.xlsx https://github.com/BIOL3272-5272/biostats2020/raw/master/RawCost.xlsx .   
+
 tidied data: https://raw.githubusercontent.com/BIOL3272-5272/biostats2020/master/tidy_costs.csv .
 - DUE 2/14 TBD .
 
