@@ -10,22 +10,13 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
-**ANNOUNCEMENTS (2/10)**
+**ANNOUNCEMENTS (2/13)**
 
-I have generated some R  Youtube videos. I'm doing them in order of your priorities from the class poll [more may come].  
-Also **please send me any R questions you have**. Ideally this would be from a real world problem / project and/or an something for a different class. If you send me these today, I'll try to integrate them into tomorrow's learning. 
+During Chaochih's office hours tomorrow morning from 9:15 - 10:15 am, she will be available to answer any last-minute questions you have about the Dealing with Data assessment or any questions in general instead of reviewing classwork code.
 
+Also, remember to [upload the Dealing with Data assessment on Canvas](https://canvas.umn.edu/courses/151855/assignments/1003199) AND bring a printed copy to class.
 
-[tidying](https://www.youtube.com/watch?v=zprTzgUd7dM&feature=youtu.be) Bacterial growth as an example.    
-[ggplots](https://youtu.be/CjxaCHs2hp4). Includes adding errorbars and lines for means.     
-[fitlering, mutating, summarizing, grouping by, arranging](https://youtu.be/LmxrQ_xo4Aw).     
-[Rmarkdown](https://www.youtube.com/watch?v=B0kQ5Xf1JxY&feature=youtu.be).       
-[loading data and navigating working directories](https://youtu.be/yPWFAnpXf5E).      
-[writing functions](https://youtu.be/3XL6NSp8BwM).      
-[flow control](https://youtu.be/euxn17x3mGI) for loops and while loops.     
-
-
-
+See everyone tomorrow!
 
 ---
 
