@@ -12,7 +12,7 @@ permalink: /assignments/wk-05-assignments
 
 ### Homework
 
-- DUE 2/17 in class. **Homework assigned:** [Homework_10](https://drive.google.com/open?id=1tVQxb-CY8Fw0BZD0ULa8fVU_QnJo8Nqv).
+- DUE 2/17 in class. [Homework_10](https://drive.google.com/open?id=1tVQxb-CY8Fw0BZD0ULa8fVU_QnJo8Nqv) based on [Ch07 slides](https://drive.google.com/open?id=1BJLKx-Cm2UXTE8iHCTOZ8Yo9AqFA2Iev).
 - DUE 2/19 TBD .
 - DUE 2/21 TBD .
 
