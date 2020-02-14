@@ -10,7 +10,7 @@ permalink: /assignments/wk-04-assignments
 
 **DUE 2/14.** R assessment Dealing with Data DUE 2/14, upload on Canvas and bring a printed copy to class. [LINK](https://canvas.umn.edu/courses/151855/assignments/1003199).
 
-**ASSIGNED 2/13.** Stats Concept assessment DUE 2/24.
+**ASSIGNED 2/14.** Stats Concept assessment DUE 2/24. [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1013324)
 
 ### Homework
 
@@ -27,9 +27,8 @@ Assignment for grad / honors students or extra credit. [link](https://drive.goog
 
 - DUE 2/14 NA .
 
-
-
 ### Classwork
+
 - DUE 2/10 Link [here](https://drive.google.com/open?id=1H7KuZH1dNF1oy2pID5mRGXcwSSYmR3yF). [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1008524). [google forum](https://forms.gle/UddSKDqArRJz8Y6M7). Data set: https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02f2_5SalmonBodySize.csv note there is no R template today.    [key](https://drive.google.com/open?id=1dOft-8v4OKG8TRQKiaLQMtoE_UWUDF36).   [youtube](https://www.youtube.com/watch?v=RkYAA7thVqA).
 - DUE 2/12
 **Classwork:** [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1011578). [worksheet](https://drive.google.com/open?id=1hUoIclWyEIFE3WFXyKDqkYwQgkuHUgvE), [navigating paths](https://drive.google.com/open?id=1t9vN3qikBBDa-QwllSlS92Uit2uetosH), [tidying/mutating/summarizing/plotting/etc](https://drive.google.com/open?id=1stLmCYVwHjy6RTFN5NY_n-Gf35Yq19nA), [writing functions](https://drive.google.com/open?id=1lpA4TB0ZH_CRTGQPqPq1uMAsfSp1x3FC), [RMarkdown challenge](https://drive.google.com/open?id=1Y0DcMWjzBfaRBxTOfZwO07fJWJjliOh8), [additional challenges](https://drive.google.com/open?id=1HPBYZu8TDQH6fHDqc0tG-QdW4zpJzZSN) for loops, while loops, and some base R [guide](https://drive.google.com/open?id=1yfxscMvwnaNRLj6Y3LwN85oVAJF9IurH) [challenge](https://drive.google.com/open?id=12NamxdQz72NO0eFpOQ5MQ9ymiBZkm_wC) .
@@ -44,9 +43,6 @@ tidied data: https://raw.githubusercontent.com/BIOL3272-5272/biostats2020/master
 - DUE 2/10 [Class 9 Quiz](https://canvas.umn.edu/courses/151855/quizzes/238856).
 - DUE 2/12 [Class 10 Quiz](https://canvas.umn.edu/courses/151855/quizzes/239374) .
 - DUE 2/14 NA .
-
-
-
 
 ### readings for hw due 2/10
 
