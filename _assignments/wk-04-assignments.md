@@ -6,9 +6,11 @@ permalink: /assignments/wk-04-assignments
 
 ### Week 4: 2/10, 2/12, 2/14
 
-### Major Assessment
+### Major Assessments
 
 **DUE 2/14.** R assessment Dealing with Data DUE 2/14, upload on Canvas and bring a printed copy to class. [LINK](https://canvas.umn.edu/courses/151855/assignments/1003199).
+
+**ASSIGNED 2/13.** Stats Concept assessment DUE 2/24.
 
 ### Homework
 
