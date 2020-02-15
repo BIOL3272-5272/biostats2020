@@ -10,13 +10,9 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
-**ANNOUNCEMENTS (2/13)**
+**ANNOUNCEMENTS (2/15)**
 
-During Chaochih's office hours tomorrow morning from 9:15 - 10:15 am, she will be available to answer any last-minute questions you have about the Dealing with Data assessment or any questions in general instead of reviewing classwork code.
-
-Also, remember to [upload the Dealing with Data assessment on Canvas](https://canvas.umn.edu/courses/151855/assignments/1003199) AND bring a printed copy to class.
-
-See everyone tomorrow!
+A [video](https://youtu.be/5B7wGrgpioQ) for the binomial distribution to help with that [homework 10](https://drive.google.com/open?id=1tVQxb-CY8Fw0BZD0ULa8fVU_QnJo8Nqv) is posted! Also note I fixed and expanded the [slides for proportions](https://drive.google.com/open?id=1BJLKx-Cm2UXTE8iHCTOZ8Yo9AqFA2Iev) slightly. 
 
 ---
 
