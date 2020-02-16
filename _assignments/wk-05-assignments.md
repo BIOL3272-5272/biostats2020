@@ -24,6 +24,6 @@ permalink: /assignments/wk-05-assignments
 
 ### Quizzes
 
-- DUE 2/17 TBD.
+- DUE 2/17 [Class 12 Quiz](https://canvas.umn.edu/courses/151855/quizzes/240186).
 - DUE 2/19 TBD.
 - DUE 2/21 TBD.
