@@ -10,10 +10,12 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
-**ANNOUNCEMENTS (2/15)**
+**ANNOUNCEMENTS (2/17)**
 
-A [video](https://youtu.be/5B7wGrgpioQ) for the binomial distribution to help with that [homework 10](https://drive.google.com/open?id=1tVQxb-CY8Fw0BZD0ULa8fVU_QnJo8Nqv) is posted! Also note I fixed and expanded the [slides for proportions](https://drive.google.com/open?id=1BJLKx-Cm2UXTE8iHCTOZ8Yo9AqFA2Iev) slightly. 
-
+BINOMIAL CLASSWORK KEY as [pdf](https://drive.google.com/open?id=1Lp1j_supy6V9o-rYmUdJp75gcPw289Fo) or [rmd](https://drive.google.com/open?id=1IArHtvuwtJFbSrSvnzCXF6sinoDBdMZp).   
+BINOMIAL HOMEWORK [KEY](https://drive.google.com/open?id=1rf8gIWh8Vr8Ngj74UdKkg2xOA1fDHyLC) .     
+ **SEE THIS [VIDEO](https://youtu.be/V0OhonHGtDo) FOR HELP WITH TRUFFLES** . 
+ 
 ---
 
 <p>&nbsp;</p>
