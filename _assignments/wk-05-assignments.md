@@ -19,7 +19,7 @@ permalink: /assignments/wk-05-assignments
 ### Classwork
 
 - DUE 2/17 Binomial classwork [doc](https://drive.google.com/open?id=1WZ4prur66gRo_SJCoheBpp5-c1vo2MH8), turn in [here](https://canvas.umn.edu/courses/151855/assignments/1014443).    CLASSWORK KEY as [pdf](https://drive.google.com/open?id=1Lp1j_supy6V9o-rYmUdJp75gcPw289Fo) or [rmd](https://drive.google.com/open?id=1IArHtvuwtJFbSrSvnzCXF6sinoDBdMZp).
-- DUE 2/19 TBD.
+- DUE 2/19 Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1017104).
 - DUE 2/21 TBD.
 
 ### Quizzes
