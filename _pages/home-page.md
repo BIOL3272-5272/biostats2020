@@ -12,10 +12,10 @@ redirect_from:
 
 **ANNOUNCEMENTS (2/17)**
 
-BINOMIAL CLASSWORK KEY as [pdf](https://drive.google.com/open?id=1Lp1j_supy6V9o-rYmUdJp75gcPw289Fo) or [rmd](https://drive.google.com/open?id=1IArHtvuwtJFbSrSvnzCXF6sinoDBdMZp).   
-BINOMIAL HOMEWORK [KEY](https://drive.google.com/open?id=1rf8gIWh8Vr8Ngj74UdKkg2xOA1fDHyLC) .     
- **SEE THIS [VIDEO](https://youtu.be/V0OhonHGtDo) FOR HELP WITH TRUFFLES** . 
- 
+BINOMIAL CLASSWORK KEY as [pdf](https://drive.google.com/open?id=1Lp1j_supy6V9o-rYmUdJp75gcPw289Fo) or [rmd](https://drive.google.com/open?id=1IArHtvuwtJFbSrSvnzCXF6sinoDBdMZp).
+BINOMIAL HOMEWORK [KEY](https://drive.google.com/open?id=1rf8gIWh8Vr8Ngj74UdKkg2xOA1fDHyLC) .
+ **SEE THIS [VIDEO](https://youtu.be/V0OhonHGtDo) FOR HELP WITH TRUFFLES** .
+
 ---
 
 <p>&nbsp;</p>
@@ -33,11 +33,14 @@ Biological Sciences Center 64 (St. Paul Campus)
 
 ## Office Hours
 
-**Yaniv Brandvain:** MWF 9:30 - 10:15 am<br/>
-Location: Biological Sciences Center 64 (St. Paul Campus), or by email
+**Yaniv Brandvain:** MWF 9:30 - 10:15 am or by email<br/>
+Location: Biological Sciences Center 64 (St. Paul Campus)
 
-**Chaochih Liu:** F 9:15 - 10:15 am<br/>
-Location: Biological Sciences Center 64 (St. Paul Campus), or by email
+**Chaochih Liu:** F 9:30 - 10:15 am and F 11:30 am - 12:15 pm or by email<br/>
+Location:
+
+- 9:30 - 10:15 am in Biological Sciences Center 64 (St. Paul Campus)
+- 11:30 am - 12:15 pm, room announced on a week to week basis
 
 Chaochih Office Hours - add code review requests to [this doc](https://docs.google.com/document/d/133gwjcjJF6nAep2pu2oa2Qb3wC1K3mBxucm-1HmA5Xo/edit?usp=sharing).
 
