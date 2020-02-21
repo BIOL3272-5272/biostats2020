@@ -39,8 +39,8 @@ Location: Biological Sciences Center 64 (St. Paul Campus)
 **Chaochih Liu:** F 9:30 - 10:15 am and F 11:30 am - 12:15 pm or by email<br/>
 Location:
 
-- 9:30 - 10:15 am in Biological Sciences Center 64 (St. Paul Campus)
-- 11:30 am - 12:15 pm, room announced on a week to week basis
+- 9:30 - 10:15 am in **Biological Sciences Center 64 (St. Paul Campus)**
+- 11:30 am - 12:15 pm in **213 Borlaug Hall**.
 
 Chaochih Office Hours - add code review requests to [this doc](https://docs.google.com/document/d/133gwjcjJF6nAep2pu2oa2Qb3wC1K3mBxucm-1HmA5Xo/edit?usp=sharing).
 
