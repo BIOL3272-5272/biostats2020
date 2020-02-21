@@ -10,11 +10,14 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
-**ANNOUNCEMENTS (2/17)**
+**ANNOUNCEMENTS (2/21)**
 
-BINOMIAL CLASSWORK KEY as [pdf](https://drive.google.com/open?id=1Lp1j_supy6V9o-rYmUdJp75gcPw289Fo) or [rmd](https://drive.google.com/open?id=1IArHtvuwtJFbSrSvnzCXF6sinoDBdMZp).
-BINOMIAL HOMEWORK [KEY](https://drive.google.com/open?id=1rf8gIWh8Vr8Ngj74UdKkg2xOA1fDHyLC) .
- **SEE THIS [VIDEO](https://youtu.be/V0OhonHGtDo) FOR HELP WITH TRUFFLES** .
+**Wrap up from today**   Classwork [key](https://drive.google.com/open?id=1eBHMcFXlUFk61a5fiI4_5eBlr5qDbDaF), homework [key](https://drive.google.com/open?id=1aqXGQFAL9s_GQUn0qq0ZOz9tZiBwAucf) as youtube [video](https://youtu.be/LCcaMI7jJgo)
+
+**Weekend Stuff:**    
+(1). Stats Concept assessment DUE 2/24. [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1013324).     
+(2). Normal distribution [homework].  (https://docs.google.com/forms/d/e/1FAIpQLSfdCjWptSiP0WvaEeeAebegKMKNwlxmO9aro0MlCzTRJs2Ygg/viewform?usp=sf_link) to go with [slides](https://drive.google.com/open?id=1bVFZe_2omY5qdi5eMl21iS6EqkK-nPZx) and/or [video](https://www.youtube.com/watch?v=qP39GdBAVSw&feature=youtu.be).  
+(3). Turn in r assesement with corrections for partial credit on monday.    
 
 ---
 
