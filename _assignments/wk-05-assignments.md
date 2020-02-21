@@ -26,5 +26,5 @@ permalink: /assignments/wk-05-assignments
 
 - DUE 2/17 [Class 12 Quiz](https://canvas.umn.edu/courses/151855/quizzes/240186).
 - DUE 2/19 [Class 13 Quiz](https://canvas.umn.edu/courses/151855/quizzes/240633).
-- DUE 2/21 TBD.
+- DUE 2/21 [Class 14 Quiz](https://canvas.umn.edu/courses/151855/quizzes/240910).
 
