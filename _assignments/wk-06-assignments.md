@@ -8,6 +8,8 @@ permalink: /assignments/wk-06-assignments
 
 ### Major Assessments
 
+**DUE 2/24**. [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1013324). [doc](https://drive.google.com/open?id=1qGRnjPsVIxk78NOiV624YErK2ZA_m9Km).    
+
 **ASSIGNED 2/24.** 
 
 ### Homework
