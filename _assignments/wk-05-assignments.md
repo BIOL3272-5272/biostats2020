@@ -8,7 +8,7 @@ permalink: /assignments/wk-05-assignments
 
 ### Major Assessments
 
-**ASSIGNED 2/14.** Stats Concept assessment **DUE 2/24**. [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1013324)
+**ASSIGNED 2/14.** Stats Concept assessment **DUE 2/24**. [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1013324). [doc](https://drive.google.com/open?id=1qGRnjPsVIxk78NOiV624YErK2ZA_m9Km).  
 
 ### Homework
 
