@@ -26,6 +26,6 @@ permalink: /assignments/wk-06-assignments
 
 ### Quizzes
 
-- DUE 2/24 TBD.
+- DUE 2/24 [Class 15 Quiz](https://canvas.umn.edu/courses/151855/quizzes/241132).
 - DUE 2/26 TBD.
 - DUE 2/28 TBD.
