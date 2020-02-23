@@ -20,7 +20,7 @@ permalink: /assignments/wk-06-assignments
 
 ### Classwork
 
-- DUE 2/24 TBD.
+- DUE 2/24 TBD. [Upload file here](https://canvas.umn.edu/courses/151855/assignments/1019937).
 - DUE 2/26 TBD.
 - DUE 2/28 TBD.
 
