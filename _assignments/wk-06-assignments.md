@@ -15,7 +15,7 @@ permalink: /assignments/wk-06-assignments
 ### Homework
 
 - DUE 2/24 Normal distribution [homework](https://docs.google.com/forms/d/e/1FAIpQLSfdCjWptSiP0WvaEeeAebegKMKNwlxmO9aro0MlCzTRJs2Ygg/viewform?usp=sf_link) to go with [Ch10 slides](https://drive.google.com/open?id=1bVFZe_2omY5qdi5eMl21iS6EqkK-nPZx) and/or [video](https://www.youtube.com/watch?v=qP39GdBAVSw&feature=youtu.be).
-- DUE 2/26 Inference for a Normal Population [homework](https://drive.google.com/open?id=1lUOd3nYDRhKsgSBnn48EGIxxXlpYyyh5) to go with [Ch11 slides](https://drive.google.com/open?id=17yvw9gJPsQ8OGBft5qZJzqKFJcD8OhJc) and/or [video](https://youtu.be/ktu3zuEIOPo). or as [google form](https://docs.google.com/forms/d/e/1FAIpQLSdzOiTrJybqMDEMUF54V8WRjVkJYOmtYtgi5ekO2B-qGASbdw/viewform?usp=sf_link). 
+- DUE 2/26 nference for a Normal Population [homework](https://drive.google.com/open?id=1lUOd3nYDRhKsgSBnn48EGIxxXlpYyyh5) turn in worksheet or  or as [google form](https://docs.google.com/forms/d/e/1FAIpQLSdzOiTrJybqMDEMUF54V8WRjVkJYOmtYtgi5ekO2B-qGASbdw/viewform?usp=sf_link). Goes with [Ch11 slides](https://drive.google.com/open?id=17yvw9gJPsQ8OGBft5qZJzqKFJcD8OhJc) and/or [video](https://youtu.be/ktu3zuEIOPo). DATA https://whitlockschluter3e.zoology.ubc.ca/Data/chapter11/chap11e3Temperature.csv.   
 - DUE 2/28 TBD.
 
 ### Classwork
