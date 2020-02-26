@@ -10,7 +10,7 @@ permalink: /assignments/wk-06-assignments
 
 **DUE 2/24**. [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1013324). [doc](https://drive.google.com/open?id=1qGRnjPsVIxk78NOiV624YErK2ZA_m9Km).
 
-**ASSIGNED 2/24**. R assessment 2 **DUE 3/4.** [Canvas link](TBD). [doc](https://drive.google.com/open?id=1w8_kC0Jmk6iXXlyPs3uHIY1deZzpp-aL).
+**ASSIGNED 2/24**. R assessment 2 **DUE 3/4.** [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1021888). [doc](https://drive.google.com/open?id=1w8_kC0Jmk6iXXlyPs3uHIY1deZzpp-aL).
 
 ### Homework
 
