@@ -21,7 +21,7 @@ permalink: /assignments/wk-06-assignments
 ### Classwork
 
 - DUE 2/24 Doc [Here](https://drive.google.com/open?id=172tV3LI9czUlaVHdJPgS_G8HzV_uxJnT). Upload file [here](https://canvas.umn.edu/courses/151855/assignments/1019937).
-- DUE 2/26 TBD.
+- DUE 2/26 doc [Here](https://drive.google.com/open?id=1XWOtQNk5RvGGuXTuYNM9iBMMiYXvCuGq). upload [here](https://canvas.umn.edu/courses/151855/assignments/1021971)
 - DUE 2/28 TBD.
 
 ### Quizzes
