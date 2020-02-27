@@ -30,7 +30,7 @@ Data 2. https://whitlockschluter3e.zoology.ubc.ca/Data/chapter11/chap11q13SyrupS
 video key 1. body temp [link](https://youtu.be/D3gY-vhibuQ) [r code](https://drive.google.com/open?id=1ePrfCKmjjaikeQChBr0OtazLXeto1vXw).    
 video key 2. simulation [link](https://youtu.be/iO2JghjexXw) or R [script](https://drive.google.com/open?id=1SWo-lS2KzUbyjwMURFGCYYWyXWZ04IFb).  
 video key 3. syrup [link](https://youtu.be/MZ369OIvQo4) R script [link](https://drive.google.com/open?id=1CTx7TjCRtPKAskXCWFC4PYdw19TNzEfe).   
-- DUE 2/28 TBD.
+- DUE 2/28 Upload [on Canvas here](https://canvas.umn.edu/courses/151855/assignments/1023457).
 
 ### Quizzes
 
