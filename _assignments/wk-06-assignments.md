@@ -8,8 +8,6 @@ permalink: /assignments/wk-06-assignments
 
 ### Major Assessments
 
-**DUE 2/24**. [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1013324). [doc](https://drive.google.com/open?id=1qGRnjPsVIxk78NOiV624YErK2ZA_m9Km).
-
 **ASSIGNED 2/24**. R assessment 2 **DUE 3/4.** [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1021888). [doc](https://drive.google.com/open?id=1w8_kC0Jmk6iXXlyPs3uHIY1deZzpp-aL).
 
 ### Homework
@@ -30,10 +28,16 @@ Data 2. https://whitlockschluter3e.zoology.ubc.ca/Data/chapter11/chap11q13SyrupS
 video key 1. body temp [link](https://youtu.be/D3gY-vhibuQ) [r code](https://drive.google.com/open?id=1ePrfCKmjjaikeQChBr0OtazLXeto1vXw).    
 video key 2. simulation [link](https://youtu.be/iO2JghjexXw) or R [script](https://drive.google.com/open?id=1SWo-lS2KzUbyjwMURFGCYYWyXWZ04IFb).  
 video key 3. syrup [link](https://youtu.be/MZ369OIvQo4) R script [link](https://drive.google.com/open?id=1CTx7TjCRtPKAskXCWFC4PYdw19TNzEfe).   
-- DUE 2/28 Upload [on Canvas here](https://canvas.umn.edu/courses/151855/assignments/1023457).
+- DUE 2/28 [Worksheet](https://drive.google.com/open?id=1g0CnWqrE8B1lwT7G5jOk29dVua9kLhtj) start with this [R Code](https://drive.google.com/open?id=1b_jUdM65WovNdOUw2muaepJd7S-j_aXe).Turn in in worksheet in class (keep R for yourself).   
 
 ### Quizzes
 
 - DUE 2/24 [Class 15 Quiz](https://canvas.umn.edu/courses/151855/quizzes/241132).
 - DUE 2/26 [Class 16 Quiz](https://canvas.umn.edu/courses/151855/quizzes/241534).
-- DUE 2/28 TBD.
+- DUE 2/28 [Class 17 Quiz]((https://canvas.umn.edu/courses/151855/quizzes/241833).   
+
+
+
+
+
+
