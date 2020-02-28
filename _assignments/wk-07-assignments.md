@@ -4,7 +4,7 @@ collection: assignments
 permalink: /assignments/wk-07-assignments
 ---
 
-### Week 6: 3/2, 3/4, 3/6
+### Week 7: 3/2, 3/4, 3/6
 
 ### Major Assessments
 
