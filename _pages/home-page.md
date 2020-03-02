@@ -12,9 +12,11 @@ redirect_from:
 
 **ANNOUNCEMENTS (3/2)**
 
-**Wrap up from today** [Practice exam doc](https://docs.google.com/document/d/1MFjV0rOaBwSptrUOSvq1kFnmmfNSDmU6zBycJRFY_bk/edit?usp=sharing). [Practice exam key](https://docs.google.com/document/d/1ZqiA2qiew7YLwqfvqXIEAve0zgtQaHlgL5LKb77W4fU/edit?usp=sharing)
+**Wrap up from today**
 
-[Stats assessment key](https://drive.google.com/open?id=1jwnY2xMVCQp66VwWXHM-CMM3zySCicSR)
+- [Practice exam doc](https://docs.google.com/document/d/1MFjV0rOaBwSptrUOSvq1kFnmmfNSDmU6zBycJRFY_bk/edit?usp=sharing). [Practice exam key](https://docs.google.com/document/d/1ZqiA2qiew7YLwqfvqXIEAve0zgtQaHlgL5LKb77W4fU/edit?usp=sharing)
+- [Dealing with data assessment key](https://drive.google.com/open?id=1s4GrqiL6vvpSJTWoMQaCK43z4znUCWaK)
+- [Stats assessment key](https://drive.google.com/open?id=1jwnY2xMVCQp66VwWXHM-CMM3zySCicSR)
 
 ---
 

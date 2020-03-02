@@ -11,7 +11,9 @@ permalink: /assignments/wk-07-assignments
 **DUE 3/4**. R assessment 2 **DUE 3/4.** [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1021888). [doc](https://drive.google.com/open?id=1w8_kC0Jmk6iXXlyPs3uHIY1deZzpp-aL).
 
 **Keys:**
-[Stats assessment key](https://drive.google.com/open?id=1jwnY2xMVCQp66VwWXHM-CMM3zySCicSR)
+
+- [Dealing with data assessment key](https://drive.google.com/open?id=1s4GrqiL6vvpSJTWoMQaCK43z4znUCWaK)
+- [Stats assessment key](https://drive.google.com/open?id=1jwnY2xMVCQp66VwWXHM-CMM3zySCicSR)
 
 ### Homework
 
