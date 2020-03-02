@@ -10,14 +10,11 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
-**ANNOUNCEMENTS (2/21)**
+**ANNOUNCEMENTS (3/2)**
 
-**Wrap up from today**   Classwork [key](https://drive.google.com/open?id=1eBHMcFXlUFk61a5fiI4_5eBlr5qDbDaF), homework [key](https://drive.google.com/open?id=1aqXGQFAL9s_GQUn0qq0ZOz9tZiBwAucf) as youtube [video](https://youtu.be/LCcaMI7jJgo)
+**Wrap up from today** [Practice exam doc](https://docs.google.com/document/d/1MFjV0rOaBwSptrUOSvq1kFnmmfNSDmU6zBycJRFY_bk/edit?usp=sharing). [Practice exam key](https://docs.google.com/document/d/1ZqiA2qiew7YLwqfvqXIEAve0zgtQaHlgL5LKb77W4fU/edit?usp=sharing)
 
-**Weekend Stuff:**    
-(1). Stats Concept assessment DUE 2/24. [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1013324).     
-(2). Normal distribution [homework].  (https://docs.google.com/forms/d/e/1FAIpQLSfdCjWptSiP0WvaEeeAebegKMKNwlxmO9aro0MlCzTRJs2Ygg/viewform?usp=sf_link) to go with [slides](https://drive.google.com/open?id=1bVFZe_2omY5qdi5eMl21iS6EqkK-nPZx) and/or [video](https://www.youtube.com/watch?v=qP39GdBAVSw&feature=youtu.be).  
-(3). Turn in r assesement with corrections for partial credit on monday.    
+[Stats assessment key](https://drive.google.com/open?id=1jwnY2xMVCQp66VwWXHM-CMM3zySCicSR)
 
 ---
 

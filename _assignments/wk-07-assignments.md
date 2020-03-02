@@ -10,6 +10,9 @@ permalink: /assignments/wk-07-assignments
 
 **DUE 3/4**. R assessment 2 **DUE 3/4.** [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1021888). [doc](https://drive.google.com/open?id=1w8_kC0Jmk6iXXlyPs3uHIY1deZzpp-aL).
 
+**Keys:**
+[Stats assessment key](https://drive.google.com/open?id=1jwnY2xMVCQp66VwWXHM-CMM3zySCicSR)
+
 ### Homework
 
 - DUE 3/2 Honors / Grad / Extra credit assignment to come. Builds on likelihood [slides](https://drive.google.com/open?id=1UzbkYetGzKqfpCBrs3FsbnGkVgwhWxN6) or [video](https://youtu.be/3jY3yzUXf_s) and bayesian [posted soon] approaches. These will help with challenge questions.
@@ -18,7 +21,7 @@ permalink: /assignments/wk-07-assignments
 
 ### Classwork
 
-- 3/2 Practive exam.
+- 3/2 [Practice exam doc](https://docs.google.com/document/d/1MFjV0rOaBwSptrUOSvq1kFnmmfNSDmU6zBycJRFY_bk/edit?usp=sharing). [Practice exam key](https://docs.google.com/document/d/1ZqiA2qiew7YLwqfvqXIEAve0zgtQaHlgL5LKb77W4fU/edit?usp=sharing)
 - 3/4 Review.
 - 3/6 Midterm.
 
