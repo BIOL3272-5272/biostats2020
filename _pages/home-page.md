@@ -11,12 +11,12 @@ redirect_from:
 <!-- This is the front page (home page) of the website -->
 
 **ANNOUNCEMENTS (3/2)**
+- 1) Here is the [key](https://drive.google.com/open?id=1dilQVJww58xlWrKeSTdUliqDtYO0TvUA) to the R problem set. Turn in corrections [HERE](https://canvas.umn.edu/courses/151855/assignments/1027811) by march 16 [Actual Due date is monday March 9, but i will accept corrections until monday march 16th for full consideration] Note: Simply copying and pasting from the key will not get you any correction points. Discuss what you did wrong, why it was wrong,  and why this is a fix, etc so that you gain something from this. 
 
-**Wrap up from today**
+2) Review  session tomorrow [thursday] from 6:30 - 9:00 pm in Cargill 105. I'll have pizza. Let me know if you plan to join.
 
-- [Practice exam doc](https://docs.google.com/document/d/1MFjV0rOaBwSptrUOSvq1kFnmmfNSDmU6zBycJRFY_bk/edit?usp=sharing). [Practice exam key](https://docs.google.com/document/d/1ZqiA2qiew7YLwqfvqXIEAve0zgtQaHlgL5LKb77W4fU/edit?usp=sharing)
-- [Dealing with data assessment key](https://drive.google.com/open?id=1s4GrqiL6vvpSJTWoMQaCK43z4znUCWaK)
-- [Stats assessment key](https://drive.google.com/open?id=1jwnY2xMVCQp66VwWXHM-CMM3zySCicSR)
+3) Over break there will be a standard homework assignment in addition to r corrections
+
 
 ---
 
