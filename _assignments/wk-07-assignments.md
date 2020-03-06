@@ -8,7 +8,7 @@ permalink: /assignments/wk-07-assignments
 
 ### Major Assessments
 
-**DUE 3/4**. R assessment 2 **DUE 3/4.** [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1021888). [doc](https://drive.google.com/open?id=1w8_kC0Jmk6iXXlyPs3uHIY1deZzpp-aL).
+**DUE 3/4**. R assessment 2 **DUE 3/4.** [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1021888). [doc](https://drive.google.com/open?id=1w8_kC0Jmk6iXXlyPs3uHIY1deZzpp-aL). Submit **corrections** on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1027811)
 
 **Keys:**
 
