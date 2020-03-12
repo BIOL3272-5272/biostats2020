@@ -10,12 +10,18 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
-**ANNOUNCEMENTS (3/2)**
-- 1) Here is the [key](https://drive.google.com/open?id=1dilQVJww58xlWrKeSTdUliqDtYO0TvUA) to the R problem set. Turn in corrections [HERE](https://canvas.umn.edu/courses/151855/assignments/1027811) by march 16 [Actual Due date is monday March 9, but i will accept corrections until monday march 16th for full consideration] Note: Simply copying and pasting from the key will not get you any correction points. Discuss what you did wrong, why it was wrong,  and why this is a fix, etc so that you gain something from this. 
+**SPRING BREAK/CORVIDE UPDATES**
 
-2) Review  session tomorrow [thursday] from 6:30 - 9:00 pm in Cargill 105. I'll have pizza. Let me know if you plan to join.
 
-3) Over break there will be a standard homework assignment in addition to r corrections
+With the latest news from the U, I'm trying to juggle things for us. Check the week 8 module (Links to an external site.) or emails for more info as it comes.
+
+- *Optional meeting on monday during classtime* [zoom link to come, once I figure that out], and you will get modest extra credit [1 point] for attending. We will **(1)** go over the exam **(2)** go over the R assessment  **(3)** discuss the final project **(4)** discuss plans moving forward  **(5)** go over ANOVA homework if you have questions **(6)**  Figure out zoom / zoom rooms etc. 
+
+- *Change in due dates for you*:  
+    -  **(1)** Corrections for the R assessment will be accepted until Tuesday night at midnight [key here](https://drive.google.com/open?id=1dilQVJww58xlWrKeSTdUliqDtYO0TvUA), turn it in [here](https://canvas.umn.edu/courses/151855/assignments/1027811).     
+    -  **(2)** The [ANOVA homework](https://docs.google.com/forms/d/e/1FAIpQLSd1s2Il7hNop_TFs4x6FNc5kdeRGttIGLJtMPhz8onPxTlqKw/viewform) is now due weds before class.
+
+Stay safe and see you soon!
 
 
 ---
