@@ -13,7 +13,7 @@ redirect_from:
 **SPRING BREAK/CORVIDE UPDATES**
 
 
-With the latest news from the U, I'm trying to juggle things for us. Check the week 8 module (Links to an external site.) or emails for more info as it comes.
+With the latest news from the U, I'm trying to juggle things for us. Check the [week 8 module](https://biol3272-5272.github.io/biostats2020/modules/2020-03-16-week08) or emails for more info as it comes.
 
 - *Optional meeting on monday during classtime* [zoom link to come, once I figure that out], and you will get modest extra credit [1 point] for attending. We will **(1)** go over the exam **(2)** go over the R assessment  **(3)** discuss the final project **(4)** discuss plans moving forward  **(5)** go over ANOVA homework if you have questions **(6)**  Figure out zoom / zoom rooms etc. 
 
