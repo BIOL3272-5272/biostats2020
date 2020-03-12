@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
-**SPRING BREAK/CORVIDE UPDATES**
+**SPRING BREAK/CORVID UPDATES**
 
 
 With the latest news from the U, I'm trying to juggle things for us. Check the [week 8 module](https://biol3272-5272.github.io/biostats2020/modules/2020-03-16-week08) or emails for more info as it comes.
