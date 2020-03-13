@@ -10,12 +10,12 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
-**SPRING BREAK/CORVID UPDATES**
+**SPRING BREAK/COVID UPDATES**
 
 
 With the latest news from the U, I'm trying to juggle things for us. Check the [week 8 module](https://biol3272-5272.github.io/biostats2020/modules/2020-03-16-week08) or emails for more info as it comes.
 
-- *Optional meeting on monday during classtime* Join with this [zoom link](https://umn.zoom.us/j/100430289), meeting ID 100-430-289, and you will get modest extra credit [1 point] for attending. We will **(1)** go over the exam **(2)** go over the R assessment  **(3)** discuss the final project **(4)** discuss plans moving forward  **(5)** go over ANOVA homework if you have questions **(6)**  Figure out zoom / zoom rooms etc.
+- *Optional meeting on monday during classtime*: Join with this [zoom link](https://umn.zoom.us/j/100430289), meeting ID 100-430-289, and you will get modest extra credit [1 point] for attending. We will **(1)** go over the exam **(2)** go over the R assessment  **(3)** discuss the final project **(4)** discuss plans moving forward  **(5)** go over ANOVA homework if you have questions **(6)**  Figure out zoom / zoom rooms etc.
 
 - *Change in due dates for you*:
     -  **(1)** Corrections for the R assessment will be accepted until Tuesday night at midnight [key here](https://drive.google.com/open?id=1dilQVJww58xlWrKeSTdUliqDtYO0TvUA), turn it in [here](https://canvas.umn.edu/courses/151855/assignments/1027811).
