@@ -10,6 +10,17 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
+**FIRST UPDATE OF MARCH 16th [one or two more to follow]**
+
+1. First, thanks so much for bearing with me to day, and for your feedback / ideas!    
+2. Please keep up the feedback. Tell me when you're confused. Tell me what else you'd like to learn. Tell me what's working and what isn't. It helps me a lot!    
+3. As a reminder,  email me names of 3-4 potential group members, I'll take these into consideration as I try to make groups.   
+4. I'll send a stronger plan for classwork in the next day or so.  
+5. Feel free to write a brief explanation of what / why things went wrong on specific questions in the exam for partial credit.  Send them to me by email. I think this will be a good opportunity to engage in metacognition, which is an important part of learning.   
+6. Final project detail are on their way in the next few days.    
+7. Be sure to upload you [R assessment fixes](https://canvas.umn.edu/courses/151855/assignments/1027811).    
+
+
 **Midterm key**  
 
 Biostat 2020 [Midterm1Key](https://drive.google.com/open?id=1KoGzjPZhECeVNOLIqens8FUyux9wkYQZ)   or original [exam](https://drive.google.com/open?id=10XsCSs8egzu1INVY6FLVnW_q0z7CLjFc)    
