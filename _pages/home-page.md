@@ -10,6 +10,22 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
+**Midterm key**  
+
+Biostat 2020 [Midterm1Key](https://drive.google.com/open?id=1KoGzjPZhECeVNOLIqens8FUyux9wkYQZ)   or original [exam](https://drive.google.com/open?id=10XsCSs8egzu1INVY6FLVnW_q0z7CLjFc)    
+video key: [Intro](https://youtu.be/Zqmot-fKpLM)       
+video key: [Intro Qs 1-6](https://youtu.be/vaFnTXLKCpg)      
+video key: [Answer 1 & 2](https://youtu.be/5fr2LwqN4gU)   
+video key: [Answer 3 & 4](https://youtu.be/sr7OijexYys)   
+video key: [Answer 5 & 6](https://youtu.be/YtvqxPzPCeo)   
+video key: [Answer 7a](https://youtu.be/n98psm4l-J0)   
+video key: [Answer 7b](https://youtu.be/_aZoMr3vc2s)   
+video key: [Answer 8](https://youtu.be/sgrdsEm8WC4)   
+video key: [Answer 9](https://youtu.be/WiF6QVREdUw)     
+video key: [Answer 10](https://youtu.be/XMLktjH1dbQ)   
+video key: [Answer 11](https://youtu.be/R_Rk8jJoF0M)   
+video key: [Answer 12](https://youtu.be/GPfzT2U8_Kc)   
+
 **SPRING BREAK/COVID UPDATES**
 
 
