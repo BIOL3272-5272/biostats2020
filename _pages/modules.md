@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Detailed descriptions and resorouces for each class"
+title: "Detailed descriptions and resources for each class"
 permalink: /modules/
 author_profile: true
 ---
