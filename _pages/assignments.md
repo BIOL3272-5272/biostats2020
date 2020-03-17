@@ -89,9 +89,7 @@ Review Midterm, ANOVA, and Experimental Design 1
 
 Review, Practice Exam, and Midterm I
 
-### Major Assessments
-
-**DUE 3/4**. R assessment 2 **DUE 3/4.** [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1021888). [doc](https://drive.google.com/open?id=1w8_kC0Jmk6iXXlyPs3uHIY1deZzpp-aL). Submit **corrections** on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1027811)
+**Reminders:** R assessment 2 **DUE 3/4.** [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1021888). [doc](https://drive.google.com/open?id=1w8_kC0Jmk6iXXlyPs3uHIY1deZzpp-aL). Submit **corrections** on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1027811)
 
 **Keys:**
 
@@ -191,22 +189,17 @@ Hypothesis Testing 2 Permutation and Simulation, R Day, and Review
 Assignment for grad / honors students or extra credit. [link](https://drive.google.com/open?id=1_ggOw5zv146LzfjmfJKeFJ9IAad20WeM), based off of this reading [link](https://drive.google.com/file/d/1ar1BEIQORvgNnnb_qOzLEqeCGruRjNHJ/view).
 - DUE 2/14 NA.
 
-### Classwork
+### Quizzes and Classwork
 
-- DUE 2/10 Link [here](https://drive.google.com/open?id=1H7KuZH1dNF1oy2pID5mRGXcwSSYmR3yF). [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1008524). [google forum](https://forms.gle/UddSKDqArRJz8Y6M7). Data set: https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02f2_5SalmonBodySize.csv note there is no R template today. [KEY](https://drive.google.com/open?id=1dOft-8v4OKG8TRQKiaLQMtoE_UWUDF36). [youtube](https://www.youtube.com/watch?v=RkYAA7thVqA).
-- DUE 2/12
-**Classwork:** [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1011578). [worksheet](https://drive.google.com/open?id=1hUoIclWyEIFE3WFXyKDqkYwQgkuHUgvE), [navigating paths](https://drive.google.com/open?id=1t9vN3qikBBDa-QwllSlS92Uit2uetosH), [tidying/mutating/summarizing/plotting/etc](https://drive.google.com/open?id=1stLmCYVwHjy6RTFN5NY_n-Gf35Yq19nA), [writing functions](https://drive.google.com/open?id=1lpA4TB0ZH_CRTGQPqPq1uMAsfSp1x3FC), [RMarkdown challenge](https://drive.google.com/open?id=1Y0DcMWjzBfaRBxTOfZwO07fJWJjliOh8), [additional challenges](https://drive.google.com/open?id=1HPBYZu8TDQH6fHDqc0tG-QdW4zpJzZSN) for loops, while loops, and some base R [guide](https://drive.google.com/open?id=1yfxscMvwnaNRLj6Y3LwN85oVAJF9IurH) [challenge](https://drive.google.com/open?id=12NamxdQz72NO0eFpOQ5MQ9ymiBZkm_wC) .
+- DUE 2/10 [Class 9 Quiz](https://canvas.umn.edu/courses/151855/quizzes/238856). *Classwork* link [here](https://drive.google.com/open?id=1H7KuZH1dNF1oy2pID5mRGXcwSSYmR3yF). [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1008524). [google forum](https://forms.gle/UddSKDqArRJz8Y6M7). Data set: https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02f2_5SalmonBodySize.csv note there is no R template today. [KEY](https://drive.google.com/open?id=1dOft-8v4OKG8TRQKiaLQMtoE_UWUDF36). [youtube](https://www.youtube.com/watch?v=RkYAA7thVqA).
+- DUE 2/12 [Class 10 Quiz](https://canvas.umn.edu/courses/151855/quizzes/239374).
+*Classwork:* [canvas submission](https://canvas.umn.edu/courses/151855/assignments/1011578). [worksheet](https://drive.google.com/open?id=1hUoIclWyEIFE3WFXyKDqkYwQgkuHUgvE), [navigating paths](https://drive.google.com/open?id=1t9vN3qikBBDa-QwllSlS92Uit2uetosH), [tidying/mutating/summarizing/plotting/etc](https://drive.google.com/open?id=1stLmCYVwHjy6RTFN5NY_n-Gf35Yq19nA), [writing functions](https://drive.google.com/open?id=1lpA4TB0ZH_CRTGQPqPq1uMAsfSp1x3FC), [RMarkdown challenge](https://drive.google.com/open?id=1Y0DcMWjzBfaRBxTOfZwO07fJWJjliOh8), [additional challenges](https://drive.google.com/open?id=1HPBYZu8TDQH6fHDqc0tG-QdW4zpJzZSN) for loops, while loops, and some base R [guide](https://drive.google.com/open?id=1yfxscMvwnaNRLj6Y3LwN85oVAJF9IurH) [challenge](https://drive.google.com/open?id=12NamxdQz72NO0eFpOQ5MQ9ymiBZkm_wC).
+- DUE 2/14 No quiz.
 
 Data: rawosts.csv raw_costs.xlsx https://github.com/BIOL3272-5272/biostats2020/raw/master/RawCost.xlsx .
 
 tidied data: https://raw.githubusercontent.com/BIOL3272-5272/biostats2020/master/tidy_costs.csv .
 - DUE 2/14 TBD
-
-### Quizzes
-
-- DUE 2/10 [Class 9 Quiz](https://canvas.umn.edu/courses/151855/quizzes/238856).
-- DUE 2/12 [Class 10 Quiz](https://canvas.umn.edu/courses/151855/quizzes/239374) .
-- DUE 2/14 NA
 
 ### Slides Compilation
 
@@ -243,17 +236,11 @@ Probability 1-2 and Hypothesis Testing 1 Concepts
 - DUE 2/5 [This forum](https://docs.google.com/forms/d/e/1FAIpQLSc0WqFG2wJVqBEvIu2zErAPEEKo8CJfYIiNWio-6kk-fPmG3w/viewform) Here's the canvas [link](https://canvas.umn.edu/courses/151855/assignments/1003920).
 - DUE 2/7 Hypothesis testing [Homework_07](https://drive.google.com/open?id=1sF8dtZLt65VUx7JlqaFmvWKT7Edh_E3t) based off of [Ch06 Slides](https://drive.google.com/open?id=1J0KZMf5LyRJSDIRT5RSuYuU_OrKeiN-F). [Video](https://youtu.be/jO1czUivShE) and blogs [Why do we make stats hard](https://scientistseessquirrel.wordpress.com/2015/10/06/why-do-we-make-statistics-so-hard-for-our-students/) and  [There is only one test](http://allendowney.blogspot.com/2016/06/there-is-still-only-one-test.html) [Homework key](https://drive.google.com/open?id=1dWnCy7nkfFDzJi-CPgtcCHQ4v9HT9wbl).
 
-### Classwork
+### Quizzes and Classwork
 
-- DUE 2/3 Freewrite [link](https://drive.google.com/open?id=1CpQSvcV0Bz9-IOHyMM3mGF9HeZRcpWWl) and probability coding [link](https://drive.google.com/open?id=1rW-X9ebBptdg3CFLswwQ9UntmHvp9sSR) [canvas](https://canvas.umn.edu/courses/151855/assignments/1003717).  DATA [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter09/chap09e4VampireBites.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter09/chap09e4VampireBites.csv). [KEY]([Key](https://drive.google.com/open?id=1VneoAmjlMoHKx6WS0d32GCtts78IsxPZ) )
-- DUE 2/5 [Outline](https://drive.google.com/open?id=1H9fLxxzEhgedmnG684f0ZbYCNXrqmxfy), [seeing theory](https://seeing-theory.brown.edu/) and build off of this [R code](https://drive.google.com/open?id=1ejrkhpGi6rlC9_0EOaM1onUNnnZSrtr0). TURN IN R script [here](https://canvas.umn.edu/courses/151855/assignments/1006092). KEY [as video](https://youtu.be/p0tT95UBnPo) as [pdf](https://drive.google.com/open?id=1vvVHdq-1EF2FuDuP5K_ZoOEXaSh8tgDu).
-- DUE 2/7 [Plan](https://drive.google.com/open?id=1dlI19SZ83BtE04ueINIeGqdhbjZXfx1e), [R script](https://drive.google.com/open?id=1oBEcc9p1y7IjLCdIAyvlyZyHBV4A1R9c) for a base. Extra data set if time https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q35FoodReductionLifespan.csv. *TURN IT IN [HERE](https://canvas.umn.edu/courses/151855/assignments/1007720)*. KEY as [pdf](https://drive.google.com/open?id=1__9tsD3i1RujfA6sup7d8PPP42e-Yq1_), as [rmd](https://drive.google.com/open?id=1yzdqaVhGxo8CBfOWO84hozkrH3VZ-Q3w) or as a [video](https://youtu.be/nUtC3Izzq5c).
-
-### Quizzes
-
-- DUE 2/3 [Class 6 Quiz Link](https://canvas.umn.edu/courses/151855/quizzes/237817).
-- DUE 2/5 [Class 7 Quiz Link](https://canvas.umn.edu/courses/151855/quizzes/238173).
-- DUE 2/7 [Class 8 Quiz Link](https://canvas.umn.edu/courses/151855/quizzes/238517).
+- DUE 2/3 [Class 6 Quiz Link](https://canvas.umn.edu/courses/151855/quizzes/237817). *Classwork:* Freewrite [link](https://drive.google.com/open?id=1CpQSvcV0Bz9-IOHyMM3mGF9HeZRcpWWl) and probability coding [link](https://drive.google.com/open?id=1rW-X9ebBptdg3CFLswwQ9UntmHvp9sSR) [canvas](https://canvas.umn.edu/courses/151855/assignments/1003717).  DATA [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter09/chap09e4VampireBites.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter09/chap09e4VampireBites.csv). [KEY]([Key](https://drive.google.com/open?id=1VneoAmjlMoHKx6WS0d32GCtts78IsxPZ) )
+- DUE 2/5 [Class 7 Quiz Link](https://canvas.umn.edu/courses/151855/quizzes/238173). *Classwork:* [Outline](https://drive.google.com/open?id=1H9fLxxzEhgedmnG684f0ZbYCNXrqmxfy), [seeing theory](https://seeing-theory.brown.edu/) and build off of this [R code](https://drive.google.com/open?id=1ejrkhpGi6rlC9_0EOaM1onUNnnZSrtr0). TURN IN R script [here](https://canvas.umn.edu/courses/151855/assignments/1006092). KEY [as video](https://youtu.be/p0tT95UBnPo) as [pdf](https://drive.google.com/open?id=1vvVHdq-1EF2FuDuP5K_ZoOEXaSh8tgDu).
+- DUE 2/7 [Class 8 Quiz Link](https://canvas.umn.edu/courses/151855/quizzes/238517). *Classwork:* [Plan](https://drive.google.com/open?id=1dlI19SZ83BtE04ueINIeGqdhbjZXfx1e), [R script](https://drive.google.com/open?id=1oBEcc9p1y7IjLCdIAyvlyZyHBV4A1R9c) for a base. Extra data set if time https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q35FoodReductionLifespan.csv. *TURN IT IN [HERE](https://canvas.umn.edu/courses/151855/assignments/1007720)*. KEY as [pdf](https://drive.google.com/open?id=1__9tsD3i1RujfA6sup7d8PPP42e-Yq1_), as [rmd](https://drive.google.com/open?id=1yzdqaVhGxo8CBfOWO84hozkrH3VZ-Q3w) or as a [video](https://youtu.be/nUtC3Izzq5c).
 
 ### Slides Compilation
 
@@ -273,11 +260,11 @@ Data Summaries, Nice Plots, and Uncertainty
 - DUE 1/29 in class. [Hw_03](https://drive.google.com/open?id=0Bze1RelLJCQRLWhVSURRQmZmSlRCbGEwMDQtbFJYelBkeE8w), based off of [Slides from Ch_02](https://drive.google.com/uc?export=download&id=10u34nhPadkPAiTB9wv8NDaeCIYj9NNQW). [key](**[HOMEWORK KEY](https://drive.google.com/open?id=18ksz4b2xgPeXCtIQuIOQpa8Te43X693c)**.
 - DUE 1/31 [Link](https://drive.google.com/open?id=1SAHyKfz1mynziJJAq2YchKEdsfj5Mxb9) based off of [Ch_04 slides](https://drive.google.com/open?id=1t2jmYNiD2ycmqg73yUoOsKEv1lzw6G0o).
 
-### Classwork
+### Quizzes and Classwork
 
-- DUE 1/27 turn in [here](https://canvas.umn.edu/courses/151855/assignments/999862)  [Worksheet](https://drive.google.com/open?id=1qbCkcX0z8lzIX_JpkkyCDo3Tkv1SI8qx)
-- Due 1/29 Turn in worksheet [here](https://canvas.umn.edu/courses/151855/assignments/996524)   Worksheet [here](https://drive.google.com/open?id=19MNekjbCk7nSwOkrkbBYgfTqbt8QFtgp), key as [pdf](https://drive.google.com/open?id=1BpomIX7jSPPqfH1pCIwh3r35WCvSXx5W) or [rmd](https://drive.google.com/open?id=1Cn1uh2P8OaHNXyaDsEMycOdPGIZ2npUy).   Data sets at bottom of page
-- DUE 1/31 Worksheet [here](https://drive.google.com/open?id=1kmjzZkJsIgUK6jwsq4dMxCyJk8FTFq3i), upload R scripts [here](https://canvas.umn.edu/courses/151855/assignments/1000786). [key](https://drive.google.com/open?id=1bd6QcJr3xEIWYtYwA7jdZ4ALPfP0Iyf6)
+- DUE 1/27 [Class 3 Quiz](https://canvas.umn.edu/courses/151855/quizzes/236368). *Classwork:* turn in [here](https://canvas.umn.edu/courses/151855/assignments/999862)  [Worksheet](https://drive.google.com/open?id=1qbCkcX0z8lzIX_JpkkyCDo3Tkv1SI8qx)
+- Due 1/29 No quiz. *Classwork:* Turn in worksheet [here](https://canvas.umn.edu/courses/151855/assignments/996524)   Worksheet [here](https://drive.google.com/open?id=19MNekjbCk7nSwOkrkbBYgfTqbt8QFtgp), key as [pdf](https://drive.google.com/open?id=1BpomIX7jSPPqfH1pCIwh3r35WCvSXx5W) or [rmd](https://drive.google.com/open?id=1Cn1uh2P8OaHNXyaDsEMycOdPGIZ2npUy).   Data sets at bottom of page
+- DUE 1/31 [Class 5 Quiz](https://canvas.umn.edu/courses/151855/quizzes/237509). *Classwork:* Worksheet [here](https://drive.google.com/open?id=1kmjzZkJsIgUK6jwsq4dMxCyJk8FTFq3i), upload R scripts [here](https://canvas.umn.edu/courses/151855/assignments/1000786). [key](https://drive.google.com/open?id=1bd6QcJr3xEIWYtYwA7jdZ4ALPfP0Iyf6)
 
 Data sets:
 
@@ -291,12 +278,6 @@ Data sets:
 - food intake and lifespan  [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q35FoodReductionLifespan.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02q35FoodReductionLifespan.csv)
 - monogamous voles [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03q15VasopressinVoles.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03q15VasopressinVoles.csv)
 - bindin [https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03q28SeaUrchinBindin.csv](https://whitlockschluter3e.zoology.ubc.ca/Data/chapter03/chap03q28SeaUrchinBindin.csv)
-
-### Quizzes
-
-- DUE 1/27 [Link](https://canvas.umn.edu/courses/151855/quizzes/236368).
-- DUE 1/29 NA
-- DUE 1/31 Like [here](https://canvas.umn.edu/courses/151855/quizzes/237509).
 
 **Homework assigned:** [Homework_05](https://drive.google.com/open?id=1nW1Gr-_cWfVq0u5U8t5ZTXsLKS3f5MEA) based off of [Ch05 Slides](https://drive.google.com/open?id=16ol45OeawSgi7pngNsuM2t9hJoaNmHor).
 
@@ -318,17 +299,12 @@ Intro to Stats and Intro to R/RStudio
 - DUE 1/21 [Optional survey](https://docs.google.com/forms/d/1b3ImrqCq41fqGlJkupdfaFnZQxu502GkTZ7YbqPixtc/)
 - DUE 1/24 in class. [Hw_01](https://drive.google.com/uc?export=download&id=0Bze1RelLJCQRbjREWmlaTDFYMEl5UWFRSkdWbWx6cTVEQTIw), based off of [Intro to R slides](https://drive.google.com/uc?export=download&id=1JbvarMPfxrP_P7WwqFRQIQJI7VaNNw9O). You should have recieved a hard copy on weds. Turn in this hard copy on friday.  **ALSO EVERYONE MUST READ** chapters [4](https://r4ds.had.co.nz/workflow-basics.html), [6](https://r4ds.had.co.nz/workflow-scripts.html) and [8](https://r4ds.had.co.nz/workflow-projects.html) of R for data science (note these are very short, less than three pages in total). and **GRAD/HONORS STUDENTS MUST READ** [Chapter 11, section 2](https://r4ds.had.co.nz/data-import.html#getting-started) (about reading in data), and chapter [27](https://r4ds.had.co.nz/r-markdown.html) (up to 27.5, about RMarkdown).
 
-### Classwork
+### Quizzes and Classwork
 
 - DUE 1/22 [Classwork_01](https://drive.google.com/uc?export=download&id=0Bze1RelLJCQRMDlaNGZHcnZyR3FDTVlETGx6dlRXdDN2TDNz) accompanies [these slides](https://drive.google.com/uc?export=download&id=10LoIiCXo_mQWX3FN8DprTFlH_yQJSaBb) on the intro to stats thinking.
-- DUE 1/24 **Classwork**: Here's to [.doc](https://drive.google.com/open?id=1SmRSxv2A5RD2JyyKRgDMiCfB0MqI7TqN) [given as handout]. **Be sure to upload your .R file [here](https://canvas.umn.edu/courses/151855/assignments/994090)**.
+- DUE 1/24 [Class 2 Quiz](https://canvas.umn.edu/courses/151855/quizzes/235700). *Classwork*: Here's to [.doc](https://drive.google.com/open?id=1SmRSxv2A5RD2JyyKRgDMiCfB0MqI7TqN) [given as handout]. **Be sure to upload your .R file [here](https://canvas.umn.edu/courses/151855/assignments/994090)**.
 Note here's the link to the file you're downloading  https://whitlockschluter3e.zoology.ubc.ca/Data/chapter02/chap02e3bHumanHemoglobinElevation.csv
 Also, here's a nice discussion of folder structure, projects in R, and loading data [link](https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner's-guide/).
-
-### Quizzes
-
-- 1/22 NA.
-- 1/24 [Link](https://canvas.umn.edu/courses/151855/quizzes/235700).
 
 ### Slides Compilation
 
