@@ -34,7 +34,7 @@ These consist of links to all slides and in-class material. Each markdown file c
 
 **Assignments**
 
-Links to assignments and Canvas submission links. Each markdown file contains material for one submission. For new submission links, add markdown files with the naming scheme `year-month-day-assignmentXX.md`.
+Links to assignments and Canvas submission links. This page can be updated by modifying the markdown file under `_pages/assignments.md`. ~~Each markdown file contains material for one submission. For new submission links, add markdown files with the naming scheme `year-month-day-assignmentXX.md`~~.
 
 **Additional Resources**
 
