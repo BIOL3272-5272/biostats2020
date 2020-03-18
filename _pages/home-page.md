@@ -10,6 +10,13 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
+**UPDATE. March 18th** 
+
+
+- ANOVA Homework    KEY [here](https://drive.google.com/file/d/1KYBECvo_Zekw4u1aCR9TxNa1GfdsxhA8/view?usp=sharing)
+
+-  ANOVA Classwork  KEY [here](https://drive.google.com/file/d/1FCvKrVEkC_PQrLOH5liomKJGRqQRhfSr/view?usp=sharing).  
+
 **FIRST UPDATE OF MARCH 16th [one or two more to follow]**
 
 1. First, thanks so much for bearing with me to day, and for your feedback / ideas!
