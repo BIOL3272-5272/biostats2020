@@ -71,17 +71,18 @@ Review Midterm, ANOVA, and Experimental Design 1
 ### Homework
 
 - **DUE 3/18.** [Homework 16 ANOVA](https://docs.google.com/forms/d/e/1FAIpQLSd1s2Il7hNop_TFs4x6FNc5kdeRGttIGLJtMPhz8onPxTlqKw/viewform?usp=sf_link), based on [Ch15 slides here](https://drive.google.com/open?id=1AkQQQphOh-rMzLt2LBVftfD3szfbmKj_) and [lecture here](https://youtu.be/fuef3mb6ibk).
-- **DUE 3/20.**
+- **DUE 3/20.** [Homework 23 Experimental Design 1](https://drive.google.com/file/d/18ZdRFT69S7mqqnAPbdhEDQx16q7t_RNw/view?usp=sharing). TURN IT IN on Canvas [HERE](https://canvas.umn.edu/courses/151855/assignments/1040117).
 
 ### Quizzes and Classwork
 
-- DUE 3/16 Class 22 Quiz. *Classwork*
+- DUE 3/16 [Class 22 Quiz](https://canvas.umn.edu/courses/151855/quizzes/245786) includes classwork. Turn in R code on Canvas [here](https://canvas.umn.edu/courses/151855/assignments/1040105).
 - DUE 3/18 Quiz TBD. *Classwork*
 - DUE 3/20 Quiz TBD. *Classwork*
 
 ### Slides Compilation
 
 - [Chapter 15 Comparing Means of More than Two Groups](https://drive.google.com/open?id=1AkQQQphOh-rMzLt2LBVftfD3szfbmKj_) and/or [Youtube video](https://youtu.be/fuef3mb6ibk)
+- [Chapter 14 Designing Experiments](https://drive.google.com/open?id=1UTCrt_WMsMG1_LGJTZlmXs0aQukzilEA) and/or [Youtube video](https://youtu.be/vLC1EKwoNgE)
 
 ---
 
