@@ -12,30 +12,30 @@ redirect_from:
 
 **FIRST UPDATE OF MARCH 16th [one or two more to follow]**
 
-1. First, thanks so much for bearing with me to day, and for your feedback / ideas!    
-2. Please keep up the feedback. Tell me when you're confused. Tell me what else you'd like to learn. Tell me what's working and what isn't. It helps me a lot!    
-3. As a reminder,  email me names of 3-4 potential group members, I'll take these into consideration as I try to make groups.   
-4. I'll send a stronger plan for classwork in the next day or so.  
-5. Feel free to write a brief explanation of what / why things went wrong on specific questions in the exam for partial credit.  Send them to me by email. I think this will be a good opportunity to engage in metacognition, which is an important part of learning.   
-6. Final project detail are on their way in the next few days.    
-7. Be sure to upload you [R assessment fixes](https://canvas.umn.edu/courses/151855/assignments/1027811).    
+1. First, thanks so much for bearing with me to day, and for your feedback / ideas!
+2. Please keep up the feedback. Tell me when you're confused. Tell me what else you'd like to learn. Tell me what's working and what isn't. It helps me a lot!
+3. As a reminder,  email me names of 3-4 potential group members, I'll take these into consideration as I try to make groups.
+4. I'll send a stronger plan for classwork in the next day or so.
+5. Feel free to write a brief explanation of what / why things went wrong on specific questions in the exam for partial credit.  Send them to me by email. I think this will be a good opportunity to engage in metacognition, which is an important part of learning.
+6. Final project detail are on their way in the next few days.
+7. Be sure to upload you [R assessment fixes](https://canvas.umn.edu/courses/151855/assignments/1027811).
 
 
-**Midterm key**  
+**Midterm key**
 
-Biostat 2020 [Midterm1Key](https://drive.google.com/open?id=1KoGzjPZhECeVNOLIqens8FUyux9wkYQZ)   or original [exam](https://drive.google.com/open?id=10XsCSs8egzu1INVY6FLVnW_q0z7CLjFc)    
-video key: [Intro](https://youtu.be/Zqmot-fKpLM)       
-video key: [Intro Qs 1-6](https://youtu.be/vaFnTXLKCpg)      
-video key: [Answer 1 & 2](https://youtu.be/5fr2LwqN4gU)   
-video key: [Answer 3 & 4](https://youtu.be/sr7OijexYys)   
-video key: [Answer 5 & 6](https://youtu.be/YtvqxPzPCeo)   
-video key: [Answer 7a](https://youtu.be/n98psm4l-J0)   
-video key: [Answer 7b](https://youtu.be/_aZoMr3vc2s)   
-video key: [Answer 8](https://youtu.be/sgrdsEm8WC4)   
-video key: [Answer 9](https://youtu.be/WiF6QVREdUw)     
-video key: [Answer 10](https://youtu.be/XMLktjH1dbQ)   
-video key: [Answer 11](https://youtu.be/R_Rk8jJoF0M)   
-video key: [Answer 12](https://youtu.be/GPfzT2U8_Kc)   
+Biostat 2020 [Midterm1Key](https://drive.google.com/open?id=1KoGzjPZhECeVNOLIqens8FUyux9wkYQZ)   or original [exam](https://drive.google.com/open?id=10XsCSs8egzu1INVY6FLVnW_q0z7CLjFc)
+video key: [Intro](https://youtu.be/Zqmot-fKpLM)
+video key: [Intro Qs 1-6](https://youtu.be/vaFnTXLKCpg)
+video key: [Answer 1 & 2](https://youtu.be/5fr2LwqN4gU)
+video key: [Answer 3 & 4](https://youtu.be/sr7OijexYys)
+video key: [Answer 5 & 6](https://youtu.be/YtvqxPzPCeo)
+video key: [Answer 7a](https://youtu.be/n98psm4l-J0)
+video key: [Answer 7b](https://youtu.be/_aZoMr3vc2s)
+video key: [Answer 8](https://youtu.be/sgrdsEm8WC4)
+video key: [Answer 9](https://youtu.be/WiF6QVREdUw)
+video key: [Answer 10](https://youtu.be/XMLktjH1dbQ)
+video key: [Answer 11](https://youtu.be/R_Rk8jJoF0M)
+video key: [Answer 12](https://youtu.be/GPfzT2U8_Kc)
 
 **SPRING BREAK/COVID UPDATES**
 
@@ -71,11 +71,9 @@ Biological Sciences Center 64 (St. Paul Campus)
 **Yaniv Brandvain:** MWF 9:30 - 10:15 am or by email<br/>
 Location: Biological Sciences Center 64 (St. Paul Campus)
 
-**Chaochih Liu:** F 9:30 - 10:15 am and F 11:30 am - 12:15 pm or by email<br/>
-Location:
+**Chaochih Liu:** F 9:30 - 10:15 am and F 11:30 am - 12:00 pm or by email<br/>
 
-- 9:30 - 10:15 am in **Biological Sciences Center 64 (St. Paul Campus)**
-- 11:30 am - 12:15 pm in **213 Borlaug Hall**.
+Join via this [Zoom link](https://umn.zoom.us/j/406934602)
 
 Chaochih Office Hours - add code review requests to [this doc](https://docs.google.com/document/d/133gwjcjJF6nAep2pu2oa2Qb3wC1K3mBxucm-1HmA5Xo/edit?usp=sharing).
 
