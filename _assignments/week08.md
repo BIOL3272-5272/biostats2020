@@ -1,10 +1,10 @@
 ---
-title: "Wk_07 (3/2, 3/4 and 3/6)"
+title: "Wk_08 (3/18, 3/20)"
 collection: assignments
-permalink: /assignments/wk-07-assignments
+permalink: /assignments/wk-08-assignments
 ---
 
-### Week 8: 3/18, 3/30
+### Week 8: 3/18, 3/20
 
 - 3/18 
 **[Zoom link](https://umn.zoom.us/j/493135911)**    **[Google doc](https://docs.google.com/document/d/1odx69Nk3csomXsU67vsRIPIW0No7_maaMVQS2MQWQ1w/edit)** 
@@ -19,7 +19,7 @@ Based off of Ch14 of Whitlock and Schluter [distilled these slides [link](https:
 
 ### Classwork
 
-- 3/18 [Here](https://drive.google.com/file/d/1YxnZsiLuwiuGj5Qw7TFvoQaZF5CGDCmj/view?usp=sharing) turn R code in [here](https://canvas.umn.edu/courses/151855/assignments/1040105).  
+- 3/18 [Here](https://drive.google.com/file/d/1YxnZsiLuwiuGj5Qw7TFvoQaZF5CGDCmj/view?usp=sharing) turn R code in in quiz.    
 - 3/20 TBD 
 
 ### Quizzes
