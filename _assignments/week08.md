@@ -15,8 +15,8 @@ permalink: /assignments/wk-08-assignments
 
 - DUE 3/20   [Here](https://drive.google.com/file/d/18ZdRFT69S7mqqnAPbdhEDQx16q7t_RNw/view?usp=sharing). TURN IT IN [HERE](https://canvas.umn.edu/courses/151855/assignments/1040117).
 Based off of Ch14 of Whitlock and Schluter [distilled these slides [link](https://drive.google.com/open?id=1UTCrt_WMsMG1_LGJTZlmXs0aQukzilEA) and this [video](https://youtu.be/vLC1EKwoNgE
-)] 
-
+)].     
+ALSO watch two short youtubes [vid one, one sim](https://youtu.be/_4qH360EOg0), [vid two, many sims](https://youtu.be/IMX-pFGFtII) on simulation and look over this  [Rcode to help with simulating](https://drive.google.com/file/d/1_TLfxKSsHtfImJIAv2kjldUAEATi5KWW/view?usp=sharing).  
 
 ### Classwork
 
