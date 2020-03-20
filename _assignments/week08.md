@@ -21,9 +21,12 @@ ALSO watch two short youtubes [vid one, one sim](https://youtu.be/_4qH360EOg0), 
 ### Classwork
 
 - 3/18 [Here](https://drive.google.com/file/d/1YxnZsiLuwiuGj5Qw7TFvoQaZF5CGDCmj/view?usp=sharing) R code is needed to quiz in quiz.    KEY [here](https://drive.google.com/file/d/1FCvKrVEkC_PQrLOH5liomKJGRqQRhfSr/view?usp=sharing).  
-- 3/20 TBD 
+- 3/20. [Here](https://drive.google.com/file/d/1OhgsbsiCq31ESkupYAqtK1rN-wI6uAQx/view?usp=sharing).    
+
+
+**Homework assigned:** Watch [whitlock's plenary lecture](https://www.youtube.com/watch?v=cESuNcx28_I&feature=youtu.be) [from 11:30 - 52:32] and then answer [these questions](https://drive.google.com/file/d/16IwRXZdGnOf_dImb4wyaItTri4rMqF1k/view?usp=sharing) and turn them in on [this canvas page](https://canvas.umn.edu/courses/151855/assignments/1044666).
 
 ### Quizzes
 
 - 3/18 [Here](https://canvas.umn.edu/courses/151855/quizzes/245786) includes classwork.    
-- 3/20 TBD   
+- 3/20 [Here](https://canvas.umn.edu/courses/151855/quizzes/246610) includes classwork.
