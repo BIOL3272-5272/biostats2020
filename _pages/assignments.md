@@ -78,7 +78,7 @@ Review Midterm, ANOVA, and Experimental Design 1
 ### Quizzes and Classwork
 
 - DUE 3/16 [Class 22 Quiz](https://canvas.umn.edu/courses/151855/quizzes/245786) includes classwork. Turn in R code in quiz. ANOVA [Classwork KEY](https://drive.google.com/file/d/1FCvKrVEkC_PQrLOH5liomKJGRqQRhfSr/view?usp=sharing)
-- DUE 3/18 Quiz TBD. *Classwork*
+- DUE 3/18 [Class 23 Quiz](https://canvas.umn.edu/courses/151855/quizzes/246610). *Classwork*
 - DUE 3/20 Quiz TBD. *Classwork*
 
 ### Slides Compilation
