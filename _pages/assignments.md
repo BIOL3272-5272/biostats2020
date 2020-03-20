@@ -75,11 +75,12 @@ Review Midterm, ANOVA, and Experimental Design 1
 - **DUE 3/18.** [Homework 16 ANOVA](https://docs.google.com/forms/d/e/1FAIpQLSd1s2Il7hNop_TFs4x6FNc5kdeRGttIGLJtMPhz8onPxTlqKw/viewform?usp=sf_link), based on [Ch15 slides here](https://drive.google.com/open?id=1AkQQQphOh-rMzLt2LBVftfD3szfbmKj_) and [lecture here](https://youtu.be/fuef3mb6ibk). ANOVA homework [KEY](https://drive.google.com/file/d/1KYBECvo_Zekw4u1aCR9TxNa1GfdsxhA8/view?usp=sharing)
 - **DUE 3/20.** [Homework 23 Experimental Design 1](https://drive.google.com/file/d/18ZdRFT69S7mqqnAPbdhEDQx16q7t_RNw/view?usp=sharing). TURN IT IN on Canvas [HERE](https://canvas.umn.edu/courses/151855/assignments/1040117).
 
+**Homework assigned:** For Homework_24 due Mon 3/23, watch [whitlock's plenary lecture](https://www.youtube.com/watch?v=cESuNcx28_I&feature=youtu.be) [from 11:30 - 52:32] and then answer [these questions](https://drive.google.com/file/d/16IwRXZdGnOf_dImb4wyaItTri4rMqF1k/view?usp=sharing) and turn them in on [this canvas page](https://canvas.umn.edu/courses/151855/assignments/1044666).
+
 ### Quizzes and Classwork
 
-- DUE 3/16 [Class 22 Quiz](https://canvas.umn.edu/courses/151855/quizzes/245786) includes classwork. Turn in R code in quiz. ANOVA [Classwork KEY](https://drive.google.com/file/d/1FCvKrVEkC_PQrLOH5liomKJGRqQRhfSr/view?usp=sharing)
-- DUE 3/18 [Class 23 Quiz](https://canvas.umn.edu/courses/151855/quizzes/246610). *Classwork*
-- DUE 3/20 Quiz TBD. *Classwork*
+- DUE 3/18 [Class 22 Quiz](https://canvas.umn.edu/courses/151855/quizzes/245786) includes classwork. Turn in R code in quiz. ANOVA [Classwork KEY](https://drive.google.com/file/d/1FCvKrVEkC_PQrLOH5liomKJGRqQRhfSr/view?usp=sharing)
+- DUE 3/20 [Class 23 Quiz](https://canvas.umn.edu/courses/151855/quizzes/246610) includes classwork.
 
 ### Slides Compilation
 
