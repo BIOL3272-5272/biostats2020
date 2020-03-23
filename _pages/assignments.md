@@ -21,6 +21,7 @@ The general schedule for assignments is that there is:
 
 - [Major Assessments](#major-assessments)
 - [Midterms](#midterms)
+- [Week 9 Mar 23-27: Experimental Design 2, Correlation, and Linear Models/Review](#week-9-mar-23-27)
 - [Week 8 Mar 16-20: Review Midterm, ANOVA, and Experimental Design 1](#week-8-mar-16-20)
 - [Week 7 Mar 2-6: Review, Practice Exam, and Midterm I](#week-7-mar-2-6)
 - [Week 6 Feb 24-28: Normal distribution, Inference for a Normal Population and Nonparametric Tests, Comparing Two Means](#week-6-feb-24-28)
@@ -61,6 +62,28 @@ video key: [Answer 9](https://youtu.be/WiF6QVREdUw)
 video key: [Answer 10](https://youtu.be/XMLktjH1dbQ)
 video key: [Answer 11](https://youtu.be/R_Rk8jJoF0M)
 video key: [Answer 12](https://youtu.be/GPfzT2U8_Kc)
+
+---
+
+## Week 9 Mar 23-27
+
+3/23 **[Zoom link](https://umn.zoom.us/j/493135911)**
+
+### Homework
+
+- **DUE 3/23.** Watch [whitlock's plenary lecture](https://www.youtube.com/watch?v=cESuNcx28_I&feature=youtu.be) [from 11:30 - 52:32] and then answer [these questions](https://drive.google.com/file/d/16IwRXZdGnOf_dImb4wyaItTri4rMqF1k/view?usp=sharing) and turn them in on [this canvas page](https://canvas.umn.edu/courses/151855/assignments/1044666).
+- **DUE 3/25.** [Homework 25](https://drive.google.com/file/d/1zQ6EF1lvMgQfmWchkxtK2pPa6nygwXJL/view?usp=sharing) based off of these [slides](https://drive.google.com/file/d/118NOqSeI8UfDTXehP_gDpB0aK1r-Enp_/view?usp=sharing), presented by yaniv on [youtube](https://youtu.be/HsVATbgg-8g). TURN IT IN ON CANVAS [link](https://canvas.umn.edu/courses/151855/assignments/1048421).
+- **DUE 3/27.**
+
+### Quizzes and Classwork
+
+- DUE 3/23. [Class 24 Quiz](https://canvas.umn.edu/courses/151855/quizzes/247587) includes classwork [in this doc](https://drive.google.com/file/d/1jlOZyYMnnrQBwklhnygSAPaExV7vJz6B/view?usp=sharing).
+- DUE 3/25.
+- DUE 3/27.
+
+### Slides Compilation
+
+- [Chapter 16 Correlation](https://drive.google.com/file/d/118NOqSeI8UfDTXehP_gDpB0aK1r-Enp_/view?usp=sharing) and/or [Youtube video](https://youtu.be/HsVATbgg-8g)
 
 ---
 
