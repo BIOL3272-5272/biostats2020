@@ -83,6 +83,7 @@ video key: [Answer 12](https://youtu.be/GPfzT2U8_Kc)
 
 ### Slides Compilation
 
+- [Chapter 14 Designing Experiments](https://drive.google.com/open?id=1UTCrt_WMsMG1_LGJTZlmXs0aQukzilEA) and/or [Youtube video](https://youtu.be/vLC1EKwoNgE)
 - [Chapter 16 Correlation](https://drive.google.com/file/d/118NOqSeI8UfDTXehP_gDpB0aK1r-Enp_/view?usp=sharing) and/or [Youtube video](https://youtu.be/HsVATbgg-8g)
 
 ---
