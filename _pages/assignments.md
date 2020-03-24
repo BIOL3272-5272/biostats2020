@@ -37,7 +37,7 @@ Slides for each week are compiled within their respective sections.
 
 ## Major Assessments
 
-**Currently Assigned:** TBD
+**Currently Assigned:** DUE 3/30 [Assessment 4 doc](https://docs.google.com/document/d/1KtAmO-ohj2ua-KxJN6qxT_1qV9DHnR2ohTantbwIBVQ/edit?usp=sharing). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1049590).
 
 Past Major Assessments:
 
@@ -68,6 +68,8 @@ video key: [Answer 12](https://youtu.be/GPfzT2U8_Kc)
 ## Week 9 Mar 23-27
 
 3/23 **[Zoom link](https://umn.zoom.us/j/493135911)**
+
+**Major Assessment Assigned:** DUE 3/30 [Assessment 4 doc](https://docs.google.com/document/d/1KtAmO-ohj2ua-KxJN6qxT_1qV9DHnR2ohTantbwIBVQ/edit?usp=sharing). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1049590)
 
 ### Homework
 
