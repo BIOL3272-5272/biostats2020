@@ -80,7 +80,7 @@ video key: [Answer 12](https://youtu.be/GPfzT2U8_Kc)
 ### Quizzes and Classwork
 
 - DUE 3/23. [Class 24 Quiz](https://canvas.umn.edu/courses/151855/quizzes/247587) includes classwork [in this doc](https://drive.google.com/file/d/1jlOZyYMnnrQBwklhnygSAPaExV7vJz6B/view?usp=sharing).
-- DUE 3/25.
+- DUE 3/25. [Class 25 Quiz](https://canvas.umn.edu/courses/151855/quizzes/248806) includes classwork.
 - DUE 3/27.
 
 ### Slides Compilation
