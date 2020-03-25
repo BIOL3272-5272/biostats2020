@@ -75,7 +75,7 @@ video key: [Answer 12](https://youtu.be/GPfzT2U8_Kc)
 
 - **DUE 3/23.** Watch [whitlock's plenary lecture](https://www.youtube.com/watch?v=cESuNcx28_I&feature=youtu.be) [from 11:30 - 52:32] and then answer [these questions](https://drive.google.com/file/d/16IwRXZdGnOf_dImb4wyaItTri4rMqF1k/view?usp=sharing) and turn them in on [this canvas page](https://canvas.umn.edu/courses/151855/assignments/1044666).
 - **DUE 3/25.** [Homework 25](https://drive.google.com/file/d/1zQ6EF1lvMgQfmWchkxtK2pPa6nygwXJL/view?usp=sharing) based off of these [slides](https://drive.google.com/file/d/118NOqSeI8UfDTXehP_gDpB0aK1r-Enp_/view?usp=sharing), presented by yaniv on [youtube](https://youtu.be/HsVATbgg-8g). TURN IT IN ON CANVAS [link](https://canvas.umn.edu/courses/151855/assignments/1048421).
-- **DUE 3/27.** [Homework 26](https://drive.google.com/file/d/1uKxU3-L0neq4BwdSGNEIZRvyY7StShj-/view?usp=sharing) from ch 17 - regression in whitlock & schluter, summarized in these [slides](https://drive.google.com/file/d/1RGZFMYIp-t69jSFQT6RUD0Q72RPNaRmF/view?usp=sharing) and available on [youtube](https://youtu.be/3ujbI_MBsdA).
+- **DUE 3/27.** [Homework 26](https://drive.google.com/file/d/1uKxU3-L0neq4BwdSGNEIZRvyY7StShj-/view?usp=sharing) from ch 17 - regression in whitlock & schluter, summarized in these [slides](https://drive.google.com/file/d/1RGZFMYIp-t69jSFQT6RUD0Q72RPNaRmF/view?usp=sharing) and available on [youtube](https://youtu.be/3ujbI_MBsdA). TURN IN ON [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1052734).
 
 ### Quizzes and Classwork
 
