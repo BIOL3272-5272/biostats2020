@@ -79,9 +79,9 @@ video key: [Answer 12](https://youtu.be/GPfzT2U8_Kc)
 
 ### Quizzes and Classwork
 
-- DUE 3/23. [Class 24 Quiz](https://canvas.umn.edu/courses/151855/quizzes/247587) includes classwork [in this doc](https://drive.google.com/file/d/1jlOZyYMnnrQBwklhnygSAPaExV7vJz6B/view?usp=sharing).
+- DUE 3/23. [Class 24 Quiz](https://canvas.umn.edu/courses/151855/quizzes/247587) includes classwork [in this doc](https://drive.google.com/file/d/1jlOZyYMnnrQBwklhnygSAPaExV7vJz6B/view?usp=sharing). Classwork [KEY](https://drive.google.com/file/d/1tihuANi0-rfwjYOmXTDA7nmhDSEzJz0c/view?usp=sharing).
 - DUE 3/25. [Class 25 Quiz](https://canvas.umn.edu/courses/151855/quizzes/248806) includes classwork [in this doc](https://drive.google.com/open?id=1wjcL4qyMvZ1AM4kMI_Ye98W2KO_ees1e).
-- DUE 3/27. [Class 26 Quiz](https://canvas.umn.edu/courses/151855/quizzes/249809) includes classwork.
+- DUE 3/27. [Class 26 Quiz](https://canvas.umn.edu/courses/151855/quizzes/249809) includes classwork [in this doc](https://drive.google.com/open?id=1qABkMmf1zg_lhAiB9yLQck4YSCOe1Otv).
 
 ### Slides Compilation
 
