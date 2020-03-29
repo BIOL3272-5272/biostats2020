@@ -80,7 +80,7 @@ Review/Assessment 4 Questions, Regression 2 Multiple Predictors, Regression 3 In
 
 ### Quizzes and Classwork
 
-- **DUE 3/30.**
+- **DUE 3/30.** No quiz. In class, focus on questions/finish up Assessment 4. Don't need to turn anything in.
 - **DUE 4/1.**
 - **DUE 4/3.**
 
