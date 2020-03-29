@@ -21,6 +21,7 @@ The general schedule for assignments is that there is:
 
 - [Major Assessments](#major-assessments)
 - [Midterms](#midterms)
+- [Week 10 Mar 30-Apr 3: Review/PS4 Qs, Regression 2 Multiple Predictors, Regression 3 Interactions](#week-10-mar-30-apr-3)
 - [Week 9 Mar 23-27: Experimental Design 2, Correlation, and Linear Models/Review](#week-9-mar-23-27)
 - [Week 8 Mar 16-20: Review Midterm, ANOVA, and Experimental Design 1](#week-8-mar-16-20)
 - [Week 7 Mar 2-6: Review, Practice Exam, and Midterm I](#week-7-mar-2-6)
@@ -65,7 +66,31 @@ video key: [Answer 12](https://youtu.be/GPfzT2U8_Kc)
 
 ---
 
+## Week 10 Mar 30-Apr 3
+
+Review/Assessment 4 Questions, Regression 2 Multiple Predictors, Regression 3 Interactions
+
+**Major Assessment DUE:** DUE 3/30 [Assessment 4 doc](https://docs.google.com/document/d/1KtAmO-ohj2ua-KxJN6qxT_1qV9DHnR2ohTantbwIBVQ/edit?usp=sharing). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1049590)
+
+### Homework
+
+- **DUE 3/30.** Finish [Assessment 4 doc](https://docs.google.com/document/d/1KtAmO-ohj2ua-KxJN6qxT_1qV9DHnR2ohTantbwIBVQ/edit?usp=sharing) DUE 3/30. Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1049590).
+- **DUE 4/1.**
+- **DUE 4/3.**
+
+### Quizzes and Classwork
+
+- **DUE 3/30.**
+- **DUE 4/1.**
+- **DUE 4/3.**
+
+### Slides Compilation
+
+---
+
 ## Week 9 Mar 23-27
+
+Experimental Design 2, Correlation, and Linear Models and Review
 
 **[Zoom link](https://umn.zoom.us/j/493135911)**
 
