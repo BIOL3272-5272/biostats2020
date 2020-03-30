@@ -74,7 +74,7 @@ Review/Assessment 4 Questions, Regression 2 Multiple Predictors, Regression 3 In
 
 **Major Assessment DUE:** DUE 3/30 [Assessment 4 doc](https://docs.google.com/document/d/1KtAmO-ohj2ua-KxJN6qxT_1qV9DHnR2ohTantbwIBVQ/edit?usp=sharing). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1049590)
 
-**GRAD HONORS ASSIGNMENT DUE APRIL 6th.** STATS REVIEW OF A PAPER [doc link](https://drive.google.com/open?id=1ZRmNRICkLxt8F4fT1A2pEqCXpMhZR00cv6XluvC-F3I).
+**GRAD/HONORS ASSIGNMENT DUE APRIL 6th.** STATS REVIEW OF A PAPER [doc link](https://drive.google.com/open?id=1ZRmNRICkLxt8F4fT1A2pEqCXpMhZR00cv6XluvC-F3I). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1059206)
 
 ### Homework
 
