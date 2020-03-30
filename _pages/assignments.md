@@ -79,7 +79,7 @@ Review/Assessment 4 Questions, Regression 2 Multiple Predictors, Regression 3 In
 ### Homework
 
 - **DUE 3/30.** Finish [Assessment 4 doc](https://docs.google.com/document/d/1KtAmO-ohj2ua-KxJN6qxT_1qV9DHnR2ohTantbwIBVQ/edit?usp=sharing) DUE 3/30. Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1049590).
-- **DUE 4/1.** [Homework 28](https://drive.google.com/open?id=170-zRwIa3jpHmfRPL34nslDyrEu0dTeH) turn it in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1059030). Based off of Ch18 of whitlock & schluter. Slides [here](https://drive.google.com/open?id=1bmRGMQRH95eahJ3Y_FQ7lfpELaN39PeE), and lecture [here](https://youtu.be/yZdGL7Z2Wtg).
+- **DUE 4/1.** [Homework 28](https://drive.google.com/open?id=170-zRwIa3jpHmfRPL34nslDyrEu0dTeH) turn it in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1059030). Based off of Ch18 of whitlock & schluter. Chapter 18 slides [here](https://drive.google.com/open?id=1bmRGMQRH95eahJ3Y_FQ7lfpELaN39PeE), and lecture [here](https://youtu.be/yZdGL7Z2Wtg).
 - **DUE 4/3.**
 
 ### Quizzes and Classwork
