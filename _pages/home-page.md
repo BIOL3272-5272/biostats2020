@@ -11,18 +11,7 @@ redirect_from:
 <!-- This is the front page (home page) of the website -->
 
 **UPDATE. March 27th**
-[Key to Experimental design 1 classwork](https://drive.google.com/file/d/1fTgLiOH0J09CgUEYnqSPL_-o8eIpx1b-/view).    
-[Key to Experimental design 2 classwork](https://drive.google.com/file/d/1tihuANi0-rfwjYOmXTDA7nmhDSEzJz0c/view?usp=sharing)
-
-**UPDATE. March 23rd**
-
-Major assessment assigned. DUE 3/30 [Assessment 4 doc](https://docs.google.com/document/d/1KtAmO-ohj2ua-KxJN6qxT_1qV9DHnR2ohTantbwIBVQ/edit?usp=sharing). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1049590)
-
-
-**UPDATE. March 18th**
-
-- ANOVA Homework    KEY [here](https://drive.google.com/file/d/1KYBECvo_Zekw4u1aCR9TxNa1GfdsxhA8/view?usp=sharing)
--  ANOVA Classwork  KEY [here](https://drive.google.com/file/d/1FCvKrVEkC_PQrLOH5liomKJGRqQRhfSr/view?usp=sharing).
+Final project described!  More details to come [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adMOR8JsYIAVTte8w0SZ4xs/edit?usp=sharing).  
 
 ---
 
