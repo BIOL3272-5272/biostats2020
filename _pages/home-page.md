@@ -10,8 +10,8 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
-**UPDATE. March 27th**
-Final project described!  More details to come [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adMOR8JsYIAVTte8w0SZ4xs/edit?usp=sharing).  
+**UPDATE. March 31st**
+Final project described!  More details to come [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adMOR8JsYIAVTte8w0SZ4xs/edit?usp=sharing).
 
 ---
 
