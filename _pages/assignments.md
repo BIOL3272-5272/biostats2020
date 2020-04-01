@@ -80,12 +80,12 @@ Review/Assessment 4 Questions, Regression 2 Multiple Predictors, Regression 3 In
 
 - **DUE 3/30.** Finish [Assessment 4 doc](https://docs.google.com/document/d/1KtAmO-ohj2ua-KxJN6qxT_1qV9DHnR2ohTantbwIBVQ/edit?usp=sharing) DUE 3/30. Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1049590).
 - **DUE 4/1.** [Homework 28](https://drive.google.com/open?id=170-zRwIa3jpHmfRPL34nslDyrEu0dTeH) turn it in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1059030). Based off of Ch18 of whitlock & schluter. Chapter 18 slides [here](https://drive.google.com/open?id=1bmRGMQRH95eahJ3Y_FQ7lfpELaN39PeE), and lecture [here](https://youtu.be/yZdGL7Z2Wtg).
-- **DUE 4/3.**
+- **DUE 4/3.** [Homework 29 Interactions](https://drive.google.com/open?id=1Xjv9IFY9hg6-wV9vOkovnzcyT0HL2iM1). No new reading. Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1062626).
 
 ### Quizzes and Classwork
 
 - **DUE 3/30.** No quiz. In class, focus on questions/finish up Assessment 4. Don't need to turn anything in.
-- **DUE 4/1.** [Class 28 Quiz](https://canvas.umn.edu/courses/151855/quizzes/251582) includes classwork.
+- **DUE 4/1.** [Class 28 Quiz](https://canvas.umn.edu/courses/151855/quizzes/251582) includes classwork [doc here](https://drive.google.com/open?id=1HR5HPQUq7q4fcjgYE_A191i8eyhGILzC).
 - **DUE 4/3.**
 
 ### Slides Compilation
