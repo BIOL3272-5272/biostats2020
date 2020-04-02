@@ -75,19 +75,19 @@ Review/Assessment 4 Questions, Regression 2 Multiple Predictors, Regression 3 In
 
 **Major Assessment DUE:** DUE 3/30 [Assessment 4 doc](https://docs.google.com/document/d/1KtAmO-ohj2ua-KxJN6qxT_1qV9DHnR2ohTantbwIBVQ/edit?usp=sharing). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1049590)
 
-**GRAD/HONORS ASSIGNMENT DUE APRIL 6th.** STATS REVIEW OF A PAPER [doc link](https://drive.google.com/open?id=1ZRmNRICkLxt8F4fT1A2pEqCXpMhZR00cv6XluvC-F3I). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1059206)
-
 ### Homework
 
 - **DUE 3/30.** Finish [Assessment 4 doc](https://docs.google.com/document/d/1KtAmO-ohj2ua-KxJN6qxT_1qV9DHnR2ohTantbwIBVQ/edit?usp=sharing) DUE 3/30. Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1049590).
 - **DUE 4/1.** [Homework 28](https://drive.google.com/open?id=170-zRwIa3jpHmfRPL34nslDyrEu0dTeH) turn it in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1059030). Based off of Ch18 of whitlock & schluter. Chapter 18 slides [here](https://drive.google.com/open?id=1bmRGMQRH95eahJ3Y_FQ7lfpELaN39PeE), and lecture [here](https://youtu.be/yZdGL7Z2Wtg).
 - **DUE 4/3.** [Homework 29 Interactions](https://drive.google.com/open?id=1Xjv9IFY9hg6-wV9vOkovnzcyT0HL2iM1). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1062626). No new reading. BUT these youtube videos can help you review / think about linear models focussing on the olympic example. (1) [Intro to the data](https://youtu.be/8zMLr6_s6Gw), (2) [Calculating Type I Sums of Squares](https://youtu.be/nT5AEr2QhlA), (3) [Interpretting the anova table](https://youtu.be/_gyBeXj6QJ8), (4) [Interpretting model coefficients and their significance](https://youtu.be/hh-vX2T_n9U), (5) [Calcualting r<sup>2</sup> and adjusted r<sup>2</sup>](https://youtu.be/6TMp8LuMhFc).
 
+- **DUE 4/6.** GRAD/HONORS ASSIGNMENT, STATS REVIEW OF A PAPER [doc link](https://drive.google.com/open?id=1ZRmNRICkLxt8F4fT1A2pEqCXpMhZR00cv6XluvC-F3I). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1059206)
+
 ### Quizzes and Classwork
 
 - **DUE 3/30.** No quiz. In class, focus on questions/finish up Assessment 4. Don't need to turn anything in.
 - **DUE 4/1.** [Class 28 Quiz](https://canvas.umn.edu/courses/151855/quizzes/251582) includes classwork [doc here](https://drive.google.com/open?id=1HR5HPQUq7q4fcjgYE_A191i8eyhGILzC).
-- **DUE 4/3.**
+- **DUE 4/3.** [Class 29 Quiz](https://canvas.umn.edu/courses/151855/quizzes/252384) includes classwork.
 
 ### Slides Compilation
 
