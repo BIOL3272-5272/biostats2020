@@ -81,7 +81,7 @@ Review/Assessment 4 Questions, Regression 2 Multiple Predictors, Regression 3 In
 
 - **DUE 3/30.** Finish [Assessment 4 doc](https://docs.google.com/document/d/1KtAmO-ohj2ua-KxJN6qxT_1qV9DHnR2ohTantbwIBVQ/edit?usp=sharing) DUE 3/30. Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1049590).
 - **DUE 4/1.** [Homework 28](https://drive.google.com/open?id=170-zRwIa3jpHmfRPL34nslDyrEu0dTeH) turn it in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1059030). Based off of Ch18 of whitlock & schluter. Chapter 18 slides [here](https://drive.google.com/open?id=1bmRGMQRH95eahJ3Y_FQ7lfpELaN39PeE), and lecture [here](https://youtu.be/yZdGL7Z2Wtg).
-- **DUE 4/3.** [Homework 29 Interactions](https://drive.google.com/open?id=1Xjv9IFY9hg6-wV9vOkovnzcyT0HL2iM1). No new reading. Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1062626).
+- **DUE 4/3.** [Homework 29 Interactions](https://drive.google.com/open?id=1Xjv9IFY9hg6-wV9vOkovnzcyT0HL2iM1). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1062626). No new reading. BUT these youtube videos can help you review / think about linear models focussing on the olympic example. (1) [Intro to the data](https://youtu.be/8zMLr6_s6Gw), (2) [Calculating Type I Sums of Squares](https://youtu.be/nT5AEr2QhlA), (3) [Interpretting the anova table](https://youtu.be/_gyBeXj6QJ8), (4) [Interpretting model coefficients and their significance](https://youtu.be/hh-vX2T_n9U), (5) [Calcualting r<sup>2</sup> and adjusted r<sup>2</sup>](https://youtu.be/6TMp8LuMhFc).
 
 ### Quizzes and Classwork
 
