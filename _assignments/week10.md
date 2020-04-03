@@ -23,11 +23,15 @@ permalink: /assignments/wk-10-assignments
 
 - 3/23. TBD.     
 - 3/25. [Here](https://drive.google.com/open?id=1HR5HPQUq7q4fcjgYE_A191i8eyhGILzC)      
-- 3/27. TBD.  
+- 3/27. [Here](https://drive.google.com/file/d/1sY4QOgPFw2RGHWvOaymUwoh6cF4qklUm/view?usp=sharing).   
 
 
 ### Quizzes
 
 - 3/23. NONE.   
 - 3/25. **QUIZ:** [Class 28 Quiz](https://canvas.umn.edu/courses/151855/quizzes/251582) includes classwork.   
-- 3/27. TBD.  
+- 3/27.  [Class 29 Quiz](https://canvas.umn.edu/courses/151855/quizzes/252384) includes classwork.  
+
+
+
+
