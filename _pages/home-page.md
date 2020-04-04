@@ -12,6 +12,9 @@ redirect_from:
 
 [zoom link](https://umn.zoom.us/j/493135911)
 
+**UPDATE. April 4**. 
+[KEY TO INTERACTION CLASSWORK](https://youtu.be/MPyLBmR0sUc).   
+
 **UPDATE. April 1**. 
 I've uploaded additional resources for interpretting/thinking about general linear models - focussing on the olympic example. (1) [Intro to the data](https://youtu.be/8zMLr6_s6Gw), (2) [Calculating Type I Sums of Squares](https://youtu.be/nT5AEr2QhlA), (3) [Interpretting the anova table](https://youtu.be/_gyBeXj6QJ8), (4) [Interpretting model coefficients and their significance](https://youtu.be/hh-vX2T_n9U),  (5) [Calcualting r<sup>2</sup> and adjusted r<sup>2</sup>](https://youtu.be/6TMp8LuMhFc).      
 
