@@ -21,6 +21,7 @@ The general schedule for assignments is that there is:
 
 - [Major Assessments](#major-assessments)
 - [Midterms](#midterms)
+- [Week 11 Apr 6-10: Likelihood, Generalized Linear Models 1 and 2](#week-11-apr-6-10)
 - [Week 10 Mar 30-Apr 3: Review/PS4 Qs, Regression 2 Multiple Predictors, Regression 3 Interactions](#week-10-mar-30-apr-3)
 - [Week 9 Mar 23-27: Experimental Design 2, Correlation, and Linear Models/Review](#week-9-mar-23-27)
 - [Week 8 Mar 16-20: Review Midterm, ANOVA, and Experimental Design 1](#week-8-mar-16-20)
@@ -67,11 +68,35 @@ video key: [Answer 12](https://youtu.be/GPfzT2U8_Kc)
 
 ---
 
+## Week 11 Apr 6-10
+
+Likelihood, Generalized Linear Models 1, Generalized Linear Models 2
+
+**[Zoom link](https://umn.zoom.us/j/493135911)**
+
+GRAD/HONORS ASSIGNMENT **DUE Mon APRIL 6th.** STATS REVIEW OF A PAPER [doc link](https://drive.google.com/open?id=1ZRmNRICkLxt8F4fT1A2pEqCXpMhZR00cv6XluvC-F3I). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1059206).
+
+### Homework
+
+- **DUE 4/6.** [Homework 30 Likelihood](https://drive.google.com/file/d/1RDOFN6DyFCpluD7LoCyscgOk0GQ8VmP2/view?usp=sharing) based off of the Chapter 20 of Whitlock and Schluter, [slides](https://drive.google.com/file/d/19IbDqZIPitqnCZgM2KFAyCTIlcJWQuMT/view?usp=sharing), [lecture](https://youtu.be/3jY3yzUXf_s), and [R worked example](https://youtu.be/PRtsgCK4dMg). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1065519).
+- **DUE 4/8.**
+- **DUE 4/10.**
+
+### Quizzes and Classwork
+
+- **DUE 4/6.**
+- **DUE 4/8.**
+- **DUE 4/10.**
+
+### Slides Compilation
+
+- [Chapter 20 Likelihood (for a normal) slides](https://drive.google.com/file/d/19IbDqZIPitqnCZgM2KFAyCTIlcJWQuMT/view) and/or [Youtube video](https://youtu.be/3jY3yzUXf_s) with [R worked example](https://youtu.be/PRtsgCK4dMg)]
+
+---
+
 ## Week 10 Mar 30-Apr 3
 
 Review/Assessment 4 Questions, Regression 2 Multiple Predictors, Regression 3 Interactions
-
-**[Zoom link](https://umn.zoom.us/j/493135911)**
 
 **Major Assessment DUE:** DUE 3/30 [Assessment 4 doc](https://docs.google.com/document/d/1KtAmO-ohj2ua-KxJN6qxT_1qV9DHnR2ohTantbwIBVQ/edit?usp=sharing). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1049590)
 
