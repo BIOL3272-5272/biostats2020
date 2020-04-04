@@ -87,7 +87,7 @@ Review/Assessment 4 Questions, Regression 2 Multiple Predictors, Regression 3 In
 
 - **DUE 3/30.** No quiz. In class, focus on questions/finish up Assessment 4. Don't need to turn anything in.
 - **DUE 4/1.** [Class 28 Quiz](https://canvas.umn.edu/courses/151855/quizzes/251582) includes classwork [doc here](https://drive.google.com/open?id=1HR5HPQUq7q4fcjgYE_A191i8eyhGILzC).
-- **DUE 4/3.** [Class 29 Quiz](https://canvas.umn.edu/courses/151855/quizzes/252384) includes classwork [doc here](https://drive.google.com/file/d/1sY4QOgPFw2RGHWvOaymUwoh6cF4qklUm/view?usp=sharing).
+- **DUE 4/3.** [Class 29 Quiz](https://canvas.umn.edu/courses/151855/quizzes/252384) includes classwork [doc here](https://drive.google.com/file/d/1sY4QOgPFw2RGHWvOaymUwoh6cF4qklUm/view?usp=sharing). [CLASSWORK KEY Video](https://youtu.be/MPyLBmR0sUc).
 
 ### Slides Compilation
 
