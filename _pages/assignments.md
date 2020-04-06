@@ -79,18 +79,19 @@ GRAD/HONORS ASSIGNMENT **DUE Mon APRIL 6th.** STATS REVIEW OF A PAPER [doc link]
 ### Homework
 
 - **DUE 4/6.** [Homework 30 Likelihood](https://drive.google.com/file/d/1RDOFN6DyFCpluD7LoCyscgOk0GQ8VmP2/view?usp=sharing) based off of the Chapter 20 of Whitlock and Schluter, [slides](https://drive.google.com/file/d/19IbDqZIPitqnCZgM2KFAyCTIlcJWQuMT/view?usp=sharing), [lecture](https://youtu.be/3jY3yzUXf_s), and [R worked example](https://youtu.be/PRtsgCK4dMg). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1065519).
-- **DUE 4/8.**
+- **DUE 4/8.** UP SOON. Based on these [slides](https://drive.google.com/file/d/1VkMVKM2golhQhjL6vbyNqW8NJQNnUw4o/view?usp=sharing) and [lecture](https://youtu.be/MFBwlv8xTVo).
 - **DUE 4/10.**
 
 ### Quizzes and Classwork
 
-- **DUE 4/6.** [Class 30 Quiz](https://canvas.umn.edu/courses/151855/quizzes/253242) includes classwork.
+- **DUE 4/6.** [Class 30 Quiz](https://canvas.umn.edu/courses/151855/quizzes/253242) includes classwork [doc here](https://drive.google.com/file/d/1ZUdhC6fGBjmwmFxedmQq24yvcyTKupAW/view?usp=sharing).
 - **DUE 4/8.**
 - **DUE 4/10.**
 
 ### Slides Compilation
 
 - [Chapter 20 Likelihood (for a normal) slides](https://drive.google.com/file/d/19IbDqZIPitqnCZgM2KFAyCTIlcJWQuMT/view) and/or [Youtube video](https://youtu.be/3jY3yzUXf_s) with [R worked example](https://youtu.be/PRtsgCK4dMg)]
+- [Generalizing the linear model part I: logistic regression slides](https://drive.google.com/file/d/1VkMVKM2golhQhjL6vbyNqW8NJQNnUw4o/view?usp=sharing) and/or [Youtube video](https://youtu.be/MFBwlv8xTVo)
 
 ---
 
