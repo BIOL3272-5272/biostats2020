@@ -12,15 +12,18 @@ redirect_from:
 
 [zoom link](https://umn.zoom.us/j/493135911)
 
-**UPDATE. April 4**. 
-[KEY TO INTERACTION CLASSWORK](https://youtu.be/MPyLBmR0sUc).   
+**UPDATE. April 6**. 
 
-**UPDATE. April 1**. 
-I've uploaded additional resources for interpretting/thinking about general linear models - focussing on the olympic example. (1) [Intro to the data](https://youtu.be/8zMLr6_s6Gw), (2) [Calculating Type I Sums of Squares](https://youtu.be/nT5AEr2QhlA), (3) [Interpretting the anova table](https://youtu.be/_gyBeXj6QJ8), (4) [Interpretting model coefficients and their significance](https://youtu.be/hh-vX2T_n9U),  (5) [Calcualting r<sup>2</sup> and adjusted r<sup>2</sup>](https://youtu.be/6TMp8LuMhFc).      
+1. I've posted  the [key](https://youtu.be/BWb8BLz8jMM) for todays classwork on likelihood on likelihood [i will timestamp soon]
 
+2. Homework for weds is posted  [Homework_31](https://canvas.umn.edu/courses/151855/assignments/1069493), [note i messed up the assumptions for logistic regression, there is no need for normality of residuals.. this is in fact impossible]
 
-**UPDATE. March 31st**
-Final project described!  More details to come [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adMOR8JsYIAVTte8w0SZ4xs/edit?usp=sharing).
+3. I'll post the final major assessment shortly [due monday at 10 pm, it will be taken nearly directly from classwork].
+
+4. On monday we will work through that and have a review. On weds we will go over a brief intro to random effects and talk about our potential projects. On friday more random effects. Then we will have mondays for working on projects and the other days for going over material that will likely help many of you in your projects [aside from incorporation of the relevant remaining material into your projects [which many of you will need], there will be no major assessment or test on  material covered after this week].
+
+5. Please email me with ideas for a project, or guidance on how to get started if you have no clue [I imagine that those of you without a data source will need help getting something off the ground... if so, include your  scientific & statistical interests and what you hope to get out of the project]
+
 
 ---
 
