@@ -39,7 +39,7 @@ Slides for each week are compiled within their respective sections.
 
 ## Major Assessments
 
-**Currently Assigned:** [Major assessment 5 available](https://docs.google.com/document/d/1-SmfNPVikUTWwsOTCa3vbHax1XRxG7yzcCKeKmvlZ9Q/edit). **Due Monday at 10pm.**
+**Currently Assigned:** [Major assessment 5 available](https://docs.google.com/document/d/1-SmfNPVikUTWwsOTCa3vbHax1XRxG7yzcCKeKmvlZ9Q/edit). **Due Monday at 10pm.** Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1070632).
 
 Final project described! More details to come [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adMOR8JsYIAVTte8w0SZ4xs/edit?usp=sharing).
 
@@ -76,7 +76,7 @@ Likelihood, Generalized Linear Models 1, Generalized Linear Models 2
 
 **[Zoom link](https://umn.zoom.us/j/493135911)**
 
-**Major assessment 5 [available](https://docs.google.com/document/d/1-SmfNPVikUTWwsOTCa3vbHax1XRxG7yzcCKeKmvlZ9Q/edit). Due monday at 10pm.**
+**Major assessment 5 [available](https://docs.google.com/document/d/1-SmfNPVikUTWwsOTCa3vbHax1XRxG7yzcCKeKmvlZ9Q/edit). Due monday at 10pm.** Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1070632).
 
 GRAD/HONORS ASSIGNMENT **DUE Mon APRIL 6th.** STATS REVIEW OF A PAPER [doc link](https://drive.google.com/open?id=1ZRmNRICkLxt8F4fT1A2pEqCXpMhZR00cv6XluvC-F3I). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1059206).
 
