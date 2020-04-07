@@ -18,7 +18,8 @@ redirect_from:
 
 2. Homework for weds is posted  [Homework_31](https://canvas.umn.edu/courses/151855/assignments/1069493), [note i messed up the assumptions for logistic regression, there is no need for normality of residuals.. this is in fact impossible]
 
-3. I'll post the final major assessment shortly [due monday at 10 pm, it will be taken nearly directly from classwork].
+3. [Here's](https://docs.google.com/document/d/1-SmfNPVikUTWwsOTCa3vbHax1XRxG7yzcCKeKmvlZ9Q/edit) the final major assessment shortly [due monday at 10 pm, it will be taken nearly directly from classwork].
+
 
 4. On monday we will work through that and have a review. On weds we will go over a brief intro to random effects and talk about our potential projects. On friday more random effects. Then we will have mondays for working on projects and the other days for going over material that will likely help many of you in your projects [aside from incorporation of the relevant remaining material into your projects [which many of you will need], there will be no major assessment or test on  material covered after this week].
 
