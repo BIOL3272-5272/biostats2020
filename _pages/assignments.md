@@ -89,7 +89,7 @@ GRAD/HONORS ASSIGNMENT **DUE Mon APRIL 6th.** STATS REVIEW OF A PAPER [doc link]
 ### Quizzes and Classwork
 
 - **DUE 4/6.** [Class 30 Quiz](https://canvas.umn.edu/courses/151855/quizzes/253242) includes classwork [doc here](https://drive.google.com/file/d/1ZUdhC6fGBjmwmFxedmQq24yvcyTKupAW/view?usp=sharing). Key [here](https://youtu.be/BWb8BLz8jMM).
-- **DUE 4/8.**
+- **DUE 4/8.** [Class 31 Quiz](https://canvas.umn.edu/courses/151855/quizzes/254173) includes classwork.
 - **DUE 4/10.**
 
 ### Slides Compilation
