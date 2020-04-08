@@ -96,7 +96,7 @@ GRAD/HONORS ASSIGNMENT **DUE Mon APRIL 6th.** STATS REVIEW OF A PAPER [doc link]
 
 - [Chapter 20 Likelihood (for a normal) slides](https://drive.google.com/file/d/19IbDqZIPitqnCZgM2KFAyCTIlcJWQuMT/view) and/or [Youtube video](https://youtu.be/3jY3yzUXf_s) with [R worked example](https://youtu.be/PRtsgCK4dMg)]
 - [Generalizing the linear model part 1: logistic regression slides](https://drive.google.com/file/d/1VkMVKM2golhQhjL6vbyNqW8NJQNnUw4o/view?usp=sharing) and/or [Youtube video](https://youtu.be/MFBwlv8xTVo)
-- [Generalizing the lindear model part 2: Poisson regression slides](https://drive.google.com/file/d/1TruFWnNqHG8VmpcYeX_kGF4uy62_B9gK/view?usp=sharing) and/or [Youtube video](https://youtu.be/KmW65FHnX4k)
+- [Generalizing the linear model part 2: Poisson regression slides](https://drive.google.com/file/d/1TruFWnNqHG8VmpcYeX_kGF4uy62_B9gK/view?usp=sharing) and/or [Youtube video](https://youtu.be/KmW65FHnX4k)
 
 ---
 
