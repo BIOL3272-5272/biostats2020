@@ -12,18 +12,13 @@ redirect_from:
 
 [zoom link](https://umn.zoom.us/j/493135911)
 
-**UPDATE. April 6**. 
+**UPDATE. April 10**. 
 
-1. I've posted  the [key](https://youtu.be/BWb8BLz8jMM) for todays classwork on likelihood on likelihood [i will timestamp soon]
+1. Poisson homework posted. [Here](https://drive.google.com/file/d/1Y4tQjMuM_bdY8mr7opB_Ihm-92mVTQKm/view?usp=sharing), turn it in on [canvas](https://canvas.umn.edu/courses/151855/assignments/1072455). Based on poisson regression [slides](https://drive.google.com/file/d/1TruFWnNqHG8VmpcYeX_kGF4uy62_B9gK/view?usp=sharing) and [lecture](https://youtu.be/KmW65FHnX4k).
 
-2. Homework for weds is posted  [Homework_31](https://canvas.umn.edu/courses/151855/assignments/1069493), [note i messed up the assumptions for logistic regression, there is no need for normality of residuals.. this is in fact impossible]
+2. Key to logistic regression [homework](https://drive.google.com/open?id=1fcLvNg3N9n9wA1L4npfozI9K8LNlKbLf) and [q1](https://youtu.be/-nvIV7Hcd2w) and [q2](https://youtu.be/tdbLRuNq1Vg) of classwork.
 
-3. [Here's](https://docs.google.com/document/d/1-SmfNPVikUTWwsOTCa3vbHax1XRxG7yzcCKeKmvlZ9Q/edit) the final major assessment shortly [due monday at 10 pm, it will be taken nearly directly from classwork].
-
-
-4. On monday we will work through that and have a review. On weds we will go over a brief intro to random effects and talk about our potential projects. On friday more random effects. Then we will have mondays for working on projects and the other days for going over material that will likely help many of you in your projects [aside from incorporation of the relevant remaining material into your projects [which many of you will need], there will be no major assessment or test on  material covered after this week].
-
-5. Please email me with ideas for a project, or guidance on how to get started if you have no clue [I imagine that those of you without a data source will need help getting something off the ground... if so, include your  scientific & statistical interests and what you hope to get out of the project]
+3. Please email me with ideas for a project, or guidance on how to get started if you have no clue [I imagine that those of you without a data source will need help getting something off the ground... if so, include your  scientific & statistical interests and what you hope to get out of the project]
 
 
 ---
