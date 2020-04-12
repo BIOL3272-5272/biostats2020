@@ -89,7 +89,7 @@ Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adM
 
 ### Quizzes and Classwork
 
-- **DUE 4/13.** Work on assessmnet 5 and/or talk to yaniv about project. No quiz.
+- **DUE 4/13.** Work on assessment 5 and/or talk to yaniv about project. No quiz.
 - **DUE 4/15.**
 - **DUE 4/17.**
 
