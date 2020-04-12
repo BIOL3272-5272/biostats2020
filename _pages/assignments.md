@@ -95,7 +95,7 @@ Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adM
 
 ### Slides Compilation
 
-- *Previous classwork keys and/or R coding demos*: Setup for olympic exampel [video](https://youtu.be/8zMLr6_s6Gw),  calculating sums of squares for more than one variable [video](https://youtu.be/nT5AEr2QhlA),     interpretting linear model coefficients and their p-values [video](https://youtu.be/hh-vX2T_n9U),  interpretting r2 etc [video](https://youtu.be/6TMp8LuMhFc), likelihoods from linear models [video](https://youtu.be/PRtsgCK4dMg), interaction key [video](https://youtu.be/MPyLBmR0sUc), likelihood key [video](https://youtu.be/BWb8BLz8jMM),   logistic classwork q1 key [video](https://youtu.be/-nvIV7Hcd2w), logistic classwork q2 key [video](https://youtu.be/tdbLRuNq1Vg).
+- *Previous classwork keys and/or R coding demos*: Setup for olympic example [video](https://youtu.be/8zMLr6_s6Gw),  calculating sums of squares for more than one variable [video](https://youtu.be/nT5AEr2QhlA),     interpretting linear model coefficients and their p-values [video](https://youtu.be/hh-vX2T_n9U),  interpretting r2 etc [video](https://youtu.be/6TMp8LuMhFc), likelihoods from linear models [video](https://youtu.be/PRtsgCK4dMg), interaction key [video](https://youtu.be/MPyLBmR0sUc), likelihood key [video](https://youtu.be/BWb8BLz8jMM),   logistic classwork q1 key [video](https://youtu.be/-nvIV7Hcd2w), logistic classwork q2 key [video](https://youtu.be/tdbLRuNq1Vg).
 
 ---
 
