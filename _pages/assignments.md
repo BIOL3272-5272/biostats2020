@@ -83,7 +83,7 @@ Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adM
 
 ### Homework
 
-- **DUE 4/13.** Major assessmnet 5, Come to class with a very strong start. Due at 10 pm [doc](https://docs.google.com/document/d/1-SmfNPVikUTWwsOTCa3vbHax1XRxG7yzcCKeKmvlZ9Q/edit). [Turn in here](https://canvas.umn.edu/courses/151855/assignments/1070632). Due monday at 10pm.**
+- **DUE 4/13.** Major assessmnet 5, Come to class with a very strong start. Due at 10 pm [doc](https://docs.google.com/document/d/1-SmfNPVikUTWwsOTCa3vbHax1XRxG7yzcCKeKmvlZ9Q/edit). [Turn in here](https://canvas.umn.edu/courses/151855/assignments/1070632). **Due monday at 10pm.**
 - **DUE 4/15.** Consider final project. Exact assignment posted soon. Based on Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adMOR8JsYIAVTte8w0SZ4xs/edit?usp=sharing). Lecture [slides](https://drive.google.com/file/d/1NVRPpb0IUAcTuvk4H6__FctUBc4mAomo/view?usp=sharing) or [Youtube](https://youtu.be/9cPHKIDA-7o).  Navigating datadryad.org [lecture](https://youtu.be/weM2Man4mxI).
 - **DUE 4/17.**
 
