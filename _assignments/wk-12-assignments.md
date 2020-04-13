@@ -13,7 +13,7 @@ permalink: /assignments/wk-12-assignments
 
 
 - DUE 4/13.   Major assessment 5 [doc](https://docs.google.com/document/d/1-SmfNPVikUTWwsOTCa3vbHax1XRxG7yzcCKeKmvlZ9Q/edit). [turn in here](https://canvas.umn.edu/courses/151855/assignments/1070632). Due monday at 10pm.** Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1070632).         
-- DUE 4/15.   Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adMOR8JsYIAVTte8w0SZ4xs/edit?usp=sharing). Lecture [slides](https://drive.google.com/file/d/1NVRPpb0IUAcTuvk4H6__FctUBc4mAomo/view?usp=sharing) or [Youtube](https://youtu.be/9cPHKIDA-7o).  Navigating datadryad.org [lecture](https://youtu.be/weM2Man4mxI).       
+- DUE 4/15. Consider final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adMOR8JsYIAVTte8w0SZ4xs/edit?usp=sharing). The assignment is to compleethis  [link](https://drive.google.com/open?id=1jnW7uaCrGbEAR7HZ-yHmXCm4dqMA4rbK). Turn it in [here](https://canvas.umn.edu/courses/151855/assignments/1077487)..  Lecture [slides](https://drive.google.com/file/d/1NVRPpb0IUAcTuvk4H6__FctUBc4mAomo/view?usp=sharing) or [Youtube](https://youtu.be/9cPHKIDA-7o).  Navigating datadryad.org [lecture](https://youtu.be/weM2Man4mxI).       
 - DUE 4/17. [TBD
 
 
