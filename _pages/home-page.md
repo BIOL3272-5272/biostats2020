@@ -12,7 +12,11 @@ redirect_from:
 
 [zoom link](https://umn.zoom.us/j/493135911)
 
-**UPDATE. April 10**. 
+**UPDATE. April 12**
+
+Assessment 4 [Key](https://drive.google.com/open?id=1LM68AVWXjbz9H6D2fLTEnM0h15sBNUdT) posted.
+
+**UPDATE. April 10**.
 
 1. Poisson homework posted. [Here](https://drive.google.com/file/d/1Y4tQjMuM_bdY8mr7opB_Ihm-92mVTQKm/view?usp=sharing), turn it in on [canvas](https://canvas.umn.edu/courses/151855/assignments/1072455). Based on poisson regression [slides](https://drive.google.com/file/d/1TruFWnNqHG8VmpcYeX_kGF4uy62_B9gK/view?usp=sharing) and [lecture](https://youtu.be/KmW65FHnX4k).
 

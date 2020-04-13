@@ -46,7 +46,7 @@ Slides for each week are compiled within their respective sections.
 
 Past Major Assessments:
 
-- DUE 3/30. [Assessment 4 doc](https://docs.google.com/document/d/1KtAmO-ohj2ua-KxJN6qxT_1qV9DHnR2ohTantbwIBVQ/edit?usp=sharing). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1049590).
+- DUE 3/30. [Assessment 4 doc](https://docs.google.com/document/d/1KtAmO-ohj2ua-KxJN6qxT_1qV9DHnR2ohTantbwIBVQ/edit?usp=sharing). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1049590). [KEY here](https://drive.google.com/open?id=1LM68AVWXjbz9H6D2fLTEnM0h15sBNUdT).
 - DUE 3/4. R assessment 2 [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1021888). [doc](https://drive.google.com/open?id=1w8_kC0Jmk6iXXlyPs3uHIY1deZzpp-aL). [Key](https://drive.google.com/file/d/1dilQVJww58xlWrKeSTdUliqDtYO0TvUA/view). [Rubric](https://drive.google.com/file/d/1gha14W5S2BPbtmv8jKd5BzlADf4WOSEL/view). Turn in corrections on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1027811).
 - DUE 2/24. Stats Concept assessment. [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1013324). [doc](https://drive.google.com/open?id=1qGRnjPsVIxk78NOiV624YErK2ZA_m9Km). [Key](https://drive.google.com/open?id=1jwnY2xMVCQp66VwWXHM-CMM3zySCicSR).
 - DUE 2/14. R assessment Dealing with Data DUE 2/14, upload on Canvas and bring a printed copy to class. [LINK](https://canvas.umn.edu/courses/151855/assignments/1003199). [Key](https://drive.google.com/open?id=1s4GrqiL6vvpSJTWoMQaCK43z4znUCWaK). [Rubric](https://drive.google.com/open?id=1Nm4unFg08hAwP4x2auiBeh9ptZ15IQNv)
