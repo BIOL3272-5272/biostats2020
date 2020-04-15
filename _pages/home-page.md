@@ -10,6 +10,10 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
+FIND A TIME TO MEET WITH YANIV [if you like]. Sign up [here](https://docs.google.com/spreadsheets/d/1xwGXCqx8Zn6mfEtIHEQZBpUYV7oLrb1_ZoPmMO-pitE/edit#gid=0).      
+Sorry the times are largely late-night. 
+
+
 [zoom link](https://umn.zoom.us/j/493135911)
 
 **UPDATE. April 12**
