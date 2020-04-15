@@ -21,7 +21,7 @@ permalink: /assignments/wk-12-assignments
  
 - 4/13.  None.        
 - 4/15. Project practice [link](https://drive.google.com/open?id=1728V0DHhFW1pd_G_BT0tSpwCXX_oR298).         
-- 4/17.  
+- 4/17.  Homework 35. More project prep. [Doc here](https://drive.google.com/file/d/15L12_le5Dvop9C7HGEttBs6qwuRYsudT/view?usp=sharing), turn it in [here](https://canvas.umn.edu/courses/151855/assignments/1080747).
 
  
 ### Quizzes
