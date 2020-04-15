@@ -19,15 +19,15 @@ permalink: /assignments/wk-12-assignments
 
 ### Classwork
  
-- 4/13.       
-- 4/15.     
+- 4/13.  None.        
+- 4/15. Project practice [link](https://drive.google.com/open?id=1728V0DHhFW1pd_G_BT0tSpwCXX_oR298).         
 - 4/17.  
 
-
+ 
 ### Quizzes
 
-- 4/13.   
-- 4/15.    
+- 4/13.  None      
+- 4/15.    [here](https://canvas.umn.edu/courses/151855/quizzes/256792).       
 - 4/17.  
 
 
