@@ -16,9 +16,12 @@ Sorry the times are largely late-night.
 
 [zoom link](https://umn.zoom.us/j/493135911)
 
-**UPDATE. April 12**
+**UPDATE. April 17**
 
-Assessment 4 [Key](https://drive.google.com/open?id=1LM68AVWXjbz9H6D2fLTEnM0h15sBNUdT) posted.
+
+*Keys to today's classwork* [q1](https://youtu.be/T-n54_t8FX4), [q2](https://youtu.be/OPHH5yRh31o), [q3](https://youtu.be/yI24XOZirJ4), [q4](https://youtu.be/iQn_kxl9dC4), [q5](https://youtu.be/D-iImgM0CgQ).     
+
+*Guidence for Project Proposal.* [description](https://drive.google.com/open?id=1Qc--oYZkLdTCxWtjWPBwDYA8hu_jtudb), turn it in [here](https://canvas.umn.edu/courses/151855/assignments/1083772). 
 
 **UPDATE. April 10**.
 
