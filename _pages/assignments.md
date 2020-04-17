@@ -91,7 +91,7 @@ Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adM
 
 - **DUE 4/13.** Work on assessment 5 and/or talk to yaniv about project. No quiz.
 - **DUE 4/15.** [Class 34 Quiz](https://canvas.umn.edu/courses/151855/quizzes/256792) includes classwork on project practice [here](https://drive.google.com/open?id=1728V0DHhFW1pd_G_BT0tSpwCXX_oR298).
-- **DUE 4/17.**
+- **DUE 4/17.** [Class 35 Quiz](https://canvas.umn.edu/courses/151855/quizzes/257738) includes classwork [here](https://drive.google.com/open?id=1lu7lPNl4tfozDcrEp2A70k3je9KAhn3P).
 
 ### Slides Compilation
 
