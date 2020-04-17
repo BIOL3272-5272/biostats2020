@@ -21,7 +21,7 @@ The general schedule for assignments is that there is:
 
 - [Major Assessments](#major-assessments)
 - [Midterms](#midterms)
-- [Week 13 Apr 20-24](#week-13-apr-20-24)
+- [Week 13 Apr 20-24 Final project, mixed models, and more](#week-13-apr-20-24)
 - [Week 12 Apr 13-17: Assessment 5, Final Project, Review](#week-12-apr-13-17)
 - [Week 11 Apr 6-10: Likelihood, Generalized Linear Models 1 and 2](#week-11-apr-6-10)
 - [Week 10 Mar 30-Apr 3: Review/PS4 Qs, Regression 2 Multiple Predictors, Regression 3 Interactions](#week-10-mar-30-apr-3)
@@ -73,6 +73,8 @@ video key: [Answer 12](https://youtu.be/GPfzT2U8_Kc)
 ---
 
 ## Week 13 Apr 20-24
+
+Final project, mixed models, and more
 
 **[Zoom link](https://umn.zoom.us/j/493135911)**
 
