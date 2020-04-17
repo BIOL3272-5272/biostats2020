@@ -21,6 +21,7 @@ The general schedule for assignments is that there is:
 
 - [Major Assessments](#major-assessments)
 - [Midterms](#midterms)
+- [Week 13 Apr 20-24](#week-13-apr-20-24)
 - [Week 12 Apr 13-17: Assessment 5, Final Project, Review](#week-12-apr-13-17)
 - [Week 11 Apr 6-10: Likelihood, Generalized Linear Models 1 and 2](#week-11-apr-6-10)
 - [Week 10 Mar 30-Apr 3: Review/PS4 Qs, Regression 2 Multiple Predictors, Regression 3 Interactions](#week-10-mar-30-apr-3)
@@ -71,6 +72,28 @@ video key: [Answer 12](https://youtu.be/GPfzT2U8_Kc)
 
 ---
 
+## Week 13 Apr 20-24
+
+**[Zoom link](https://umn.zoom.us/j/493135911)**
+
+Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adMOR8JsYIAVTte8w0SZ4xs/edit?usp=sharing). Lecture [slides](https://drive.google.com/file/d/1NVRPpb0IUAcTuvk4H6__FctUBc4mAomo/view?usp=sharing) or [Youtube](https://youtu.be/9cPHKIDA-7o). Navigating datadryad.org [lecture](https://youtu.be/weM2Man4mxI).
+
+### Homework
+
+- **DUE 4/20.** Project Proposal. [description](https://drive.google.com/open?id=1Qc--oYZkLdTCxWtjWPBwDYA8hu_jtudb), turn it in [here](https://canvas.umn.edu/courses/151855/assignments/1083772).
+- **DUE 4/22.**
+- **DUE 4/24.**
+
+### Quizzes and Classwork
+
+- **DUE 4/20.**
+- **DUE 4/22.**
+- **DUE 4/24.**
+
+### Slides Compilation
+
+---
+
 ## Week 12 Apr 13-17
 
 Assessment 5, Final Project, Review
@@ -96,6 +119,7 @@ Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adM
 ### Slides Compilation
 
 - *Previous classwork keys and/or R coding demos*: Setup for olympic example [video](https://youtu.be/8zMLr6_s6Gw),  calculating sums of squares for more than one variable [video](https://youtu.be/nT5AEr2QhlA),     interpretting linear model coefficients and their p-values [video](https://youtu.be/hh-vX2T_n9U),  interpretting r2 etc [video](https://youtu.be/6TMp8LuMhFc), likelihoods from linear models [video](https://youtu.be/PRtsgCK4dMg), interaction key [video](https://youtu.be/MPyLBmR0sUc), likelihood key [video](https://youtu.be/BWb8BLz8jMM),   logistic classwork q1 key [video](https://youtu.be/-nvIV7Hcd2w), logistic classwork q2 key [video](https://youtu.be/tdbLRuNq1Vg).
+- [Final project slides](https://drive.google.com/file/d/1NVRPpb0IUAcTuvk4H6__FctUBc4mAomo/view?usp=sharing)
 
 ---
 
