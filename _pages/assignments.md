@@ -84,7 +84,7 @@ Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adM
 
 - **DUE 4/20.** Project Proposal. [description](https://drive.google.com/open?id=1Qc--oYZkLdTCxWtjWPBwDYA8hu_jtudb), turn it in [here](https://canvas.umn.edu/courses/151855/assignments/1083772).
 - **DUE 4/22.** [Homework 37](https://drive.google.com/open?id=1xF5prxyB575MQ3aBP2sMvglxxLuD7VPr). Turn it in [here](https://canvas.umn.edu/courses/151855/assignments/1087194). Material on multidimensional response variables [slides](https://drive.google.com/open?id=1oX6Svt1EtMn4VaRujpFPwPi3qOag-zGQ) and/or [video](https://youtu.be/ZHSk3lmuaec).
-- **DUE 4/24.**
+- **DUE 4/24.** [Mixed models](https://drive.google.com/file/d/1vtVmlJYyFOWt5WZQNZkqgkGBwyzp4dOn/view?usp=sharing) based on this [website](http://mfviz.com/hierarchical-models/), my [slides](https://drive.google.com/file/d/1dljpww2kdP-TACjYV_FPqlMp3jLjKYbB/view?usp=sharing) / [video](https://youtu.be/htX_J7LmyCg). Turn it in [here](https://canvas.umn.edu/courses/151855/assignments/1091044).
 
 ### Quizzes and Classwork
 
@@ -94,7 +94,8 @@ Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adM
 
 ### Slides Compilation
 
-- [Dimensionality Reduction slides](https://drive.google.com/file/d/1oX6Svt1EtMn4VaRujpFPwPi3qOag-zGQ/view?usp=sharing)
+- [Dimensionality Reduction slides](https://drive.google.com/file/d/1oX6Svt1EtMn4VaRujpFPwPi3qOag-zGQ/view?usp=sharing) and/or [video](https://youtu.be/ZHSk3lmuaec)
+- [Mixed Effect Models slides](https://drive.google.com/file/d/1dljpww2kdP-TACjYV_FPqlMp3jLjKYbB/view?usp=sharing) and/or [video](https://youtu.be/htX_J7LmyCg)
 
 ---
 
