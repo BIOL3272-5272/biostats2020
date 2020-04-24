@@ -90,7 +90,7 @@ Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adM
 
 - **DUE 4/20.** [Class 36 Quiz](https://canvas.umn.edu/courses/151855/quizzes/258412) includes work on project [classwork here](https://drive.google.com/open?id=1odBb40gGdemLs8l0MyrPhIE0thhs9e-H).
 - **DUE 4/22.** [Class 37 Quiz](https://canvas.umn.edu/courses/151855/quizzes/259296) includes classwork [here](https://drive.google.com/open?id=1Nn8aUAnozFLGYyW1owjBZRFo7s_fjusm).
-- **DUE 4/24.**
+- **DUE 4/24.** [Class 38 Quiz](https://canvas.umn.edu/courses/151855/quizzes/260141) includes classwork [here](https://drive.google.com/file/d/1xUgVHVx1pXQ_kmk9r1MwLieB6He0b8YJ/view?usp=sharing).
 
 ### Slides Compilation
 
