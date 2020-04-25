@@ -21,7 +21,8 @@ The general schedule for assignments is that there is:
 
 - [Major Assessments](#major-assessments)
 - [Midterms](#midterms)
-- [Week 13 Apr 20-24 Final project, mixed models, and more](#week-13-apr-20-24)
+- [Week 14 Apr 27-May 1: Complex count data, Bayesian analysis, and project](#week-14-apr-27-may-1)
+- [Week 13 Apr 20-24: Final project, mixed models, and more](#week-13-apr-20-24)
 - [Week 12 Apr 13-17: Assessment 5, Final Project, Review](#week-12-apr-13-17)
 - [Week 11 Apr 6-10: Likelihood, Generalized Linear Models 1 and 2](#week-11-apr-6-10)
 - [Week 10 Mar 30-Apr 3: Review/PS4 Qs, Regression 2 Multiple Predictors, Regression 3 Interactions](#week-10-mar-30-apr-3)
@@ -69,6 +70,35 @@ video key: [Answer 9](https://youtu.be/WiF6QVREdUw)
 video key: [Answer 10](https://youtu.be/XMLktjH1dbQ)
 video key: [Answer 11](https://youtu.be/R_Rk8jJoF0M)
 video key: [Answer 12](https://youtu.be/GPfzT2U8_Kc)
+
+---
+
+## Week 14 Apr 27-May 1
+
+Complex count data, Bayesian analysis, and project
+
+**[Zoom link](https://umn.zoom.us/j/493135911)**
+
+Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adMOR8JsYIAVTte8w0SZ4xs/edit?usp=sharing). Lecture [slides](https://drive.google.com/file/d/1NVRPpb0IUAcTuvk4H6__FctUBc4mAomo/view?usp=sharing) or [Youtube](https://youtu.be/9cPHKIDA-7o). Navigating datadryad.org [lecture](https://youtu.be/weM2Man4mxI).
+
+### Homework
+
+- **DUE 4/27.** Draft Project Analyses and Differential expression. [Homework 39](https://drive.google.com/open?id=1X-kn0RP-hWv2l_w_uICA4xXuRhC8LUEQ) turn it in on Canvas [here](https://canvas.umn.edu/courses/151855/assignments/1093376)
+- **DUE 4/29.**
+- **DUE 5/1.**
+
+### Quizzes and Classwork
+
+- **DUE 4/27.**
+- **DUE 4/22.**
+- **DUE 4/24.**
+
+### Slides Compilation / Resources
+
+- Resources related to complex count data / differential expression:
+  - [Chapter 8 High Throughput Count Data](http://web.stanford.edu/class/bios221/book/Chap-CountData.html) from *Modern Statistics for Modern Biology* by Susan Holmes and Wolfgang Huber
+  - [RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR](https://www.bioconductor.org/packages/devel/workflows/vignettes/RNAseq123/inst/doc/limmaWorkflow.html)
+  - [Analysing RNA-Seq data with the "DESeq" package](http://www.bioconductor.org/packages/2.8/bioc/vignettes/DESeq/inst/doc/DESeq.pdf)
 
 ---
 
