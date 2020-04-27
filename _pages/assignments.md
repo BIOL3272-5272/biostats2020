@@ -89,7 +89,7 @@ Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adM
 
 ### Quizzes and Classwork
 
-- **DUE 4/27.**
+- **DUE 4/27.** [Class 39 Quiz](https://canvas.umn.edu/courses/151855/assignments/1094842) includes classwork [here](https://drive.google.com/file/d/173F-lJIZNHy1Klnjj3P4dhBoYoFEmUz0/view?usp=sharing).
 - **DUE 4/22.**
 - **DUE 4/24.**
 
