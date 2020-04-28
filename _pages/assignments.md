@@ -84,7 +84,7 @@ Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adM
 ### Homework
 
 - **DUE 4/27.** Draft Project Analyses and Differential expression. [Homework 39](https://drive.google.com/open?id=1X-kn0RP-hWv2l_w_uICA4xXuRhC8LUEQ) turn it in on Canvas [here](https://canvas.umn.edu/courses/151855/assignments/1093376)
-- **DUE 4/29.**
+- **DUE 4/29.** [Homework 40](https://drive.google.com/file/d/1NbYocb3Q5vOvRhQ5aUYiLuWsQwMZWNfV/view?usp=sharing), based on these [slides](https://drive.google.com/file/d/1C6rMGAL5bs1bMpnA5nmtABPoR6rY9J6G/view?usp=sharing) also on [youtube](https://youtu.be/vf4oPNgd3mM). Turn it in on [Canvas](https://canvas.umn.edu/courses/151855/assignments/1096529).
 - **DUE 5/1.**
 
 ### Quizzes and Classwork
@@ -99,6 +99,7 @@ Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adM
   - [Chapter 8 High Throughput Count Data](http://web.stanford.edu/class/bios221/book/Chap-CountData.html) from *Modern Statistics for Modern Biology* by Susan Holmes and Wolfgang Huber
   - [RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR](https://www.bioconductor.org/packages/devel/workflows/vignettes/RNAseq123/inst/doc/limmaWorkflow.html)
   - [Analysing RNA-Seq data with the "DESeq" package](http://www.bioconductor.org/packages/2.8/bioc/vignettes/DESeq/inst/doc/DESeq.pdf)
+- [Bayesian Approaches slides](https://drive.google.com/file/d/1C6rMGAL5bs1bMpnA5nmtABPoR6rY9J6G/view?usp=sharing) and/or [youtube](https://youtu.be/vf4oPNgd3mM)
 
 ---
 
