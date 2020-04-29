@@ -42,12 +42,11 @@ Slides for each week are compiled within their respective sections.
 
 ## Major Assessments
 
-**Currently Assigned:** [Major assessment 5 available](https://docs.google.com/document/d/1-SmfNPVikUTWwsOTCa3vbHax1XRxG7yzcCKeKmvlZ9Q/edit). **Due Monday at 10pm.** Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1070632).
-
-**Final project** [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adMOR8JsYIAVTte8w0SZ4xs/edit?usp=sharing). Lecture [slides](https://drive.google.com/file/d/1NVRPpb0IUAcTuvk4H6__FctUBc4mAomo/view?usp=sharing) or [Youtube](https://youtu.be/9cPHKIDA-7o). Navigating datadryad.org [lecture](https://youtu.be/weM2Man4mxI).
+**Currently Assigned:** Final project. [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adMOR8JsYIAVTte8w0SZ4xs/edit?usp=sharing). Lecture [slides](https://drive.google.com/file/d/1NVRPpb0IUAcTuvk4H6__FctUBc4mAomo/view?usp=sharing) or [Youtube](https://youtu.be/9cPHKIDA-7o). Navigating datadryad.org [lecture](https://youtu.be/weM2Man4mxI).
 
 Past Major Assessments:
 
+- DUE 4/15. [Major assessment 5 available](https://docs.google.com/document/d/1-SmfNPVikUTWwsOTCa3vbHax1XRxG7yzcCKeKmvlZ9Q/edit). **Due Monday at 10pm.** Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1070632). [KEY here](https://drive.google.com/file/d/1fzM2iNshZlpkpXeB2d9XdL2EmXQHBncj/view?usp=sharing)
 - DUE 3/30. [Assessment 4 doc](https://docs.google.com/document/d/1KtAmO-ohj2ua-KxJN6qxT_1qV9DHnR2ohTantbwIBVQ/edit?usp=sharing). Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1049590). [KEY here](https://drive.google.com/open?id=1LM68AVWXjbz9H6D2fLTEnM0h15sBNUdT).
 - DUE 3/4. R assessment 2 [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1021888). [doc](https://drive.google.com/open?id=1w8_kC0Jmk6iXXlyPs3uHIY1deZzpp-aL). [Key](https://drive.google.com/file/d/1dilQVJww58xlWrKeSTdUliqDtYO0TvUA/view). [Rubric](https://drive.google.com/file/d/1gha14W5S2BPbtmv8jKd5BzlADf4WOSEL/view). Turn in corrections on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1027811).
 - DUE 2/24. Stats Concept assessment. [Canvas link](https://canvas.umn.edu/courses/151855/assignments/1013324). [doc](https://drive.google.com/open?id=1qGRnjPsVIxk78NOiV624YErK2ZA_m9Km). [Key](https://drive.google.com/open?id=1jwnY2xMVCQp66VwWXHM-CMM3zySCicSR).
