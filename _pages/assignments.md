@@ -86,11 +86,13 @@ Final project [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adM
 - **DUE 4/29.** [Homework 40](https://drive.google.com/file/d/1NbYocb3Q5vOvRhQ5aUYiLuWsQwMZWNfV/view?usp=sharing), based on these [slides](https://drive.google.com/file/d/1C6rMGAL5bs1bMpnA5nmtABPoR6rY9J6G/view?usp=sharing) also on [youtube](https://youtu.be/vf4oPNgd3mM). Turn it in on [Canvas](https://canvas.umn.edu/courses/151855/assignments/1096529).
 - **DUE 5/1.** Answer these [questions](https://drive.google.com/file/d/1DVZNEloZaqZ6arJKaYYRzVfO5xpwOrxf/view?usp=sharing) based on these [slides](https://drive.google.com/file/d/1lf6iwKkWqhxIXzWGc2Vn0te5ZSJSmZzR/view?usp=sharing) - available on [youtube](https://youtu.be/JXQQjaWEbjk). Turn it in [here](https://canvas.umn.edu/courses/151855/assignments/1099530).
 
+**DUE MONDAY** FINAL PROJECT DRAFT (guidence [here](ttps://drive.google.com/file/d/1ZE3yLIi5yXFEq4fEcvyELq-ew1IzAJEA/view?usp=sharing)) turn it in [here](https://canvas.umn.edu/courses/151855/assignments/1101591)
+
 ### Quizzes and Classwork
 
 - **DUE 4/27.** [Class 39 Quiz](https://canvas.umn.edu/courses/151855/assignments/1094842) includes classwork [here](https://drive.google.com/file/d/173F-lJIZNHy1Klnjj3P4dhBoYoFEmUz0/view?usp=sharing).
 - **DUE 4/22.** [Class 40 Quiz](https://canvas.umn.edu/courses/151855/quizzes/261826) includes classwork [here](https://drive.google.com/file/d/173F-lJIZNHy1Klnjj3P4dhBoYoFEmUz0/view?usp=sharing).
-- **DUE 4/24.**
+- **DUE 4/24.** [Class 41 Quiz](https://canvas.umn.edu/courses/151855/quizzes/262835) includes classwork [here](https://drive.google.com/file/d/1ZE3yLIi5yXFEq4fEcvyELq-ew1IzAJEA/view?usp=sharing).
 
 ### Slides Compilation / Resources
 
