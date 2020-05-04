@@ -21,6 +21,7 @@ The general schedule for assignments is that there is:
 
 - [Major Assessments](#major-assessments)
 - [Midterms](#midterms)
+- [Week 15 May 4: Project and checkout](#week-15-may-4)
 - [Week 14 Apr 27-May 1: Complex count data, Bayesian analysis, and project](#week-14-apr-27-may-1)
 - [Week 13 Apr 20-24: Final project, mixed models, and more](#week-13-apr-20-24)
 - [Week 12 Apr 13-17: Assessment 5, Final Project, Review](#week-12-apr-13-17)
@@ -69,6 +70,26 @@ video key: [Answer 9](https://youtu.be/WiF6QVREdUw)
 video key: [Answer 10](https://youtu.be/XMLktjH1dbQ)
 video key: [Answer 11](https://youtu.be/R_Rk8jJoF0M)
 video key: [Answer 12](https://youtu.be/GPfzT2U8_Kc)
+
+---
+
+## Week 15 May 4
+
+Project and checkout
+
+**[Zoom link](https://umn.zoom.us/j/493135911)**
+
+### Homework
+
+- **DUE 5/4.** FINAL PROJECT DRAFT (guidence here) turn it in [HERE](https://canvas.umn.edu/courses/151855/assignments/1101591)
+
+### Quizzes and Classwork
+
+- **DUE 5/4.** Classwork [here](https://docs.google.com/document/d/1PU46yIdJM6UFBH2AWnWNM5yE1JIKIBdSJ5cBVzsMMWw/edit?usp=sharing).
+
+### Slides Compilation / Resources
+
+- [Last class slides](https://drive.google.com/file/d/1yRiQE1DB5NDOVjxZ7UGD7AaXj_1kHOda/view?usp=sharing)
 
 ---
 
