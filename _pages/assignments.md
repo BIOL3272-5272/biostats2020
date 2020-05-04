@@ -85,7 +85,7 @@ Project and checkout
 
 ### Quizzes and Classwork
 
-- **DUE 5/4.** Classwork [here](https://docs.google.com/document/d/1PU46yIdJM6UFBH2AWnWNM5yE1JIKIBdSJ5cBVzsMMWw/edit?usp=sharing).
+- **DUE 5/4.** Classwork [here](https://docs.google.com/document/d/1PU46yIdJM6UFBH2AWnWNM5yE1JIKIBdSJ5cBVzsMMWw/edit?usp=sharing). Turn it in [here](https://canvas.umn.edu/courses/151855/quizzes/263540) (this is the quiz).
 
 ### Slides Compilation / Resources
 
