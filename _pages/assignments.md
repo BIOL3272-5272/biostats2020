@@ -45,6 +45,8 @@ Slides for each week are compiled within their respective sections.
 
 **Currently Assigned:** Final project. [link](https://docs.google.com/document/d/1_0GlIpWuovQzB__iWQI1adMOR8JsYIAVTte8w0SZ4xs/edit?usp=sharing). Lecture [slides](https://drive.google.com/file/d/1NVRPpb0IUAcTuvk4H6__FctUBc4mAomo/view?usp=sharing) or [Youtube](https://youtu.be/9cPHKIDA-7o). Navigating datadryad.org [lecture](https://youtu.be/weM2Man4mxI).
 
+**DUE 5/15.** Final project written product. **Turn in on Canvas** [here](https://canvas.umn.edu/courses/151855/assignments/1106602)
+
 Past Major Assessments:
 
 - DUE 4/15. [Major assessment 5 available](https://docs.google.com/document/d/1-SmfNPVikUTWwsOTCa3vbHax1XRxG7yzcCKeKmvlZ9Q/edit). **Due Monday at 10pm.** Turn in on [Canvas here](https://canvas.umn.edu/courses/151855/assignments/1070632). [KEY here](https://drive.google.com/file/d/1fzM2iNshZlpkpXeB2d9XdL2EmXQHBncj/view?usp=sharing)
@@ -81,7 +83,7 @@ Project and checkout
 
 ### Homework
 
-- **DUE 5/4.** FINAL PROJECT DRAFT (guidence [here](ttps://drive.google.com/file/d/1ZE3yLIi5yXFEq4fEcvyELq-ew1IzAJEA/view?usp=sharing)) turn it in [HERE](https://canvas.umn.edu/courses/151855/assignments/1101591)
+- **DUE 5/4.** FINAL PROJECT DRAFT (guidence [here](ttps://drive.google.com/file/d/1ZE3yLIi5yXFEq4fEcvyELq-ew1IzAJEA/view?usp=sharing)) turn it in [HERE](https://canvas.umn.edu/courses/151855/assignments/1101591).
 
 ### Quizzes and Classwork
 
