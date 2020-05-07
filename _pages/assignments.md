@@ -83,6 +83,8 @@ Project and checkout
 
 ### Homework
 
+- **DUE 5/15.** Final project written product. **Turn in on Canvas** [here](https://canvas.umn.edu/courses/151855/assignments/1106602)
+
 - **DUE 5/4.** FINAL PROJECT DRAFT (guidence [here](ttps://drive.google.com/file/d/1ZE3yLIi5yXFEq4fEcvyELq-ew1IzAJEA/view?usp=sharing)) turn it in [HERE](https://canvas.umn.edu/courses/151855/assignments/1101591).
 
 ### Quizzes and Classwork
