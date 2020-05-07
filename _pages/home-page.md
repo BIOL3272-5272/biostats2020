@@ -10,6 +10,10 @@ redirect_from:
 
 <!-- This is the front page (home page) of the website -->
 
+**UPDATE. May 7**
+
+**DUE 5/15.** Final project written product. **Turn in on Canvas** [here](https://canvas.umn.edu/courses/151855/assignments/1106602)
+
 FIND A TIME TO MEET WITH YANIV [if you like]. Sign up [here](https://docs.google.com/spreadsheets/d/1xwGXCqx8Zn6mfEtIHEQZBpUYV7oLrb1_ZoPmMO-pitE/edit#gid=0).
 Sorry the times are largely late-night.
 
